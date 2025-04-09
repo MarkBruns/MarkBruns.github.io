@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Overcoming The #MeToo Hype For Easy Buttons -- Stop Worshipping Wondertech"
-date:   2025-03-10 00:00:01
+date:   2024-11-10 00:00:01
 categories: holyhour
 ---
 

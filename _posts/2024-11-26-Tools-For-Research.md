@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tools Using AI To Make Academic Research Accessible"
-date:   2025-03-26 00:00:01
+date:   2024-11-26 00:00:01
 categories: Tools
 ---
 

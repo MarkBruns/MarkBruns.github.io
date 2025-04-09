@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Knowledge Systems, Health-Optimized Creativity, Discipleship"
-date:   2025-02-23 00:00:01
+date:   2025-01-01 00:00:01
 categories: holyhour
 ---
 
