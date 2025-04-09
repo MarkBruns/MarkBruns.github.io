@@ -5,9 +5,9 @@ date:   2025-04-09 4:00:01
 categories: jail
 ---
 
-# Questions to Ponder For Prison Ministry.
+# Questions For Me to Ponder About Prison Ministry
 
-This is mostly about *attempting* to ***walk in the light*** ... on the path to the finding truth, on the path to JOY ... J O Y comes from putting Jesus First, living in gratitude and giving all of the glory for all blessing to God ... THEN it's about respecting and loving OTHERS as we respect and love ourselves ... which mean that EGO has to take the back seat ... *because when you insist on making it all about you, then you get to stay in your prison -- that's Y.*
+This is mostly about *attempting* to ***walk in the light*** ... on the path to the finding truth, on the path to JOY ... J O Y comes from putting Jesus First, living in gratitude and giving all of the glory for all blessing to God ... THEN it's about respecting and loving OTHERS as we respect and love ourselves ... which mean that YOU and your EGO have to take the back seat ... *because when you insist on making it all about you, then you get to stay in your prison* ... that's the path to J O Y ... Jesus, Others, You.
 
 ## REDEMPTION AND FORGIVENESS
 
