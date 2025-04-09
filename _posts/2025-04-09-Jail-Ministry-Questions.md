@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Questions to Ponder For Prison Ministry ... the path to JOY ... Jesus First, Then Others, Then You"
+title:  "The PATH to JOY ... Jesus First, Then Others, Then You"
 date:   2025-04-09 4:00:01
 categories: jail
 ---
 
-# Questions to Ponder For Prison Ministry ... the path to JOY ... Jesus First, Then Others, Then You
+# Questions to Ponder For Prison Ministry.
 
-*These questions are designed for both ministers and those being ministered to in prison settings. Each question is supported by two Bible verses and a quote from classical literature or philosophy, focusing on putting Jesus first, others second, and self last.*
+This is mostly about *attempting* to ***walk in the light*** ... on the path to the finding truth, on the path to JOY ... J O Y comes from putting Jesus First, living in gratitude and giving all of the glory for all blessing to God ... THEN it's about respecting and loving OTHERS as we respect and love ourselves ... which mean that EGO has to take the back seat ... *because when you insist on making it all about you, then you get to stay in your prison -- that's Y.*
 
 ## REDEMPTION AND FORGIVENESS
 
