@@ -95,6 +95,14 @@
 		{
 			"name": "onboarding",
 			"path": "../../onboarding"
+		},
+		{
+			"name": "GitFartler",
+			"path": "../../GitFartler"
+		},
+		{
+			"name": "FARTSlive.github.io",
+			"path": "../../FARTSlive.github.io"
 		}
 	],
 	"settings": {}
