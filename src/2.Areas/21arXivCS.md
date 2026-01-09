@@ -2,6 +2,9 @@
 
 Everything BUT AI 
 
+*NOTE: The [primary functionality of our mdBook will built on the foundation of AlphaXiv](https://www.alphaxiv.org/blog/one-year); it's important to attempt to stay current with what entities such as [AlphaXiv](https://www.alphaxiv.org/), [arXivLabs](https://info.arxiv.org/labs/showcase.html), [AI2](https://allenai.org/) [Asta](https://asta.allen.ai/discover), [Cohere Platform](https://docs.cohere.com/docs/the-cohere-platform), [Together AI](https://support.together.ai/), [Akash decentralized cloud](https://akash.network/docs/architecture/overview/), [ML Collective](https://mlcollective.org/), [DecodingBio content and discussion](https://www.decodingbio.com/reports) and similar others might offer.*
+
+
 cs.AR | Hardware Architecture | Covers systems organization and hardware architecture. Roughly includes material in ACM Subject Classes C.0, C.1, and C.5. The focus is on the design and evaluation of computer hardware components and systems. |
 
 cs.CC | Computational Complexity | Covers models of computation, complexity classes, structural complexity, complexity tradeoffs, upper and lower bounds. Roughly includes material in ACM Subject Classes F.1 (computation by abstract devices), F.2.3 (tradeoffs among complexity measures), and F.4.3 (formal languages), although some material in formal languages may be more appropriate for Logic in Computer Science. Some material in F.2.1 and F.2.2, may also be appropriate here, but is more likely to have Computational Geometry as the primary subject area. |

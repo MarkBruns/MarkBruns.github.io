@@ -1,4 +1,4 @@
-# [4. Nutrition and Gardening](https://ancientguy.github.io/4.html)
+# [Nutrition and Gardening](https://ancientguy.github.io/4.html)
 
 #### A Contemplative Framework for Physical and Spiritual Nourishment
 

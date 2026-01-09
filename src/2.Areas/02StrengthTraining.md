@@ -1,4 +1,4 @@
-# [2. Strength Training](https://ancientguy.github.io/2.html)
+# [Strength Training](https://ancientguy.github.io/2.html)
 
 #### A Contemplative Framework for Disciplined Development
 

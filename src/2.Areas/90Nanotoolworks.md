@@ -10,7 +10,9 @@ Division of a topic are bound to be arbitrary, but we could divide nanotoolworks
 4. Nanoelectronics
 5. Nanophotonics
 6. Nanobiotechnology
-7. Nanomaterials
+
+7. Nanomaterials ... as with jigs and fixtures for human scale materials, we look for ways of working with materials that have unusual properties at nanoscale, possibly with interesting [electronic band structures](https://en.wikipedia.org/wiki/Electronic_band_structure) which affect electron transport in the manner of [Dirac cones](https://en.wikipedia.org/wiki/Dirac_cone) ... it's necessary to understand these properties in order to find an edge or a difference, exploiting the property of interest to sort or workhold the material
+
 8. **Nanosensors**
 9. Nanofluidics
 10.  Nanomagnetics

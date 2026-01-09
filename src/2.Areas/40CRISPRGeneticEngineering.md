@@ -1,5 +1,7 @@
 # Gene Editing, Cell Therapies and Genetic Engineering  
 
+*NOTE: The [primary functionality of our mdBook will built on the foundation of AlphaXiv](https://www.alphaxiv.org/blog/one-year); it's important to attempt to stay current with what entities such as [AlphaXiv](https://www.alphaxiv.org/), [arXivLabs](https://info.arxiv.org/labs/showcase.html), [AI2](https://allenai.org/) [Asta](https://asta.allen.ai/discover), [Cohere Platform](https://docs.cohere.com/docs/the-cohere-platform), [Together AI](https://support.together.ai/), [Akash decentralized cloud](https://akash.network/docs/architecture/overview/), [ML Collective](https://mlcollective.org/), [DecodingBio content and discussion](https://www.decodingbio.com/reports) and similar others might offer.*
+
 *It might be worth noting that MOST of the reason behind our interest in genetic engineering is Extremophile Engineering ... for lifeforms that convert radiation into chemical energy [like plants] or directly into compute or even knowledge.*
 
 Gene editing and regenerative medicine involve CRISPR techniques, stem cell therapies, and organ printing to repair and enhance biological functions. Synthesizing ethics, advances, and epigenetic interventions for health optimization. Deserving immediate attention because clinical trials are underway, offering cures for genetic diseases. Study can accelerate personalized medicine, extending healthy lifespans and reducing healthcare burdens.

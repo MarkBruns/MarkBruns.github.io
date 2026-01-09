@@ -1,4 +1,4 @@
-# [5. Developing Intelligence](https://ancientguy.github.io/5.html)
+# [Developing Intelligence](https://ancientguy.github.io/5.html)
 
 #### A Contemplative Framework for Intellectual and Spiritual Growth
 

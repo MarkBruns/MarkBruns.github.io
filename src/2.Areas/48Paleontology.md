@@ -1,5 +1,7 @@
 # **Paleontology**  
 
+*NOTE: The [primary functionality of our mdBook will built on the foundation of AlphaXiv](https://www.alphaxiv.org/blog/one-year); it's important to attempt to stay current with what entities such as [AlphaXiv](https://www.alphaxiv.org/), [arXivLabs](https://info.arxiv.org/labs/showcase.html), [AI2](https://allenai.org/) [Asta](https://asta.allen.ai/discover), [Cohere Platform](https://docs.cohere.com/docs/the-cohere-platform), [Together AI](https://support.together.ai/), [Akash decentralized cloud](https://akash.network/docs/architecture/overview/), [ML Collective](https://mlcollective.org/), [DecodingBio content and discussion](https://www.decodingbio.com/reports) and similar others might offer.*
+
 [Paleontology](https://www.biorxiv.org/collection/paleontology) studies ancient life through fossils, reconstructing evolutionary history, extinctions, and paleoecologies. It combines geology, biology, and climatology to analyze morphological and molecular evidence. Findings inform biodiversity patterns, climate change impacts, and life's origins.
 
 See also [paleorXiv](https://osf.io/preprints/paleorxiv) ... an archive for paleontology preprints powered by [OSF Prprints](https://help.osf.io/article/686-preprint-services)

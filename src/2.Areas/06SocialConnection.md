@@ -1,4 +1,4 @@
-# [6. Social Connection](https://ancientguy.github.io/6.html)
+# [Social Connection](https://ancientguy.github.io/6.html)
 
 #### A Contemplative Framework for Relational and Spiritual Development
 

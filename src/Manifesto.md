@@ -1,55 +1,256 @@
-# Engineer Yourself
+*Maybe you just want to start by reading some of the notes on our thinking captured in [the daily journal](Journal.md).* The point of opening the kimono with the full journal is err on the side  of being more open, more transparent ... so that others can avoid the mistakes or learn from the mistakes that I have made.
 
-*Success is not solely about hard work and the diligency of showing up every day to just bang away fixing the same old shit.*  
+# Preamble 
 
-## **Personal Knowledge Engineering (PKE) Systems ... A Manifesto**
+**I believe that I have had or made a better life for myself than anyone else ... it's not through my efforts, in fact, I don't really see that ANY human has earned a spectacular life ... I have experienced a spectacular life because I have been blessed, ie I am just flat out LUCKY! I am not really that impressed by human beings, either individuals or the totality of the human experience ... in contrast, humans take far, far too much for granted and fail to adequately convey a life filled with gratitude coupled with appreciation of the blessings around us. Gratitude is perhaps the most important thing that human can do.**
 
-SUCCESS is about having one's eyes on the horizon RATHER THAN THE REAR VIEW MIRROW ... coming up with a credible knowledge-based [rather than tool-based or equipment-based] plan for adaptability in the future ... and that means working harder, in a disciplined manner, up front preparing that plan, developing the tools and systems, like PKE systems, to have FLEXIBLE **SYSTEMS THINKING** in place before the trouble ever shows up ... not just to dig a well before one is thirsty, but to have the knowledge and capacity to engineer well-drilling systems when well-drilling systems are needed ... at its core, PKE is really about intelligently understanding systems and working in the development of knowledge-based systems for future needs, it's NOT personal knowledge management (PKM) -- which is important, but about the management of collections notes, ideas, plans, artifacts, references -- PKE is more forward-thinking, ie thinking about the development of future systems. 
+As an exercise in gratitude journaling, I have STARTED trying to write an autobiographical journal which is something of a personal manifesto ... or maybe the pre-cursor to an obituary ... not in a actual formal document [other than this] but fundamentally it's more about just thinking, working out the ideas and themes of one's obituary is basically kind of what life is. My Life is defined by what I have found to give my life MEANING.
 
-***This means that we need tools and technology for NEW INTELLIGENCE,*** for *intelligence and knowledge that hasn't come into existence yet.*  
+It is probably wrong to say that I have ***found*** these thing to be true ... I did not do the *finding* ... the things that give my life meaning have been SHOWN to me by the Lord rather than something I have found on my own ... my way of saying what I believe to be what the Lord has shown me is something like the following:
 
-Doing this is about systems that have the capacity to gather much more intelligence and knowledge than we currently do. It's also about making the attempts to apply the knowledge that our intelligence gathering ops have obtained more efficient and rapid. PKE is in the system of applying the knowledge and testing assumptions; PKE is about our methodology and thinking that we use to identify causal relationships and validate their veracity in order to utilize shortcuts to overcome challenges and free up time for pursuing ***larger*** goals ... *and, if we love doing this the LARGER goal or reward will be that we get to improve the PKE implementation*! 
+1) I have never found any satisfaction in copying anyone else, in spite of the fact that I have been surrounded by fantastic examples that were very much worthy of imitation. I was created to be UNIQUELY me, but I don't claim to know what being me really is ... with the most profound humility, I must claim that I have to walk with the Lord in order to find my own unique way. Of course, this means that my path is not generally going to be about following any crowd, going to church or doing something simply because it is what everyone else is doing.
 
-This Manifesto attempts to give [an overview](#the-100-day-personal-knowledge-engineering-curriculum-overview) of the primary goals of the 100 modules in our 100-day project to level up our game in PKE systems, as well as outline the core principles of PKE systems and to explain something about what the measures of success will be for this project.  You could say that this 100-module plan is really about **implementing** something akin Marcus du Sautoy's "Thinking Better: The Art of the Shortcut" because a big part of it is a celebration of how mathematical and statistical thinking helps us to solve problems more efficiently in everyday life, in producing anything, in design. 
+2) I don't find ANY meaning whatsoever in material things ... NONE ... being a minimalist does not mean that I don't need to eat or that I don't appreciate shelter or utilities ... of course, these things are blessings to be grateful for ... but I do not find any meaning whatsoever in ownership or from the things I have accumulated. Material things are a BURDEN to me, something that I am obligate to take care of and only rarely a fleeting blessing.
 
-People might get sidetracked by the fact that du Sautoy's a mathematician, but ***this is most definitely not JUST mathematics***, although mathematics is invaluable for implementing the art of the elegant, stable equilibrium solution. It really about understanding systems in order to find elegant and efficient solutions to complex problems by recognizing patterns and developing general algorithms ... rather than band-aids or cobbled-up, likely to fail fixes. Elegance is about solutions that stay fixed or heal and get better over time.
+3) I am a structuralist or team member or tribalist when it comes to social matters, ie not focused on me, but focused on the *good of the order* ...I DETEST ever worrying my feelings or some individual's feelings when it comes to relationships ... which means that I am APERSONAL, I detest ego-driven manipulations; instead care about the structure of relationships rather my feelings or individual interactions ... this means that personal relationshps don't really STICK for me. I just don't find much meaning in the individual interaction part relationships; most often, trying to figure out individual relationships has proven to be a distraction from my own path. This includes professional colleagues, friends, family relationships. I do not mean that I don't love my family, but I have found that I must try to make the overall goal, rather than worry about feelings AND I must walk my own path, and the path with my Lord generally does not include much time for worrying about whether my family, friends, colleagues *LIKE* me.
 
-It is worth emphasizing that elegant thinking "shortcuts" are NOT at all about taking unethical or lazy approaches, but rather about developing a deeper understanding of problems to find more intelligent and clever ways to navigate them. The whole point of developing and using more advanced personal knowledge engineering (PKE) systems is not for PKE itself [although THAT is the goal of the 100 module plan] but to understand systems and genuinely "think better." Getting past the bandaid or likely-to-just-break-down-and-fail-again fix is about adopting not just a mindset but an entire PKE arsenal that allows one to understand, seek out and leverage the more clever solutions, recognizing that efficiency and deeper understanding can lead to more fulfilling and impactful achievements.
+It would be silly or stupid for me to claim to have this worked out yet, even though I am now plenty old to have thought about it enough.  Of course, I MOST CERTAINTLY do not claim that anyone else should agree with my views about life for their life ... but these are the kinds of principles that I have found to ring true for me ... and I am trying to live it out as best I can.
 
-## Primary Goals
+---
+Here are 100 alternative ways to refer to a pre-mortem reflection—or self-authored summary of one's life purpose, failures, values, and ongoing pursuits ... crafted while still alive as a proactive outline that might answer the question, "What was I trying to do and how I wished I had done things differently?" OR "What would I tell my ten-year-old self about implementing a strategy for life?"
 
-- The core objective is progressive, to advance beyond the transition from the passive practice of *Personal Knowledge Management (PKM)* and make PKM note-gather more the mere collection of random notes and notetaking apps ... ***TOWARD*** ... a more actively evolving or extensible, disciplined system of AI-assisted ***Personal Knowledge Engineering (PKE)*** ... which presents all kind of opportunities that enhance our capacity to contribute to significant work in extensible open-source technologies. 
-- Fostering meaningful new professional connections and friendships across different disciplines in virtual venues [where people would not otherwise meet in the halls of the departments or R&D labs of their corporations]; the general goal of AI-assisted PKM and PKE is to accelerate the continuous learning and development processes, to spark new creative work, and, most importantly, to meet new friends by sharing this journey of building PKE technology to accelerate the continuous learning process in public 
-- As we learn more, we will attempt to better transform atomic notes, likely collected in simple MarkDown files used for this **mdBook** knowledgebase, from a static archive or just an online *book* into a more dynamic, programmable publishing AI engine, ready for sharing, collaboration, querying and other advanced augmentation with AI extensiions ... but in order to do this, we must articulating and embody the goals and principles of a systematic PKE framework to accelerate our own autodidactic education ... which is key in understanding the details of research in new systems at the forefront of technological innovation in various disciplines.
+---
+There are different names for this autobigraphical memoir or pre-written obituary or will:
+
+1. Personal Manifesto  
+2. Ethical Will  
+3. Life Review Document  
+4. Legacy Letter  
+5. Premortem Reflection  
+6. Living Legacy Statement  
+7. Self-Written Obituary  
+8. Advance Obituary  
+9. Proactive Life Summary  
+10. Intentional Legacy Outline  
+11. My Life's Mission Statement  
+12. Ongoing Legacy Sketch  
+13. Pre-Death Reflection  
+14. Vital Legacy Declaration  
+15. Autobiographical Testament  
+16. Life Purpose Manifesto  
+17. Enduring Values Letter  
+18. Personal Life Retrospective  
+19. Future-Focused Eulogy  
+20. Self-Authored Epitaph  
+21. Living Will of Wisdom  
+22. Legacy Blueprint  
+23. Life Story Declaration  
+24. Premortem Autobiography  
+25. Active Legacy Narrative  
+26. Personal Heritage Statement  
+27. Life's Work Summary  
+28. Intentional Life Testament  
+29. Pre-Final Reflection  
+30. Values and Vision Letter  
+31. Self-Crafted Memorial  
+32. Ongoing Life Eulogy  
+33. Personal Impact Statement  
+34. Life Journey Manifesto  
+35. Proactive Epitaph Draft  
+36. Living Testament  
+37. Legacy in Progress  
+38. Self-Reflective Obituary  
+39. Life's Core Narrative  
+40. Premature Life Review  
+41. Personal Wisdom Will  
+42. End-of-Life Preview (Proactive)  
+43. Life Legacy Draft  
+44. Autobiographical Legacy  
+45. Mission and Memory Statement  
+46. Pre-Mortem Legacy Note  
+47. Living Obituary  
+48. Self-Penned Tribute  
+49. Life's Unfinished Symphony  
+50. Personal Reflection Archive  
+51. Values Legacy Document  
+52. Proactive Reminiscence  
+53. Life's Strategic Summary  
+54. Intentional Autobiography  
+55. Ongoing Purpose Statement  
+56. Self-Directed Eulogy  
+57. Legacy Planning Reflection  
+58. Life's Essence Declaration  
+59. Premortem Personal Summary  
+60. Active Life Testament  
+61. Personal Life Ledger  
+62. Future Legacy Outline  
+63. Self-Authored Life Story  
+64. Wisdom Transmission Letter  
+65. Living Memory Manifesto  
+66. Pre-Death Life Sketch  
+67. Personal Achievement Reflection  
+68. Ongoing Impact Statement  
+69. Life's Guiding Manifesto  
+70. Proactive Heritage Note  
+71. Self-Written Life Tribute  
+72. Legacy Vision Document  
+73. Personal Mortality Meditation  
+74. Life Purpose Legacy  
+75. Intentional Reflection Piece  
+76. Pre-Final Life Narrative  
+77. Values in Action Statement  
+78. Self-Crafted Life Review  
+79. Ongoing Wisdom Legacy  
+80. Personal Journey Testament  
+81. Premortem Values Outline  
+82. Living Purpose Declaration  
+83. Life's Proactive Postscript  
+84. Self-Reflective Legacy  
+85. Mission Continuity Statement  
+86. Personal Life Capstone  
+87. Advance Life Celebration  
+88. Legacy Intention Letter  
+89. Self-Penned Reflection  
+90. Life's Ongoing Epitome  
+91. Proactive Wisdom Share  
+92. Personal Legacy Manifesto  
+93. Pre-Mortem Mission Review  
+94. Living Values Testament  
+95. Self-Authored Journey Summary  
+96. Intentional Legacy Sketch  
+97. Life's Forward-Looking Eulogy  
+98. Personal Premortem Narrative  
+99. Ongoing Life Declaration  
+100. Vital Legacy Manifesto
+---
 
 
-## Core principles
+# My Obituary Is Still In Progress: It Is An Attempt to Sketch and Then Actualize 10 Principles for a Life Defined by Meaning
 
-- **There's always going to be someone, somewhere who developing a better feature** ... not necessarily a better system, but a compelling feature to understand and appraise. We want to be aware of what's happening with shiny new features, but we want to understand whether or not they represent generally better system. The [Rust programming language](https://doc.rust-lang.org/book/)'s core feature, for example, is in its ownership and borrowing system, enforced by the RustLang borrow checker at compile time resulting in greater safety and simplicity in code, while retaining the speed of C language. The Modular Platform, with Mojo, Max, and the MLIR compiler framework, offers a different approach, particularly focused on high-performance AI development and leveraging advancements in compiler technology. [Mojo, inspired by Rust](https://www.modular.com/blog/mojo-vs-rust) and built on a next-generation MLIR compiler framework, aims to provide even higher levels of performance, particularly for AI applications, outperforming Rust in certain scenarios, like DNA parsing, through features like [eager destruction](https://users.rust-lang.org/t/emulating-eagerly-dropping-of-values/103171), efficient [Single Instruction, Multiple Data](https://en.wikipedia.org/wiki/Single_instruction,_multiple_data) (SIMD) ergonomics, and advanced compiler optimizations. *We love the RustLang system and developer ecosystem, ie RustLang is why this book uses [mdBook](https://rust-lang.github.io/mdBook/) ... but over time, we might find that we like Mojo and the Modular platform even more.*
-- The **extensibility of open source enables its key feature, the strengthening and deepening of the interaction in the development community** surrounding an open source project. One learns most, best, fastest by attempting to teach others and trying to understand their learning process. People will fail to understand, fail to adopt, fail to use because the technology is inheritly failure prone, but our intention must be to learn from failure -- in fact, the principle must be to ***fail fast, in order to learn faster.*** Everything in this curriculum is an experiment intended push envelopes in order to court failure. 
-- [**Dogfooding new technology](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) is the best way to learn how to develop new technology** and to meet people who are also serious about this objective.
-- This **100-day plan adopts a ***documenation-first*** direct-to-book methodology**, which means that instead of developing a better private note-taking app [because so many others are doing that](./nested/001_2.md), our focus is on this 100-day plan as the central artifact presented as a living, version-controlled technical book, built with [**mdBook**.](https://medium.com/@airabbitX/my-journey-with-gitbook-and-mdbook-navigating-documentation-tools-5d653f76d58f). [mdBook's key selling point](https://rust-lang.github.io/mdBook/) is its speed, safety, and simplicity, its integrated search support and focus on atomic Markdown-based, locally controlled documentation, particularly for technical projects and for getting involved int the [Rust programming language](https://doc.rust-lang.org/book/) and it [growing developer ecosystem](https://medium.com/@datajournal/is-rust-still-surging-in-2025-49bfc6d1ce5d). 
-- We are attempting to build something cyclonic, which means that it's ok to spin it up slow somewhere in the hinterlands in total isolation, but **maintaining rotational inertia has to matter, ie the PKE system has to be built to feed back useful knowledge to help PKE developers dev the PKE system** ... at first, we get the flywheel moving, then maybe try to spin the flywheel a little faster ... but even when we struggle, we stay at it and keep the flywheel spinning every day.
-- **Reuse, adapt, polish, master FIRST, rather than inventing your own.** Instead of rolling our own that's just so or spending money on something with extra features, we will rely upon the GitHub **Discussion** and **Issue** and **Project** functionality, fully exploiting GitHub's ongoing GitHub Projects [along with Discussions and Issues] because these things are sufficient and an adaptable collection of pages, presenting your data, which you can view as a table, a kanban board, or a roadmap and that stays up-to-date with GitHub data. Your GitHub projects can track issues, pull requests, and ideas that you note down AND ... they can, of course, be linked to our own .md pages ... AND anybody else in the world that finds our material useful also has full access to everything GitHub puts out there.
+**I have STARTED trying to BE my obituary of course ... living out the ideas and themes of one's obituary is basically what life is.** My Life is defined by *what I have found* to give my life MEANING ... it is wrong to say that **I** have *found* this; primarily the things that give my life meaning have been SHOWN to me by the Lord rather than something I have found on my own. The process of living is the process of discovering—through:
 
-## Success Metrics
+- **Humility** — to admit I don't fully know who I am
+- **Submission** — to walk with the Lord rather than charting my own course
+- **Detachment** — to release the burden of things and entanglements
+- **Solitude** — to hear the still, small voice above the noise of crowds
 
-- At first, it's simple -- just a matter about completing today's module, while looking forward 10-20 days ahead to see how the work in this Phase sets up the next Phase ... then completing the Phase, looking at full horizon of all 100-days ahead ... thus, generally, not just looking ahead, but updating and revising the 100-module strategic curriculum, and maybe going back and correcting what should have been included in earlier modules ... with a long-term view, informed by the daily experience of showing up, rather than on temporary impatience or whim ... in other words, success of PKE system is not exactly just about how it helps only one highly experienced multi-disciplinary systems engineer, although that's enough ... hopefully, the process will help engineering new opportunities to dogfood something of greater value for others.
+ 
 
-- The primary focus is on this PKE development journey of being much more seriously intentional about the technology of autodidactic learning and  dogfooding the technology in order to continually learn better ways to learn and **meet new colleagues who share that desire to accelerate learning**. The whole point of open source PKE technologies assembled and developed during this journey serving goes beyond the enabling toolkit, but actually uses the process of dogfooding the PKE as well as a means of meeting more colleagues and making new friendships with people who enjoy the journey of continual learning.
+---
 
-- Whether one is successful in the development of PKE technology will be tough to measure until after the PKE technology has been used, adopted, improved. Success along the way is a matter of just showing up every day to keep the flywheel spinning. The rotational inertia of developing the PKE technology necessarily must be transitted through the larger roadmap and staying focused on that larger picture [which will change as the PKE technology is built]. 
+## 1. The Uniqueness Imperative
 
+**I was not created to copy anyone else. I was created to be UNIQUELY me—but discovering what that means requires walking with the Lord, not following the crowd.**
 
-### **The 100-Day Personal Knowledge Engineering Curriculum Overview**
+> *"I praise you, for I am fearfully and wonderfully made. Wonderful are your works; my soul knows it very well."*  
+> — [**Psalm 139:14**](https://www.bibleref.com/Psalms/139/Psalm-139-14.html)
 
-| Phase | Module Range | Core Objective | Key Deliverables |
-| :---- | :---- | :---- | :---- |
-| [**Phase 1: Foundation & Systems Architecture**](1.md) | Modules 1-20 | To design and build the core infrastructure of the PKES around a publication-first, mdBook-centric workflow. | A fully configured mdBook project serving as a "personal library"; automated content pipelines; a public-facing professional identity hub. |
-| [**Phase 2: Horizon Scanning & Deep Learning**](2.md) | Modules 21-50 | To systematically identify, compare, and learn emerging technologies relevant to personal and professional goals through hands-on, failure-tolerant projects documented as book chapters. | An automated tech-trend dashboard; deep-dive projects in selected domains (e.g., Generative AI, Neuromorphic Computing); refreshed mathematical foundations. |
-| [**Phase 3: Creation & Contribution**](3.md) | Modules 51-80 | To translate learned knowledge into tangible public artifacts and contribute to the open-source community, using creation as a vehicle for connection. | Multiple open-source project contributions; a portfolio of projects on GitHub; published models on Hugging Face; a series of technical tutorials published in the book. |
-| [**Phase 4: Connection & Synthesis**](4.md) | Modules 81-100 | To leverage the published book and other artifacts for networking, establish thought leadership, and synthesize career experience into high-value knowledge products that foster community. | A targeted networking strategy; a personal CRM built as an mdBook extension; a plan for an online tech discussion group; tools for tracking professional opportunities. |
+I am not really about copying anyone else; I was created to be UNIQUELY me, but I don't claim to know what being me really is. With the most profound humility, I must claim that I have to walk with the Lord in order to find my own unique way. Of course, this means that my path is not generally going to be about following any crowd, going to church or doing something simply because it is what everyone else is doing. David recognized that God's creative work in each person is distinct and purposeful. No two souls are identical, and no one else can fulfill the calling God has placed on my life. To copy others is to reject the unique masterpiece God intended me to be. The crowd offers safety in numbers but poverty of purpose. The path with God is often solitary, often misunderstood, but it is the only path that leads to becoming who I was truly made to be. *"I praise you, for I am fearfully and wonderfully made."*
 
-## **Conclusion**
+---
 
-This 100-module curriculum provides a rigorous and systematic pathway for an experienced engineer to build a Personal Knowledge Engineering System centered on the principles of autodidacticism and community. By progressing through the four phases—Foundation, Learning, Creation, and Connection—the engineer will not only acquire skills in the most important modern technologies but will also construct a sustainable, integrated system for continuous professional growth and friendship. The emphasis on rapid, failure-tolerant experimentation, open-source contribution, and value-driven networking is designed to combat the sense of being overwhelmed by providing a clear, actionable framework. The final deliverable is more than a collection of notes and projects; it is a fully operational flywheel that transforms a lifetime of experience into a source of ongoing learning, discoverability, and meaningful connection within the global technology community.
+## 2. The Revelation Principle
+
+**Meaning is not discovered by searching; it is SHOWN by the Lord. What gives life purpose is revealed, not invented.**
+
+> *"Before I formed you in the womb I knew you, and before you were born I consecrated you."*  
+> — [**Jeremiah 1:5**](https://www.bibleref.com/Jeremiah/1/Jeremiah-1-5.html)
+
+It is perhaps wrong to say that I have *found* what gives my life meaning; primarily the things that give my life meaning have been SHOWN to me by the Lord rather than something I have found on my own. This distinction matters profoundly. The self-help industry promises that meaning can be manufactured through goal-setting, vision boards, and positive thinking. But genuine purpose is not a human construction—it is a divine revelation. God knew me before I existed. He consecrated me—set me apart—before my first breath. My task is not to invent meaning but to receive it, not to create purpose but to discover what was already embedded in my design. This posture of receptivity requires humility that the modern world finds almost incomprehensible. We are taught to seize, to achieve, to make our own way. But the soul formed for eternity can only find its purpose from the One who formed it. *"Before I formed you in the womb I knew you."*
+
+---
+
+## 3. The Humble Uncertainty
+
+**I don't claim to know what being me really is. Walking with the Lord is the only way to find my own unique way.**
+
+> *"Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths."*  
+> — [**Proverbs 3:5-6**](https://www.bibleref.com/Proverbs/3/Proverbs-3-5.html)
+
+With the most profound humility, I must claim that I have to walk with the Lord in order to find my own unique way. This admission feels like weakness in a culture that celebrates self-knowledge and self-actualization. "Know thyself," the ancient philosophers commanded. But what if the self is too deep, too mysterious, too entangled with eternal purposes to be known apart from its Creator? I do not fully understand myself. I cannot see around the corners of my own soul. My understanding is limited by my finitude, distorted by my fallen nature, and insufficient for the task of navigating eternity. But the Lord sees. He knows. He guides. To lean on my own understanding is to trust a flickering candle in a vast darkness. To trust the Lord is to follow the One who *is* light. The paths He makes straight are not always the paths I would have chosen—but they are the paths that lead home. *"Trust in the Lord with all your heart, and do not lean on your own understanding."*
+
+---
+
+## 4. The Anti-Conformity Calling
+
+**My path is not about following any crowd, going to church, or doing something simply because everyone else is doing it.**
+
+> *"For am I now seeking the approval of man, or of God? Or am I trying to please man? If I were still trying to please man, I would not be a servant of Christ."*  
+> — [**Galatians 1:10**](https://www.bibleref.com/Galatians/1/Galatians-1-10.html)
+
+My path is not generally going to be about following any crowd, going to church or doing something simply because it is what everyone else is doing. This sounds like rebellion, but it is actually the deepest form of obedience. Paul understood that serving Christ and pleasing people are often mutually exclusive pursuits. The crowd has its own logic, its own momentum, its own destinations—and they are rarely God's destinations. Even religious crowds can miss the mark. Church attendance, ritual observance, social conformity to Christian culture—none of these are substitutes for the solitary walk with God. The prophets were rarely popular. Jesus was crucified by consensus. The saints throughout history have often stood alone against the tides of their time. To follow God is to be willing to be misunderstood, marginalized, and out of step with the age. The approval of man is a cheap currency; the approval of God is the only treasure that endures. *"If I were still trying to please man, I would not be a servant of Christ."*
+
+---
+
+## 5. The Material Emptiness
+
+**I don't find ANY meaning whatsoever in material things—NONE. Being a minimalist means recognizing that ownership is a burden, not a blessing.**
+
+> *"Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal, but lay up for yourselves treasures in heaven."*  
+> — [**Matthew 6:19-20**](https://www.bibleref.com/Matthew/6/Matthew-6-19.html)
+
+I don't find ANY meaning whatsoever in material things ... NONE. Being a minimalist does not mean that I don't need to eat or that I don't appreciate shelter or utilities—of course, these things are blessings to be grateful for—but I do not find any meaning whatsoever in ownership or from the things I have accumulated. Material things are a BURDEN to me, something that I am obligated to take care of and only rarely a fleeting blessing. Jesus was explicit: earthly treasures are temporary, vulnerable, and ultimately worthless as sources of meaning. Moths devour, rust corrodes, thieves steal. Every possession requires maintenance, storage, insurance, attention. The more you own, the more owns you. Minimalism is not an aesthetic preference or a lifestyle trend—it is a spiritual recognition that stuff cannot satisfy the soul. The pursuit of possessions is a detour from the pursuit of God. Those who find meaning in accumulation are building on sand. The only treasures worth laying up are those that transcend decay and theft—treasures stored in heaven, where neither moth nor rust can reach. *"Lay up for yourselves treasures in heaven."*
+
+---
+
+## 6. The Contentment Economy
+
+**Godliness with contentment is great gain. Food, clothing, shelter—these are blessings, not sources of meaning.**
+
+> *"But godliness with contentment is great gain, for we brought nothing into the world, and we cannot take anything out of the world. But if we have food and clothing, with these we will be content."*  
+> — [**1 Timothy 6:6-8**](https://www.bibleref.com/1-Timothy/6/1-Timothy-6-6.html)
+
+Being a minimalist does not mean that I don't need to eat or that I don't appreciate shelter or utilities—of course, these things are blessings to be grateful for. Paul's economy is radically different from the world's. In the world's economy, gain is measured in accumulation. In God's economy, gain is measured in godliness plus contentment. The equation is complete with food and clothing. Everything beyond basic provision is bonus, not necessity. We entered the world with nothing; we will exit with nothing. The interval between is an opportunity to pursue what matters—not the endless expansion of our material footprint. Contentment is not settling for less; it is recognizing that *more* is often *less* when it comes to spiritual vitality. The person who needs little is wealthy indeed, for their security rests not in barns and portfolios but in the God who provides daily bread. Gratitude for basic blessings is the foundation of contentment; contentment is the foundation of freedom. *"If we have food and clothing, with these we will be content."*
+
+---
+
+## 7. The Burden of Ownership
+
+**Material things are a BURDEN—something I am obligated to take care of and only rarely a fleeting blessing.**
+
+> *"For where your treasure is, there your heart will be also."*  
+> — [**Luke 12:34**](https://www.bibleref.com/Luke/12/Luke-12-34.html)
+
+Material things are a BURDEN to me, something that I am obligated to take care of and only rarely a fleeting blessing. Every possession demands attention. The house requires maintenance. The car needs repairs. The clothes must be washed, sorted, stored. The gadgets become obsolete and require replacement. Each item in our lives is a claim on our time, energy, and mental bandwidth. The heart follows the treasure—this is Jesus' diagnosis of the human condition. Where we invest our resources, there our attention fixates. Those who accumulate much find their hearts fragmented across a thousand possessions, a thousand concerns, a thousand anxieties about protection and preservation. But the person who travels light can fix their heart on a single treasure: the kingdom of God. Ownership feels like freedom but often functions as bondage. The minimalist discovers a paradox: in releasing the burden of things, the soul finds room to breathe, to pray, to attend to what actually matters. *"For where your treasure is, there your heart will be also."*
+
+---
+
+## 8. The Relational Paradox
+
+**I don't find much meaning in relationships either; most often, relationships have proven to be a distraction from my own path.**
+
+> *"Whoever loves father or mother more than me is not worthy of me, and whoever loves son or daughter more than me is not worthy of me."*  
+> — [**Matthew 10:37**](https://www.bibleref.com/Matthew/10/Matthew-10-37.html)
+
+I don't find much meaning in relationships either; most often, relationships have proven to be a distraction from my own path. This includes family relationships. This confession sounds harsh in a culture that idolizes family and friendship as the highest goods. But Jesus Himself made clear that following Him might require prioritizing the divine relationship over human ones. This is not about hating family—Scripture commands us to honor parents and love one another. It is about ordering loves correctly. When human relationships compete with the call of God, when family expectations conflict with divine purpose, when social bonds would pull us from the narrow path, we must choose. The person called to a solitary walk with God may find that many relationships, however precious, function as distractions from their unique calling. This is not a universal prescription—many are called to deep community. But for some, the path requires a certain holy solitude that others cannot understand or enter. *"Whoever loves father or mother more than me is not worthy of me."*
+
+---
+
+## 9. The Solitary Path
+
+**I must walk my own path, and the path with my Lord generally does not include my family. This is love properly ordered, not love abandoned.**
+
+> *"If anyone comes to me and does not hate his own father and mother and wife and children and brothers and sisters, yes, and even his own life, he cannot be my disciple."*  
+> — [**Luke 14:26**](https://www.bibleref.com/Luke/14/Luke-14-26.html)
+
+I do not mean that I don't love my family, but I have found that I must walk my own path, and the path with my Lord generally does not include my family. Jesus' language here is deliberately shocking—"hate" in the Semitic idiom means to love less by comparison. The point is not emotional rejection but hierarchical ordering. God must come first, and "first" means that everything else—including the most sacred human bonds—must take second place. Some are called to serve God *through* family; others are called to serve God *despite* family resistance or incomprehension. The monastic tradition understood this: sometimes following Christ requires leaving behind even good things for the sake of the one necessary thing. This is not abandonment but properly ordered love. I can love my family truly while recognizing that my deepest walk is one they cannot share. The path with the Lord is ultimately solitary—no one else can walk it for me, and not everyone can walk it with me. *"He cannot be my disciple."*
+
+---
+
+## 10. The Unfinished Obituary
+
+**My obituary is still in progress. Working out its ideas and themes is basically what life is—a continuous discovery of meaning revealed by the Lord.**
+
+> *"For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them."*  
+> — [**Ephesians 2:10**](https://www.bibleref.com/Ephesians/2/Ephesians-2-10.html)
+
+I have STARTED trying to write it of course ... working out the ideas and themes of one's obituary is basically what life is. The obituary cannot be finished because the life is not finished. Each day adds new lines to the story, new chapters to the narrative that only God can see in full. Paul calls us God's "workmanship"—the Greek word is *poiema*, from which we get "poem." We are God's poem, His artistic creation, shaped for purposes He determined before we drew breath. The good works were prepared beforehand; our task is to walk in them, to discover them day by day, to live into the meaning that was always there waiting. The obituary will one day be complete—but not by my hand. The final draft belongs to the One who began the work and will bring it to completion. Until then, I live in the tension of the unfinished, the not-yet-revealed, the still-being-written. Life is the working out; death is the final punctuation. Until that day, the pen remains in motion. *"For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand."*
+
+---
+
+## Summary
+
+*My obituary is still in progress because my life is still being written—not by my own hand, but by the Lord who knew me before I was formed and consecrated me before I was born.*
+
+> *"Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths."*  
+> — [**Proverbs 3:5-6**](https://www.bibleref.com/Proverbs/3/Proverbs-3-5.html)

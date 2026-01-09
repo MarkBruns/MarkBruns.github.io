@@ -1,4 +1,4 @@
-# [9. Hydration, Circulation, and Energy Flow](https://ancientguy.github.io/9.html)
+# [Hydration, Circulation, and Energy Flow](https://ancientguy.github.io/9.html)
 
 #### A Contemplative Framework for Fluid Dynamics and Spiritual Vitality
 

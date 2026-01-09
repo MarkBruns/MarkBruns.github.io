@@ -1,4 +1,4 @@
-# [3. Cardiovascular Training](https://ancientguy.github.io/3.html)
+# [Cardiovascular Training](https://ancientguy.github.io/3.html)
 
 #### A Contemplative Framework for Heart and Spirit Development
 

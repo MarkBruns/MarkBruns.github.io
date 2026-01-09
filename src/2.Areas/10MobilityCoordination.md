@@ -1,4 +1,4 @@
-# [10. Mobility, Flexibility, Balance and Coordination](https://ancientguy.github.io/10.html)
+# [Mobility, Flexibility, Balance and Coordination](https://ancientguy.github.io/10.html)
 
 #### A Contemplative Framework for Movement and Spiritual Vitality
 

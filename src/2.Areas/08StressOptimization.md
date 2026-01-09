@@ -1,4 +1,4 @@
-# [8. Stress Optimization](https://ancientguy.github.io/8.html)
+# [Stress Optimization](https://ancientguy.github.io/8.html)
 
 #### A Contemplative Framework for Pressure Management and Spiritual Resilience
 

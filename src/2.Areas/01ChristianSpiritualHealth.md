@@ -1,4 +1,4 @@
-# [1. Christian Spiritual Health](https://ancientguy.github.io/1.html)
+# [Christian Spiritual Health](https://ancientguy.github.io/1.html)
 
 #### A Contemplative Framework for Self-Development
 

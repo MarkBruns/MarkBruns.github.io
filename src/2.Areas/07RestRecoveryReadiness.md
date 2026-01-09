@@ -1,4 +1,4 @@
-# [7. Rest, Recovery, and Readiness for Service](https://ancientguy.github.io/7.html)
+# [Rest, Recovery, and Readiness for Service](https://ancientguy.github.io/7.html)
 
 #### A Contemplative Framework for Sacred Rest and Renewal
 
