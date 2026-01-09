@@ -1,4 +1,4 @@
-*Maybe you just want to start by reading some of the notes on our thinking captured in [the daily journal](Journal.md).* The point of opening the kimono with the full journal is err on the side  of being more open, more transparent ... so that others can avoid the mistakes or learn from the mistakes that I have made.
+*Maybe you just want to start by reading some of the notes on my thinking captured in [the daily journal](Journal.md).* The point of opening the kimono with the full journal is err on the side  of being more open, more transparent ... so that others can avoid the mistakes or learn from the mistakes that I have made.
 
 # Preamble 
 
