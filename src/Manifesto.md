@@ -4,11 +4,7 @@
 
 **I believe that I have had or made a better life for myself than anyone else ... it's not through my efforts, in fact, I don't really see that ANY human has earned a spectacular life ... I have experienced a spectacular life because I have been blessed, ie I am just flat out LUCKY! I am not really that impressed by human beings, either individuals or the totality of the human experience ... in contrast, humans take far, far too much for granted and fail to adequately convey a life filled with gratitude coupled with appreciation of the blessings around us. Gratitude is perhaps the most important thing that human can do.**
 
-As an exercise in gratitude journaling, I have STARTED trying to write an autobiographical journal which is something of a personal manifesto ... or maybe the pre-cursor to an obituary ... not in a actual formal document [other than this] but fundamentally it's more about just thinking, working out the ideas and themes of one's obituary is basically kind of what life is. My Life is defined by what I have found to give my life MEANING.
-
-It is probably wrong to say that I have ***found*** these thing to be true ... I did not do the *finding* ... the things that give my life meaning have been SHOWN to me by the Lord rather than something I have found on my own ... my way of saying what I believe to be what the Lord has shown me is something like the following [in no particular order of importance]:
-
-1) I have never found any satisfaction in copying anyone else, in spite of the fact that I have been surrounded by fantastic examples that were very much worthy of imitation. I was created to be UNIQUELY me, but I don't claim to know what being me really is ... with the most profound humility, I must claim that I have to walk with the Lord in order to find my own unique way. Of course, this means that my path is not generally going to be about following any crowd, going to church or doing something simply because it is what everyone else is doing.
+1) I have never found any real or lasting satisfaction in copying anyone else, in spite of the fact that I have been surrounded by fantastic examples that were very much worthy of imitation. As with each of us, I was created to be UNIQUELY me ... we are not created to copy, but explore what we were created to be.  Of course, I cannot begin to claim to know what *being me* really is ... with the most profound humility, I must claim that I have to walk with the Lord in order to find my own unique way. Of course, this means that my path is not generally going to be about following any crowd, going to church or doing something simply because it is what everyone else is doing.
 
 2) I don't find ANY meaning whatsoever in material things ... NONE ... being a minimalist does not mean that I don't need to eat or that I don't appreciate shelter or utilities ... of course, these things are blessings to be grateful for ... but I do not find any meaning whatsoever in ownership or from the things I have accumulated. Material things are a BURDEN to me, something that I am obligate to take care of and only rarely a fleeting blessing.
 
@@ -19,124 +15,15 @@ It is probably wrong to say that I have ***found*** these thing to be true ... I
 It would be silly or stupid for me to claim to have this worked out yet, even though I am now plenty old to have thought about it enough.  Of course, I MOST CERTAINTLY do not claim that anyone else should agree with my views about life for their life ... but these are the kinds of principles that I have found to ring true for me ... and I am trying to live it out as best I can.
 
 ---
-Here are 100 alternative ways to refer to a pre-mortem reflection—or self-authored summary of one's life purpose, failures, values, and ongoing pursuits ... crafted while still alive as a proactive outline that might answer the question, "What was I trying to do and how I wished I had done things differently?" OR "What would I tell my ten-year-old self about implementing a strategy for life?"
 
----
-There are different names for this autobigraphical memoir or pre-written obituary or will:
+The process of living is the process of discovering—through:
 
-1. Personal Manifesto  
-2. Ethical Will  
-3. Life Review Document  
-4. Legacy Letter  
-5. Premortem Reflection  
-6. Living Legacy Statement  
-7. Self-Written Obituary  
-8. Advance Obituary  
-9. Proactive Life Summary  
-10. Intentional Legacy Outline  
-11. My Life's Mission Statement  
-12. Ongoing Legacy Sketch  
-13. Pre-Death Reflection  
-14. Vital Legacy Declaration  
-15. Autobiographical Testament  
-16. Life Purpose Manifesto  
-17. Enduring Values Letter  
-18. Personal Life Retrospective  
-19. Future-Focused Eulogy  
-20. Self-Authored Epitaph  
-21. Living Will of Wisdom  
-22. Legacy Blueprint  
-23. Life Story Declaration  
-24. Premortem Autobiography  
-25. Active Legacy Narrative  
-26. Personal Heritage Statement  
-27. Life's Work Summary  
-28. Intentional Life Testament  
-29. Pre-Final Reflection  
-30. Values and Vision Letter  
-31. Self-Crafted Memorial  
-32. Ongoing Life Eulogy  
-33. Personal Impact Statement  
-34. Life Journey Manifesto  
-35. Proactive Epitaph Draft  
-36. Living Testament  
-37. Legacy in Progress  
-38. Self-Reflective Obituary  
-39. Life's Core Narrative  
-40. Premature Life Review  
-41. Personal Wisdom Will  
-42. End-of-Life Preview (Proactive)  
-43. Life Legacy Draft  
-44. Autobiographical Legacy  
-45. Mission and Memory Statement  
-46. Pre-Mortem Legacy Note  
-47. Living Obituary  
-48. Self-Penned Tribute  
-49. Life's Unfinished Symphony  
-50. Personal Reflection Archive  
-51. Values Legacy Document  
-52. Proactive Reminiscence  
-53. Life's Strategic Summary  
-54. Intentional Autobiography  
-55. Ongoing Purpose Statement  
-56. Self-Directed Eulogy  
-57. Legacy Planning Reflection  
-58. Life's Essence Declaration  
-59. Premortem Personal Summary  
-60. Active Life Testament  
-61. Personal Life Ledger  
-62. Future Legacy Outline  
-63. Self-Authored Life Story  
-64. Wisdom Transmission Letter  
-65. Living Memory Manifesto  
-66. Pre-Death Life Sketch  
-67. Personal Achievement Reflection  
-68. Ongoing Impact Statement  
-69. Life's Guiding Manifesto  
-70. Proactive Heritage Note  
-71. Self-Written Life Tribute  
-72. Legacy Vision Document  
-73. Personal Mortality Meditation  
-74. Life Purpose Legacy  
-75. Intentional Reflection Piece  
-76. Pre-Final Life Narrative  
-77. Values in Action Statement  
-78. Self-Crafted Life Review  
-79. Ongoing Wisdom Legacy  
-80. Personal Journey Testament  
-81. Premortem Values Outline  
-82. Living Purpose Declaration  
-83. Life's Proactive Postscript  
-84. Self-Reflective Legacy  
-85. Mission Continuity Statement  
-86. Personal Life Capstone  
-87. Advance Life Celebration  
-88. Legacy Intention Letter  
-89. Self-Penned Reflection  
-90. Life's Ongoing Epitome  
-91. Proactive Wisdom Share  
-92. Personal Legacy Manifesto  
-93. Pre-Mortem Mission Review  
-94. Living Values Testament  
-95. Self-Authored Journey Summary  
-96. Intentional Legacy Sketch  
-97. Life's Forward-Looking Eulogy  
-98. Personal Premortem Narrative  
-99. Ongoing Life Declaration  
-100. Vital Legacy Manifesto
----
-
-
-# My Obituary Is Still In Progress: It Is An Attempt to Sketch and Then Actualize 10 Principles for a Life Defined by Meaning
-
-**I have STARTED trying to BE my obituary of course ... living out the ideas and themes of one's obituary is basically what life is.** My Life is defined by *what I have found* to give my life MEANING ... it is wrong to say that **I** have *found* this; primarily the things that give my life meaning have been SHOWN to me by the Lord rather than something I have found on my own. The process of living is the process of discovering—through:
-
-- **Humility** — to admit I don't fully know who I am
+- **Humility** — not only am I not God, I must acknowledge that I don't even really know who I am
 - **Submission** — to walk with the Lord rather than charting my own course
 - **Detachment** — to release the burden of things and entanglements
 - **Solitude** — to hear the still, small voice above the noise of crowds
 
- 
+What follows are 100 alternative ways to refer to a pre-mortem reflection—or self-authored summary of one's life purpose, failures, values, and ongoing pursuits ... crafted while still alive as a proactive outline that might answer the question, "Not so much about what was I trying to do, but really it's a matter knowing what I know now, how should I have wished to have approached things differently?" OR "What would I tell my much younger self about the importance of asking more questions and being less certain of what I know in order to implement a strategy for life?"
 
 ---
 
