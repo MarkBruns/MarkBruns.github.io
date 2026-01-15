@@ -1,6 +1,6 @@
 # Summary
 
-- [Program Yourself](Manifesto.md)
+- [Advice to ME](Manifesto.md)
 
 - [What's The Big Idea Behind PKM?](BigPicture.md)
 
