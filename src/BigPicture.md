@@ -1,4 +1,16 @@
-### Why are trying to accomplish with developing this PKM OR how are we trying to improve our personal knowledge management toolchain?
+1. Your Big Why reflects what you have internalized and manifested as your life.
+
+2. Define the Big Why as well as full Ishikawa of the “why” your messaging.
+
+3. Distill, focus and simplify this structure into as few words as possible.
+
+4. Review, revise, refactor and update your social profiles / landing pages.
+
+5. Continually repeat steps 1-3; your Big Why must deepen, evolve and GROW.
+
+---
+
+### Why are trying to accomplish with developing this Personal Knowledge Management (PKM) OR how are we trying to improve our personal knowledge management toolchain?
 
 ***Continuous Self-Improvement***
 

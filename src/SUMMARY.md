@@ -1,12 +1,12 @@
 # Summary
 
-- [Advice to ME](Manifesto.md)
+- [Advice to MYSELF](Manifesto.md)
 
-- [What's The Big Idea Behind PKM?](BigPicture.md)
+- [The FULL Ishikawa PKM](BigPicture.md)
 
 - [Journal of this PKM Process](Journal.md)
 
-- [Methodology](nested/Roadmap.md)
+- [PKM Methodology](nested/Roadmap.md)
   - [PARA Architecture](nested/Architecture.md)
     - [Projects](./1.Projects/Template.md)
       - [Christian Spiritual Health](./1.Projects/staging/01ChristianSpiritualHealth.md)
