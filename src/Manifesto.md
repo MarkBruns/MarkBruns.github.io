@@ -1,4 +1,8 @@
-*Maybe you just want to start by reading some of the notes on my thinking captured in [the daily journal](Journal.md).* The point of opening the kimono with the full journal is err on the side  of being more open, more transparent ... so that others can avoid the mistakes or learn from the mistakes that I have made.
+*Maybe you just want to start by reading some of the notes on my thinking captured in [the daily journal](Journal.md) of my Personal Knowledge Management (PKM) processes.* 
+
+The point of discussing these processes in public or *opening the kimono* with the full journal of shaping my conscious thought is err on the side of being more open, more transparent ... so that others can avoid the mistakes I have made or even learn from the mistakes that I am making ... knowledge is entirely about feedback loops, testing hypotheses and developing a point-of view ... for the most part, AI is only a tool to help with keeping track of the threads or generating hundreds of things to provoke contemplation. 
+
+Simply following the crowd, acquiring toys to compare one's pile of toys with the best of the toy acquirers is much like PASSIVELY consuming content OR being a mere spectator OR being nothing but tourist following the crowd of tourists ... that kind of activity is fine, but it is not actually about **being alive** -- the ACTIVE conscious life is primariliy a matter of CONSCIOUS CONTEMPLATION.
 
 # Preamble 
 
