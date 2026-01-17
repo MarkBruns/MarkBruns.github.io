@@ -5,16 +5,11 @@ foam_template:
 ---
 # ${FOAM_DATE_YEAR}-${FOAM_DATE_MONTH}-${FOAM_DATE_DATE}
 
-> you probably want to delete these instructions as you customize your template
+Give me your annotated list of the best 100 different prediction market alternatives, that are are available right now or are being developed, possibly pending legislation or administrative approval before launch.  For each item on your list, give me four bullet points that discuss the particularly compelling value proposition of the technology for users, the price point or qualifications for access, as well as the reasons why the concept is possibly not actually compelling or worthy of attention by all users, and a URL for the best landing page or explanatory page of the concept mentioned per this item in your list of 100.
 
-Welcome to your new daily note template.
-The file is located in `.foam/templates/daily-note.md`.
-The text in this file will be used as the content of your daily note.
-You can customize it as you like, and you can use the following variables in the template:
-- `${FOAM_DATE_YEAR}`: The year of the date
-- `${FOAM_DATE_MONTH}`: The month of the date
-- `${FOAM_DATE_DATE}`: The day of the date
-- `${FOAM_TITLE}`: The title of the note
+Give me your annotated list of the best 100 different eyewear / brain-computer-interface technologies, eg Conversate contextural AI to give audio and visual information about something projected on the screen, that are are available right now.  For each item on your list, give me four bullet points that discuss the value proposition of the technology, the price point, the reasons why the product is not actually worth the $ and a URL for the best landing page of the tech mentioned in your item.
+
+Give me your annotated list of the most exciting 100 papers in the last year in multi-fractal stochastic Ito calculus as a core methodology or framework.
 
 Go to https://github.com/foambubble/foam/blob/main/docs/user/features/daily-notes.md for more details.
 For more complex templates, including Javascript dynamic templates, see https://github.com/foambubble/foam/blob/main/docs/user/features/note-templates.md.

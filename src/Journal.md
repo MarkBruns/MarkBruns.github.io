@@ -1,5 +1,6 @@
 ## Daily Journal Notes
 
+* [Not JUST Polymarket: 100 Prediction Market Alternatives](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2026-01-17.md)
 * [Neurotech/BCI is the Next Big Migration Zone](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2026-01-15.md)
 * [The Scriptural Phenomenology of Self-Transcendence](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2026-01-14.md)
 * [Explore a Radical Constraint Architectures](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2026-01-09.md)
