@@ -1,5 +1,7 @@
 ## Daily Journal Notes
 
+* [Review of Causal Discovery and Inference (2024–2026)](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2026-01-20.md)
+* [Top 100 List: Causal Frontiers 2024–2026](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2026-01-19.md)
 * [Not JUST Polymarket: 100 Prediction Market Alternatives](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2026-01-17.md)
 * [Neurotech/BCI is the Next Big Migration Zone](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2026-01-15.md)
 * [The Scriptural Phenomenology of Self-Transcendence](https://github.com/MelonCave/meloncave.github.io/blob/main/journal/2026-01-14.md)
