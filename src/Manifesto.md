@@ -908,9 +908,9 @@ The greatest expression of CREATIVE love is the ability to trust completely in t
 
 ---
 
-## 93. The Presence in the Present
+## 93. Presence in the Present Hunt
 
-**The past is beyond reach; the future is not yet. Only the present moment is the venue for faithfulness.**
+**Be STILL and HUNT. Memories of past will come to you; the future on the distant horizon will be here soon enough, but only the present moment is the venue for faithfulness.**
 
 > *"Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble."*  
 > — [**Matthew 6:34**](https://www.bibleref.com/Matthew/6/Matthew-6-34.html)
