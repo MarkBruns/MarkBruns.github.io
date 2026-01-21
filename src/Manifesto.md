@@ -980,10 +980,10 @@ The greatest expression of CREATIVE love is the ability to trust completely in t
 
 ## Summary
 
-*My obituary is still in progress because my life is still being written—not by my own hand, but by the Lord who knew me before I was formed and consecrated me before I was born.*
+*God is able to "perfect" His people, when they choose to trust Him and allow themselves to be shaped by His grace. My obituary is still in progress because my life is still being written—not by my own hand, but by the Lord who knew me before I was formed and consecrated me before I was born.*
 
-> *"Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths."*  
+> *"Trust in the Lord with ALL your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths."*  
 > — [**Proverbs 3:5-6**](https://www.bibleref.com/Proverbs/3/Proverbs-3-5.html)
 
-> *"He who calls you is faithful; he will surely do it."*  
+> *"He who calls you is faithful; the Creator who made you will perfect you."*  
 > — [**1 Thessalonians 5:24**](https://www.bibleref.com/1-Thessalonians/5/1-Thessalonians-5-24.html)
