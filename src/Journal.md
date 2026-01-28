@@ -1,5 +1,6 @@
 ## Daily Journal Notes
 
+* ["'MINNESOTA'" is the ancient Viking expression for "'NUT MAGNET'"](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-01-28.md)
 * [The Minnesota Political Heritage](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-01-27.md)
 * [The Genealogy of Cause](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-01-22.md)
 * [Review of Causal Discovery and Inference (2024–2026)](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-01-20.md)
