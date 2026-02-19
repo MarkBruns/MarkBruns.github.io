@@ -12,7 +12,7 @@ AI is ONLY a tool. It's not the magic SINGUALITY  ... nor is artificial intellig
 
 ### Build Your Own Intelligence Service. Find Your Own Opportunities. Make YOURSELF Useful. Direct Yours Tools Carefully.
 
-What follows is the gist of the architecture for how approximately to do this ... there are a lot of details to fill in AND this might include unintentional errors ... you have to be responsible for your own tools ... but do NEVER limit your thinking to your own tools ... consider things like[IronClaw, an OpenClaw-inspired implementation in RustLang for all the reasons we like RustLang, but focused on privacy and security](https://github.com/juntao/ironclaw).
+What follows is the gist of the architecture for how approximately to do this ... there are a lot of details to fill in AND this might include unintentional errors ... you have to be responsible for your own tools ... but do NEVER limit your thinking to your own tools ... consider things like [IronClaw, an OpenClaw-inspired implementation in RustLang for all the reasons we like RustLang, but focused on privacy and security](https://github.com/juntao/ironclaw).
 
 Seek first to UNDERSTAND ... internalize core philosophical points, perhaps refactor them, make the tool your own. 
 
