@@ -1,5 +1,6 @@
 ## Daily Journal Notes
 
+* [Opportunity Intelligence for the AI Age](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-02-19.md)
 * [Systemic Vulnerabilities in xAI’s Grok Ecosystem](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-02-13.md)
 * [The Heritage of Bruno Brunelleschi: A Tale of Big Domes](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-01-31.md)
 * ["'MINNESOTA'" is the ancient Viking expression for "'NUT MAGNET'"](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-01-29.md)
