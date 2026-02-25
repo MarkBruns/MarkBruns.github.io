@@ -1,9 +1,5 @@
 *Maybe you just want to start by reading some of the notes on my thinking captured in [the daily journal](Journal.md) of my Personal Knowledge Management (PKM) processes.* 
 
-The point of discussing these processes in public or *opening the kimono* with the full journal of shaping my conscious thought is err on the side of being more open, more transparent ... so that others can avoid the mistakes I have made or even learn from the mistakes that I am making ... knowledge is entirely about feedback loops, testing hypotheses and developing a point-of view ... for the most part, AI is only a tool to help with keeping track of the threads or generating hundreds of things to provoke contemplation. 
-
-Simply following the crowd, acquiring toys to compare one's pile of toys with the best of the toy acquirers is much like PASSIVELY consuming content OR being a mere spectator OR being nothing but tourist following the crowd of tourists ... that kind of activity is fine, but it is not actually about **being alive** -- the ACTIVE conscious life is primarily a matter of CONSCIOUS CONTEMPLATION.
-
 # Preamble 
 
 1) **Gratitude as Foundation.** Gratitude is the most essential practice of human existence. I have lived a spectacular life—not through my own efforts, nor through the efforts of my family, but through pure blessing. No human being earns a spectacular life; we receive it. The awareness that I cannot possibly be grateful enough is itself the greatest gift. I am simply, flat-out LUCKY, and I am not alone in this blessing. Human beings, individually and collectively, take far too much for granted and fail to live lives saturated with gratitude and appreciation for the blessings all around us.
