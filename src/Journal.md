@@ -1,5 +1,6 @@
 ## Daily Journal Notes
 
+* [Human Trafficking To Support War And Dangerous Political Unrest](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-02-26.md)
 * [Manifesto for Christian Voluntaryism](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-02-25.md)
 * [Thoughts On Autonomous Communion](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-02-24.md)
 * [IronClaw, ZeroClaw, PicoClaw, Nano, Tiny, Mimi, Mobai, Null to *Santa Claws?*](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-02-21.md)
