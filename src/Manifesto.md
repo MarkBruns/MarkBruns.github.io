@@ -1,4 +1,4 @@
-*Maybe you just want to start by reading some of the notes on my thinking captured in [the daily journal](Journal.md) of my Personal Knowledge Management (PKM) processes.* 
+***The best way to catch up is my current thinking captured in [the daily journal](Journal.md).*** 
 
 # Preamble 
 

@@ -1,5 +1,6 @@
 ## Daily Journal Notes
 
+* [Scriptural basis for "Iran will bless Israel" prophesy](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-02-28.md)
 * [Human Trafficking To Support War And Dangerous Political Unrest](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-02-26.md)
 * [Manifesto for Christian Voluntaryism](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-02-25.md)
 * [Thoughts On Autonomous Communion](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-02-24.md)
