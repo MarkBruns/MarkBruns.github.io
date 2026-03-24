@@ -1,7 +1,7 @@
 ## Daily Journal Notes
 
-* [Engineering Roadmap: Robotics, AI, Discipleship](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-03-23.md)
-* [Refactor your clusterfuck](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-03-05.md)
+* [Faith, Service, Distributed Defense](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-03-23.md)
+* [Simplify, Revise, Redo, Refactor Your Clusterfucks](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-03-05.md)
 * [Promote Communism, Get Jail Time: Czech Republic Criminalizes Promotion](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-03-03.md)
 * [Scriptural basis for "Iran will bless Israel" prophesy](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-02-28.md)
 * [Human Trafficking To Support War And Dangerous Political Unrest](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-02-26.md)
