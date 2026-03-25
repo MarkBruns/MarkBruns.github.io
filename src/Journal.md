@@ -1,5 +1,6 @@
 ## Daily Journal Notes
 
+* [High-Density Mobile Hybrid Hazelnut Propagation](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-03-24.md)
 * [Faith, Service, Distributed Defense](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-03-23.md)
 * [Simplify, Revise, Redo, Refactor Your Clusterfucks](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-03-05.md)
 * [Promote Communism, Get Jail Time: Czech Republic Criminalizes Promotion](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-03-03.md)
