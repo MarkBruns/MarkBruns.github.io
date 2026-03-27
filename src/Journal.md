@@ -1,6 +1,6 @@
 ## Daily Journal Notes
 
-* [Introducing Chroma Context-1, a 20B parameter search agent ... for GYG](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-03-26.md)
+* [Open Source Development of ChromaDB ... for GYG](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-03-26.md)
 * [High-Density Mobile Hybrid Hazelnut Propagation](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-03-24.md)
 * [Faith, Service, Distributed Defense](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-03-23.md)
 * [Simplify, Revise, Redo, Refactor Your Clusterfucks](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-03-05.md)
