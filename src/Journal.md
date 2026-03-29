@@ -1,5 +1,6 @@
 ## Daily Journal Notes
 
+* [Manifesto for This Disciple of Christ](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-03-29.md)
 * [Stop whining about social media! Put your damned gloves on, get in the ring and spar!](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-03-28.md)
 * [Open Source Development of ChromaDB ... for GYG](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-03-26.md)
 * [High-Density Mobile Hybrid Hazelnut Propagation](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-03-24.md)
