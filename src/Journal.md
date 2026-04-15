@@ -1,5 +1,8 @@
 ## Daily Journal Notes
 
+* [Pareto Principle—LEADERSHIP -- FIRST Heal the Rot Within](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-15.md)
+* [Why The Holy Triune God Alone Is Enough](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-14.md)
+* [200-Module AI/ML Curriculum](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-12.md)
 * [# 20 Point Personal Lifestyle Plan](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-11.md)
 * [Salebarn Accelerated Negotiation Platform](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-10.md)
 * [Top 100 Sought-After Scientists, Engineers, Technicians in Robotics](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-06.md)
