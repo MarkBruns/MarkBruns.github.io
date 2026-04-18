@@ -1,6 +1,6 @@
 ## Daily Journal Notes
 
-* [**Make CITIZENSHIP Great Again!** 200 Modules For Distributed Self-Defense in the Community](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-18.md)
+* [**Make CITIZENSHIP Great Again!** Distributed Self-Defense](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-18.md)
 * [Agentic Auctioneering and Agentically Mediated Accelerated Negotiation](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-17.md)
 * [Transformational Discipleship For the Glory of God](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-16.md)
 * [Pareto Principle—LEADERSHIP -- FIRST Heal the Rot Within](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-15.md)
