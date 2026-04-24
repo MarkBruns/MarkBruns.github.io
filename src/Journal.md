@@ -1,6 +1,6 @@
 ## Daily Journal Notes
 
-* [200-Module Tutorial: Agentic Web Data Capture for Relationship-Based Marketing of Perishable Beef Products and Genetics](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-24.md)
+* [Relationship-Based Marketing of Perishable Beef Products and Genetics](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-24.md)
 * [**Make CITIZENSHIP Great Again!** Distributed Self-Defense](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-18.md)
 * [Agentic Auctioneering and Agentically Mediated Accelerated Negotiation](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-17.md)
 * [Transformational Discipleship For the Glory of God](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-16.md)
