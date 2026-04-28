@@ -1,7 +1,8 @@
 ## Daily Journal Notes
 
 * [Starter List of 100 Opportunity Finder Technologies](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-28.md)
-* [Heidelberg Catechism](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-27.md)
+* [WHO Is Doing Interesting Work In The Layers *BELOW* CUDA?](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-27.md)
+* [Heidelberg Catechism](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-26.md)
 * [UAVs, UGVs, UUVs, Hybrids, Swarms](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-25.md)
 * [Relationship-Based Marketing of Perishable Beef Products and Genetics](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-24.md)
 * [**Make CITIZENSHIP Great Again!** Distributed Self-Defense](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-18.md)
