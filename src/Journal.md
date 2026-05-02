@@ -1,5 +1,6 @@
 ## Daily Journal Notes
 
+* [SprintSpec Online Hub](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-01.md)
 * [Starter List of 100 Opportunity Finder Technologies](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-28.md)
 * [WHO Is Doing Interesting Work In The Layers *BELOW* CUDA?](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-27.md)
 * [Heidelberg Catechism](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-04-26.md)
