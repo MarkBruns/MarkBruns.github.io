@@ -5,43 +5,40 @@ tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# LudicEconomics
+# Ludic Economics
 
-## Metadata
+Ludic economics is an analytical framework used to study the intersection of play (ludus), games, and contemporary capitalism. It examines how the mechanics of games—such as resource accumulation, competition, and risk—have increasingly permeated global economic systems, media, and everyday labor. [1, 2, 3, 4, 5] 
 
-This Project was created on `2025` `11` `15` with the template located at `.foam/templates/projects.md` in an attempt to optimize the machine-readability for automating notes in the future, using [note properties](https://github.com/foambubble/foam/blob/main/docs/user/features/note-properties.md), [templates](https://github.com/foambubble/foam/blob/main/docs/user/features/templates.md), and [graph visualization](https://github.com/foambubble/foam/blob/main/docs/user/features/graph-view.md). 
+## Core Concepts
 
-As with most tools, [**Foam** *is like a bathtub -- what you get out of it depends on* ***what you put into it each day.***](https://github.com/foambubble/foam/blob/main/docs/user/index.md). Minimizing context-switching is a matter of daily repitition and discipline built upon reviewing and better using [essential VS Code keybindings](https://code.visualstudio.com/docs/configure/keybindings). This even goes beyond the [Foam extension's VS Code shortcuts for note-taking](https://github.com/foambubble/foam/blob/main/docs/user/getting-started/note-taking-in-foam.md#keyboard-shortcuts). 
+* The Gamification of Value: It argues that modern economic orders, especially those involving digital assets like cryptocurrencies, futures, and derivatives, behave more like "phantasmagorical" games than rational material exchanges.
+* Digital Scarcity: Blockchain-based games, such as CryptoKitties, serve as primary case studies for how value and ownership are constructed through artificial digital scarcity.
+* Affective & Fan Labor: Scholars like those in [Sage Journals](https://journals.sagepub.com/doi/10.1177/1555412018755912) explore how companies mobilize "playful" labor—such as fan contributions to The LEGO Movie or "free" player labor in game ecosystems—to generate profit.
+* Revenue Models: The framework categorizes modern digital monetization into three main drivers: Freemium (free basic service with paid features), Premium (upfront payment), and Subscription (recurring payments). [1, 6, 7, 8, 9] 
 
-### GitHub Functionality For Discussions, Issues, Projects
+## Key Analytical Themes
 
-In addition to VS Code and the Foam extension, we will rely upon the GitHub Discussion and Issue functionality, BEFORE graduating something to "Project" status ... when something becomes a Project on GitHub, it will simultaneously become a PROJECT in our P.A.R.A. hierarchy. Please abide by the GitHub progression from ... [Discussions](https://docs.github.com/en/discussions) ...to... [Issue](https://docs.github.com/en/issues/guides) ...to... [Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects):
+| Theme [10, 11, 12, 13, 14] | Description |
+|---|---|
+| Battle Pass Capitalism | A model where players pay for the right to work toward rewards within a game ecosystem. |
+| Gift Play | Analyzing the economy through the lens of performative giving and social bonds rather than just market transactions. |
+| Ludic Paradox | The tension between play's naturally self-motivated nature and the attempts by corporations to instrumentalize it for behavioral control. |
 
-* [Discussions](https://docs.github.com/en/discussions) are mainly for just discussing something, to clarify terminology or ask questions or for just generally speculative thinking out loud.
+Researchers often use this lens to critique neoliberal late capitalism, viewing the "entrepreneurial gamer" and "play-to-earn" models as reflections of broader economic shifts toward precarious, gig-based, and highly mediatized labor. [2, 15] 
+Are you interested in how ludic economics applies to specific industries like gaming, or would you like to explore its philosophical roots in works like Homo Ludens?
 
-* [Issues](https://docs.github.com/en/issues/guides) are for things that somebody really needs to look into and possibly turn into more of a Project.
-
-* [Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects) are adaptable task-boards or roadmaps that integrates with your issues and pull requests on GitHub to help you plan, visualize and track your work effectively. 
-
-### P.A.R.A. Project Mgmt Review
-
-The *holy grail* of the PKM project investigations or [emergent phenomena](https://en.wikiversity.org/wiki/Understanding_Emergence/List_of_emergent_phenomena) is possibly something like [emergent neuromorphology or sparking something embryonic morphogenesis](https://grok.com/share/c2hhcmQtMi1jb3B5_08973e84-67af-4db9-a382-2292404a8b74) in complex organisms like humans which starts with cells migrate via gradients; then adhesion sorts types and shapes organs such that incredibly complex physiological lifeforms elegantly emerges from relatively simple cues. The patterns or behaviors we seek from new research discoveries would ***noteworthy*** when are not explicitly programmed or predictable from the properties of individual components, but rather emerge as a result of their interactions ... such that a better, more complete understanding of emergence OR new components might be ***useful***. 
-
-A Project is the start of a bigger development commitment and the basis of the P.A.R.A. method of the [*Building a Second Brain* (BASB)](https://fortelabs.com/blog/category/building-a-second-brain/) methodology. The P.A.R.A. ***methodological architecture*** systematically manages information differently than mere notetaking apps:
-
-* **PROJECTS**, have SMART goals, minimal completion reqmts and deadlines
-* **AREAS** are about roles/responsibilities or obligations or capabilities ... **Areas** are the preferred destination for **Projects**.
-* **RESOURCES**, mostly finished AREAS, but also ongoing interests, assets, future inspiration, may req continual maintenance and refactoring but, for now, are *backburner*able  ... **Resources** are the preferred destination for **Areas**.
-* **ARCHIVES**, inactive matl from P A R that is kept around only for informational purposes.
-
-## Project Goals
-
-*Specific, Measurable, Aggressive, Realistic, Timebound objectives ... these are GOALs for stretching what we hope to achieve, rather than non-negotiable, minimal-acceptable ultimatums as Requirements and Deadlines are*.
-
-## Project Requirements
-
-*We aggressively manage the scope of Projects for MINIMAL VIABILITY requirements for completion and handed-off advancement to the Areas section.*.
-
-## Project Deadlines
-
-*Time DEADLINES are not goals, but rather firm drop-dead dates after which we don't bother anymore*.
+[1] [https://journals.sagepub.com](https://journals.sagepub.com/doi/10.1177/1555412018755912)
+[2] [https://www.researchgate.net](https://www.researchgate.net/publication/323122705_Introduction_to_Special_Issue_Ludic_Economies_Ludic_Economics_101)
+[3] [https://en.wikipedia.org](https://en.wikipedia.org/wiki/Ludus_%28ancient_Rome%29)
+[4] [https://www.microethology.net](https://www.microethology.net/wp-content/uploads/2018/02/Introduction-Ludic-Economics-101.pdf)
+[5] [https://www.sciencedirect.com](https://www.sciencedirect.com/science/article/abs/pii/S0304393205000875)
+[6] [https://pdfs.semanticscholar.org](https://pdfs.semanticscholar.org/18be/a3f51bb5bbfaa2dac575e4884d5c6670bfd2.pdf)
+[7] [https://just-tech.ssrc.org](https://just-tech.ssrc.org/citation/cryptokitties-and-the-new-ludic-economy-how-blockchain-introduces-value-ownership-and-scarcity-in-digital-gaming/)
+[8] [https://www.semanticscholar.org](https://www.semanticscholar.org/paper/CryptoKitties-and-the-New-Ludic-Economy%3A-How-Value%2C-Serada-Sihvonen/3464481be6bb9f450d35ac3663da7cd14125b6b7)
+[9] [https://journals.sagepub.com](https://journals.sagepub.com/toc/gaca/13/7)
+[10] [https://journals.sagepub.com](https://journals.sagepub.com/doi/abs/10.1177/1555412018755912)
+[11] [https://nomadit.co.uk](https://nomadit.co.uk/conference/aas2015/paper/26605)
+[12] [https://sciety.org](https://sciety.org/articles/activity/10.31235/osf.io/jdyhb_v1?utm_source=sciety_labs_article_page)
+[13] [https://labs.sciety.org](https://labs.sciety.org/articles/by?article_doi=10.31235/osf.io/jdyhb_v1)
+[14] [https://theconversation.com](https://theconversation.com/the-serviceberry-this-indigenous-understanding-of-nature-can-help-us-rethink-economics-243190)
+[15] [https://journals.sagepub.com](https://journals.sagepub.com/doi/pdf/10.1177/1555412018755912)
