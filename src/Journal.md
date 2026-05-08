@@ -1,5 +1,6 @@
 ## Daily Journal Notes
 
+* [Starter List Of 200 Best Niche Microenterprise Business Ideas](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-08.md)
 * [100-Theses New Reformation Critique of the Affluent Western Church](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-07.md)
 * [Look To REMOVE The Union Label](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-04.md)
 * [SprintSpec Online Hub](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-01.md)
