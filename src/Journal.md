@@ -1,6 +1,7 @@
 ## Daily Journal Notes
 
-* [ENGR.co](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-09.md)
+* [200 Practical Frontiers for Minimalist, Prayerful Living and Open-Source Innovation](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-10.md)
+* [ENGR.co, HROS.dev, GYG.be, opportunity finding and luck surface development](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-09.md)
 * [Starter List Of 200 Best Niche Microenterprise Business Ideas](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-08.md)
 * [100-Theses New Reformation Critique of the Affluent Western Church](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-07.md)
 * [Look To REMOVE The Union Label](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-04.md)
