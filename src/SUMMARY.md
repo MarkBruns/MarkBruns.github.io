@@ -109,6 +109,7 @@
       - [Podcastering, Discipline, and Neuroarchitecture](./1.Projects/staging/98Podcastering.md)
       - [Miscellaneous](./1.Projects/staging/99Miscellaneous.md)
       - [Personal Knowledge Management Systems](./1.Projects/staging/00PKMSystems.md)
+      - [Portfolio Lifestyle](./1.Projects/staging/101PortfolioLifestyle.md)
     - [Areas](./2.Areas/Template.md)
     - [Resources](./3.Resources/Template.md)
       - [Resource Management Methodologies In Personal Knowledge Engineering](./nested/nested/001_1.md)
