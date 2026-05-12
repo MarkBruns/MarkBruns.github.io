@@ -1,26 +1,89 @@
 # Current Working Portfolio
 
-1) [MarkBruns](https://x.com/MarkBruns) @ [MarkBruns](https://github.com/MarkBruns) ... MZB.me ... disciple of Christ, open sourcist
+## [MarkBruns](https://x.com/MarkBruns) @ [MarkBruns](https://github.com/MarkBruns)
 
-2) Salebarn Accelerated Negotiation / AUCT.us / BIDM.at
+* disciple of Christ, 
 
-3) ENGR.co / GYG.be Opportunity Finder
+* open sourcist, transformational discipleship technology (TDT)
 
-4) HROS.dev / ArtificialDad.NET VR/AR
+* MZB.me
 
-5) MelonCave.com Discipline/Habit Rewiring
+## Salebarn Accelerated Negotiation / AUCT.us / BIDM.at
 
-6) DRAIN.tips / TRIZ.tips / BigWhy.AI
+## ENGR.co / GYG.be Opportunity Finder
 
-7) LessGovt.DEV
+## HROS.dev / ArtificialDad.NET VR/AR
 
-8) AncientGuy 360-degree Fitness
+## MelonCave.com 
 
-9) CloudKernel / Annotify / GitDEEP ... deep work, asynchronous no-meeting workflow 
+* Habit Rewiring
 
-10) SQL.ag / WhoresRadish
+* Intentional Coaching Meta-Discipline
 
-## 200 Grok-Brainstormed Niche Microenterprise Business Ideas
+* UNPLUGistan
+
+* Funnier.BE, clichesaur.us
+
+## DRAIN.tips / TRIZ.tips / BigWhy.AI
+
+## LessGovt.DEV
+
+Agentic DOGE, focused on improving efficiency but also eliminating waste, fraud, abuse -- targeting things like moving education into the autodidactic, self-directed project based study and things that encourage kids to have enterprises like 4H projects or FFA activities that they can learn practical real-world lessons from
+
+## AncientGuy 
+
+360-degree full package, complete fitness based on spiritual fitness, then intellectual and emotional fitness, but with functional actual work and martial arts drills rather than gym membership.
+
+## CloudKernel / Annotify / GitDEEP
+
+Digital-first micro-enterprise and open-source dev community that aims to develop a development ecosystem that is optimized for field researchers, with core emphasis on broad academic/indie use cases, strong precision-agriculture verticals, and lightweight environmental extensions.
+
+* In an era where field data often lacks rich context, leading to mediocre AI models and irreproducible science, we see work in the realm of emergent open source technologies for fieldwork that will help to improve high-quality, contextual data collection.  
+
+* The vision is a digital-first micro-enterprise and open-source community built around minimalist CloudKernel technology optimized for mobile devices in real-world fieldwork.  
+
+* At its core, the platform combines data annotification tools to seamlessly embed field notes, observations, and metadata with structured data for dramatically improved data quality.
+
+* GitDEEP leverages git’s powerful data model to enable deep versioning, provenance tracking, and collaborative evolution of complex field data models across deployments.  
+
+* Asynchronous no-meeting workflows allow researchers to operate as forward-deployed architects, spending maximum time in the field while directing agentic AI coding (Claude, Devin, OpenAI Codex) from the cloud.  
+
+* Approximately sixty percent of our focus empowers the broad academic and indie research community across disciplines with portable, reliable development environments and annotation frameworks.  
+
+* Approximately thirty percent targets precision agriculture, where farmers and agronomists use the platform to integrate real-time field insights into next-generation crop and soil models.  
+
+* Approximately ten percent supports environmental scientists and conservationists in remote ecosystems, turning rich ecological observations into actionable, high-fidelity datasets.
+
+* We prioritize distributed development through a vibrant global open-source developer community that contributes domain-specific kernels, annotation schemas, and GitDEEP extensions.
+
+* The business objective is creating sustainable revenue through premium hosted environments, enterprise support, and partnerships while democratizing superior field data capabilities for a more informed future.
+
+
+## **SQL.ag OR WhoresRadish Soilscapes**
+
+A playful, digital-first platform and online community centered around the following ideas: 
+
+* How people are actually building thriving soil ecosystems, edible landscapes, and living plant architectures that all feature sequestering carbon as LIFE and on optimizing the productivity of LIVING soil ecosystems.
+
+* Everyday gardeners create productive, beautiful, wildlife-friendly permaculture spaces through a seamless blend of advanced soil science and playful gardening innovation.  
+
+* Through SQL.ag AI-assisted technology, members can develop their own Personal Knowledge Management systems in topics like practical soil quality testing, AI-powered notifiers of recent research reports, and personalized bioremediation/soil quality improvement strategies.
+
+* It's about infusing the most serious topics in soil science and soil ecosystem with the irreverent spirit of WhoresRadish, which is about the artistic side of gardening, with tutorials, contests, and community development focused on unconventional permaculture techniques.
+
+* Users design stunning edible landscapes centered on cherries, elderberries, rhubarb, and raspberries using our interactive 3D planning tools and step-by-step implementation guides.  
+
+* The platform seamlessly integrates different plant types such as shade-loving hostas and lilies to create layered gardens that support butterflies, pollinators, and rich bird habitats.  
+
+* Engineers, architects and builders can explore baubotanik living architecture, learning to grow functional structures like arbors and fences from living edible and habitat plants.
+
+* As a digital-first enterprise, the main focus is upon building and developing the tech to support an online community of independent tech-savvy gardeners with forums, virtual workshops, plant marketplaces, and continuous soil monitoring dashboards.
+
+* The micro-enterprise model may evolve to include things like subscription services, e-commerce for kits and plants, and affiliate opportunities to create sustainable revenue while scaling globally through knowledge sharing.
+
+* At first, it's primarily for tech-savvy gardeners who are interested in the future of regenerative gardening, where soil, food, and fun come together to restore ecosystems ... for one gardener, one playful landscape at a time.
+
+## 200 Additional Grok-Brainstormed Niche Microenterprise Business Ideas
 
 ### Tech/Engineering Pareto & Simplification (1–40)
 1. Pareto code-audit service for solo SaaS founders: find the 20% of legacy code causing 80% of outages and delete it.  
