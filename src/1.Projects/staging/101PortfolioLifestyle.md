@@ -2,9 +2,11 @@
 
 ## [MarkBruns](https://x.com/MarkBruns) @ [MarkBruns](https://github.com/MarkBruns)
 
-* disciple of Christ, 
+* disciple of Christ
 
-* open sourcist, transformational discipleship technology (TDT)
+* open sourcist
+
+* transformational discipleship technology (TDT)
 
 * MZB.me
 
