@@ -1,5 +1,5 @@
 ## Daily Journal Notes
-
+* [10-Point Plan to Grow The Merch Portion of a Podcast Side-Hustle Business](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-12.md)
 * [200 Practical Frontiers for Minimalist, Prayerful Living and Open-Source Innovation](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-10.md)
 * [ENGR.co, HROS.dev, GYG.be, opportunity finding and luck surface development](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-09.md)
 * [Starter List Of 200 Best Niche Microenterprise Business Ideas](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-08.md)
