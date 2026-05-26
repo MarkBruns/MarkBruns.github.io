@@ -1,5 +1,6 @@
 ## Daily Journal Notes
 
+* [AGENTIC Knowledge Engineering Project](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-26.md)
 * [Salebarn.ORG Core Mission and Cardinal Principles](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-22.md)
 * [Mastering Grok Heavy + Hermes Agent](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-18.md)
 * [Digital-First, AI-Driven Education Venture Philanthropy Checklist](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-17.md)
