@@ -1,5 +1,6 @@
 ## Daily Journal Notes
 
+* [**Cato FOS** -- My AIservant Faith Operating System](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-28.md)
 * [Quarq, Hermes Agent, and OpenClaw](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-27.md)
 * [AGENTIC Knowledge Engineering Project](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-26.md)
 * [120 Pomodoros Per Week -- Discipline SMART Goal For Summer](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-25.md)
