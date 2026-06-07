@@ -1,5 +1,6 @@
 ## Daily Journal Notes
 
+* [Monday Plan – Rule of Bruno](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-07.md)
 * [BrunoSoul](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-06.md)
 * [Portfolio Lifestyle and Market-Based Citizenship Negotiation](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-04.md)
 * [ALTERNATIVES to Political Conventions](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-01.md)
