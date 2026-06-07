@@ -1,5 +1,8 @@
 ## Daily Journal Notes
 
+* [BrunoSoul](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-06.md)
+* [Portfolio Lifestyle and Market-Based Citizenship Negotiation](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-04.md)
+* [ALTERNATIVES to Political Conventions](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-01.md)
 * [Improved NIL Alternative -- Legacy Formation Partnership](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-29.md)
 * [**Cato FOS** -- My AIservant Faith Operating System](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-28.md)
 * [Quarq, Hermes Agent, and OpenClaw](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-05-27.md)
