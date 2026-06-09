@@ -1,6 +1,7 @@
 ## Daily Journal Notes
 
-* [Monday Plan – Rule of Bruno](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-07.md)
+* [Impact of Grit on my PKM](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-08.md)
+* [Daily Plan For Coming Week – Rule of Bruno](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-07.md)
 * [BrunoSoul](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-06.md)
 * [Portfolio Lifestyle and Market-Based Citizenship Negotiation](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-04.md)
 * [ALTERNATIVES to Political Conventions](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-01.md)
