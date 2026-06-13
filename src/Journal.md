@@ -1,6 +1,8 @@
 ## Daily Journal Notes
 
-* [Impact of Grit on my PKM](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-08.md)
+* [Exploration of Agentic OS and GRIT / Jujutsu](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-13.md)
+* [Impact of Grit on my PKM](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-09.md)
+* [Grokify Agentic Productivity Boosting](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-08.md)
 * [Daily Plan For Coming Week – Rule of Bruno](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-07.md)
 * [BrunoSoul](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-06.md)
 * [Portfolio Lifestyle and Market-Based Citizenship Negotiation](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-04.md)
