@@ -1,5 +1,6 @@
 ## Daily Journal HIGHLIGHTS
 
+* [Hermes Polyglot Orchestrator](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-30.md)
 * [Implementing the **The Rule of Bruno** Agentified Life](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-20.md)
 * [Exploration of Agentic OS and GRIT / Jujutsu](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-13.md)
 * [Impact of Grit DVCS on my PKM](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-09.md)
