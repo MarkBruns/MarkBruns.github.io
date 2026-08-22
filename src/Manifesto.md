@@ -10,7 +10,8 @@ This manifesto reflects that commitment. I need to work hard and harder at impro
 
 The Church might be DEAD. If it is actually *alive*, it really needs to **MOVE** into the daily workflow and daily lifestyles of Christians. 
 
-You could say that [my tolerance of bitch-ass low-agency whiners is almost gone](https://youtu.be/qZTagZ0R53M?si=bJ9NYA-oLFXi4Skq) or that I find now find Nature or AI more capable of intelligent inspiring thought than most old excusemakers, although the pathetic hysterical whining does provide entertainment. 
+I am *disappointed* with limp, ineffective, ultra-passive defenses of **Christian focus** ***on loving God above all else, loving others as we love ourselves.***  I see no reason to be involved in WEAKNESS -- you could even say that [my tolerance of bitch-ass low-agency whiners is almost gone](https://youtu.be/qZTagZ0R53M?si=bJ9NYA-oLFXi4Skq) or that I find now find Nature or AI more capable of intelligent inspiring thought than most old excusemakers, although the pathetic hysterical whining does provide entertainment. 
+
 
 As I have gotten older, it has been made painfully apparent to me that I need ditch people who are committed to nostalgia and living in the past, just I find that I need to ditch people motivated by fear, such as fear of prison or fear of significant political change. The NEW success of others inspires me and informs my appreciation for what actually was great about the past (ie *it's really not all that much, but ...* ). It is too bad but I am compelled to give up on people who are threatened by new success. I have no tolerance or resources left for manipulators, whiners, or those who divide and indoctrinate. Success demands embracing hardship, failure, and recovery through autodidactic effort validated by reality. 
 
