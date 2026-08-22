@@ -1,5 +1,6 @@
 ## Daily Journal HIGHLIGHTS
 
+* [Reliable, Self-Improving Multi-Agent Neuro-BASB Ecosystems](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-08-22.md)
 * [Hermes Polyglot Orchestrator](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-30.md)
 * [Implementing the **The Rule of Bruno** Agentified Life](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-20.md)
 * [Exploration of Agentic OS and GRIT / Jujutsu](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-06-13.md)
