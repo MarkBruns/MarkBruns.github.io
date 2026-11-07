@@ -1,8 +1,8 @@
 # Summary
 
-- [Advice to MYSELF](Manifesto.md)
+- [Lifestyle Plan](Manifesto.md)
 
-- [The FULL Ishikawa PKM](BigPicture.md)
+- [FULL Ishikawa PARA](BigPicture.md)
 
 - [Journal of this PKM Process](Journal.md)
 
