@@ -1,4 +1,6 @@
-***The best way to catch up is my CURRENT thinking ... MIGHT BE captured in my [MZB.me](https://markbruns.github.io/) gratitude book.*** A gratitude-driven lifestyle has made my life far better, but it's also made far less willing to waste **any** time on those who are ungrateful ... lack of gratitude is effectively a lack of faith and it's not just not possible to fix those who lack faith, who fail to exhibit gratitude.
+***The best way to catch up is my CURRENT thinking, is actually about what I'm having my agents think about ... so an approximately current version of that MIGHT BE captured in my [MZB.me](https://markbruns.github.io/) gratitude lab book*** **of agentic skill.md files.* 
+
+Agents have made me more conscious of how my statements might cause others to think or shape how I think. *Am I grateful enough?* Clearly, NO! A shift toward a more gratitude-driven lifestyle has made my life far better, but it's also made far less willing to waste even **any** time on those who are ungrateful ... lack of gratitude is effectively a lack of faith and it's not just not possible to fix those who lack faith, who fail to exhibit gratitude.
 
 I need to be MORE grateful, more publicly grateful ... among other things, that means that ***I need to do a much better job of [microblogging on X](https://x.com/MarkBruns) ... OR maintaining my [Gist of Gists](https://gist.github.com/MarkBruns/4b3290aaff421f167b8e47ee59c7b25b), or skills templates for multi-agent harness engineering.***  
 
