@@ -17,7 +17,9 @@ The MOST IMPORTANT part of planning is **gratitude discipline** which is ALWAYS,
 
 ## A Jesus-First Martial Arts and Bible Study Curriculum for an Outdoor, Drop-In Group
 
-*Free. Peer-led. No ranks. No branding. To God be the glory.*
+*Free. Peer-led. No ranks. No branding.*
+
+**To God be the glory.**
 
 ---
 
