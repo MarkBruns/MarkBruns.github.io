@@ -1,15 +1,3 @@
-***The best way to catch up is my CURRENT thinking, is actually about what I'm having my agents think about ... so an approximately current version of that MIGHT BE captured in my [MZB.me](https://markbruns.github.io/) gratitude lab book*** *of agentic skill.md files.* 
-
-Agents have made me more conscious of how my words might cause others to think or how articulating the thoughts shapes/clarifies how I think. 
-
-*Am I grateful enough?* Clearly, NO! I need to make my agents more *grateful* yet more shrewd as they gather the intelligence that I use to meet people, do business and explore new things. Gratitude is kind of the most important point of attempting to be a high-agency person ... *otherwise, one is just demanding and manipulative.*
-
-A shift toward a more gratitude-driven lifestyle has made my life far better, but it's also made far less willing to waste even **any** time on those who are ungrateful ... lack of gratitude is effectively a lack of faith and it's not just not possible to fix those who lack faith, who fail to exhibit gratitude.
-
-I need to be MORE grateful, more publicly grateful ... among other things, that means that ***I need to do a much better job of [microblogging on X](https://x.com/MarkBruns) ... OR maintaining my [Gist of Gists](https://gist.github.com/MarkBruns/4b3290aaff421f167b8e47ee59c7b25b), or skills templates for multi-agent harness engineering.***  
-
----
-
 *My daily life is roughly defined by my Christian faith ... my attempt to do the best job of adoring and imitating Jesus Christ is in prison/jail ministry and martial arts lifestyle ... I have found that planning and rigorous, assiduosly attempting to implementing the plan helps keep me healthier. The following material below will give you an idea of what this means for me ... my plan is to update this schedule on a weekly if not daily basis in 2027, with updates on X and outreach to training partners around the world ... this plan currently NEEDS refactoring in order to be usable, but this offers a rough idea of kind of I am working on in my PARA system.*
 
 --- 

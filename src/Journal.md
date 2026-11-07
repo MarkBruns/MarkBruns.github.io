@@ -1,4 +1,23 @@
-* [2026-11-04](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-04.md) ...  WTF is [Yarn](https://yarnpkg.com/) and why does it matter for understanding CI/CD pipelines and telemetry or this agentic BASB
+***The best way to catch up is my CURRENT thinking, is actually about what I'm having my agents think about ... so an approximately current version of that MIGHT BE captured here, in my [MZB.me](https://markbruns.github.io/) gratitude lab book*** *of agentic skill.md files.* 
+
+Agents have made me more conscious of how my words might cause others to think or how articulating the thoughts shapes/clarifies how I think. 
+
+*Am I grateful enough?* Clearly, NO! 
+
+Most of my interactions now have become agentic in nature ... that's to say that the connection was initiated by an agent. From the start of any interaction, I need to work at making my agents more *grateful* yet more shrewd as they gather the kind of basic intelligence, eg contact information, what they excel at, which I use to meet people, do business and explore new things. 
+
+Gratitude has always been the most important point of attempting to be a high-agency person ... *otherwise, one is just demanding and manipulative* and interactions are merely transactional ... the world of agents has shift all of us who aggressively use them into having to up our agency game.
+
+A shift toward a more gratitude-driven lifestyle has made my life far better, but it's also made far less willing to waste even **any** time on those who are ungrateful ... lack of gratitude is effectively a lack of faith and it's not just not possible to fix those who lack faith, who fail to exhibit gratitude.
+
+I need to be MORE grateful, more **publicly** and **genuinely** grateful ... among other things, this realization drives home the point that that ***I need to do a much better job of [microblogging on X](https://x.com/MarkBruns) ... OR maintaining my [Gist of Gists](https://gist.github.com/MarkBruns/4b3290aaff421f167b8e47ee59c7b25b), or open source dev skills templates for multi-agent harness engineering.***  
+
+---
+
+
+* [2026-11-05](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-05.md) ...  the additional pummelling of semiconductor and AI stocks has sort of made me re-think whether or not there was EVER any reason for optimism about the resiliency of affluent Americans. Those selling stocks might be right -- maybe we should worry about whether or not most people can ever really develop the skills to use AI. Most can't ... they are intellectually capable, but they have been so completely programmed by their media consumption that they cannot develop new skills ... in much of anything.  Teevee watchers,flix watchers or even sports spectators are overwhelming unable to function or learn BECAUSE THEY PASSIVELY CONSUME, ie just watch too much of their content ... PASSIVE content swallowers are always going to make themselves into LOSERS in any environment ... the passive watchers have made themselves psychologically incapable of being high agency people -- they are PROGRAMMED to be helpless victims.
+
+* [2026-11-04](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-04.md) ...  this led to think about WTF [Yarn](https://yarnpkg.com/) is and why do the detailed intracies of package managers matter so much more now for understanding CI/CD pipelines and telemetry or this agentic BASB
 
 * [2026-11-03](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-03.md) ... using pi.dev, Cloudfare, OpenRouter, LangSmith, Nous Research Portal
 * [2026-11-02](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-02.md) ... trading intelligence gathering -- why there's so much demand for compute
