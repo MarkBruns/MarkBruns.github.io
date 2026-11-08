@@ -1,3 +1,106 @@
+* [2026-11-07](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-07.md) ...  see following text
+
+# Optimal Stopping for Multi-Agent and Iterative Agent Systems
+
+**Optimal stopping for multi-agent and iterative agent systems is best understood as a satisficing control problem under bounded rationality**, not pure optimization. Herbert Simon’s satisficing (search until an option is “good enough” given aspiration levels and resource constraints) maps cleanly onto agent loops: the orchestrator or the agent itself monitors signals of marginal progress, evidence sufficiency, consensus irreversibility, semantic stability, and budget exhaustion, then intervenes before quality plateaus or degrades and before token costs compound.
+
+## The Core Empirical Reality: Iteration Often Does Not Pay
+
+Recent controlled studies show that fixed iteration is frequently wasteful and can be actively harmful:
+
+- In the Semantic Early-Stopping study (arXiv:2606.27009, open implementation at SahilShrivastava-Dev/semantic-halting-problem), on HotpotQA multi-hop RAG, **iteration did not improve measured Information Score—it slightly hurt it**. The single best practical policy was `fixed_k1` (return the first grounded draft): ~86% token reduction versus `max_iterations` while matching or exceeding quality. A judge-free semantic stopper (cosine distance on local embeddings with patience window \(k=2\)) cut operational tokens ~38% at parity quality. The full quality-gated variant was counterproductive because per-round LLM judging dominated cost. An oracle that picks the best intermediate round still beats practical policies by a large margin (+0.115 Information Score), confirming that “when to stop” is relatively easy while “which round is best” remains open. The authors note a benchmark caveat: HotpotQA answers are short and often answerable from one draft, so long-form generation tasks are needed to test whether iteration ever accrues value.
+
+- Multi-agent debate literature (including the debate-fatigue hypothesis and work on adaptive stopping) shows non-monotonic quality curves: early rounds improve reasoning, later rounds produce sycophantic conformity, problem drift, or “talk past” a correct answer. Adaptive rules can recover ~98.7% of oracle performance at up to ~50% cost reduction. Related findings indicate that stopping at the first correct prefix can improve accuracy substantially over letting the model continue.
+
+- Harmful overthinking (flipping a correct intermediate answer to an incorrect one) is largely untouched by pure token-budget or simple patience windows. Token controls and syntactic kill-switches stop verbose overthinking but do little for logical drift. Training-time interventions or stronger probes are likely required for the latter.
+
+These results support a practical rule of thumb: **default to the earliest grounded or high-confidence output unless a cheap signal shows clear continued improvement**. Additional Critic, debate, or refinement rounds are often pure cost on many RAG and short-answer tasks.
+
+## Stronger Algorithmic Approaches Beyond Simple Patience
+
+- **Re-FORC** (Adaptive Reward Prediction for Efficient Chain-of-Thought, ICML 2026, arXiv:2511.02130). A lightweight adapter predicts expected future reward as a function of remaining thinking tokens. Combined with a greedy policy inspired by Pandora’s box / Gittins-index ideas, it enables early stopping of unpromising chains (up to ~24–26% compute reduction versus fixed budgets at maintained accuracy), dynamic model-size selection, and adaptive test-time scaling. It addresses the “which round / how much compute is best” question more directly than pure geometric convergence.
+
+- **REFRAIN** (“Stop When Enough: Adaptive Early-Stopping for Chain-of-Thought Reasoning”, ACL 2026 / arXiv:2510.10103). Training-free two-stage stop discriminator (reflective yet redundant reasoning via semantic similarity + trigger cues) plus a sliding-window Upper Confidence Bound (SW-UCB) multi-armed bandit that adapts thresholds by problem difficulty. Reports 20–55% token reduction while maintaining or improving accuracy across benchmarks and model families, shifting the accuracy–efficiency frontier.
+
+- **EMS (Efficient Majority-then-Stopping)** and related sequential voting / consensus mechanisms remain among the most practical for multi-agent aggregation: reliability-ordered invocation plus early termination once a majority cannot be overturned yields ~32–35% fewer agents and ~44% fewer tokens at preserved accuracy.
+
+- Probe-based methods (hidden-state failure predictors, answer-stability probes, BELT-style belief probes) and early-abort cascades continue to show 40–60% token savings at high recall targets, with some transfer from math to coding/agentic environments.
+
+Classical multi-agent optimal stopping / mean-field optimal stopping (MAOS/MFOS, ICML 2025) and Bayesian social-learning formulations provide theoretical grounding (threshold policies on belief space, dynamic programming principles), but they are farther from drop-in libraries.
+
+## Pattern Libraries, Orchestration Blueprints, and Guardrails
+
+Mature practical resources live in pattern catalogs and safety primitives rather than a single “optimal stopping library”:
+
+- **Awesome Agentic Patterns** (nibzard/awesome-agentic-patterns, also agentic-patterns.com): Includes the Adaptive Sandbox Fan-Out Controller. Start a small batch (N=3–5), sample early signals (success rate, diversity, judge confidence/winner margin, error clustering), then decide to scale up, **stop early**, refine the prompt, or decompose. Uses hysteresis (asymmetric thresholds) to avoid oscillation and hard budget/no-progress guards. Directly useful for best-of-N or parallel sampling pipelines where fixed N wastes money. Related patterns cover circuit breakers, stop hooks, and sub-agent spawning with isolation.
+
+- **EPIC Mode blueprint** (Episodic Policy and Intention Control; DEV Community / frontier.catgameresearch.net): An architecture proposal for an orchestrator that sets per-subtask token/time/confidence budgets, computes a composite overthink score, and runs an intervention ladder (switch to System-1, refactor, spike-and-delegate, escalate). Frames the problem explicitly as bounded rationality / satisficing. Useful as a reference architecture with noted gaps.
+
+- Hard safety and halt primitives:
+  - **agent-guardrails-mcp** (samcsta/agent-guardrails-mcp): MCP server exposing pre-dispatch health gates, per-target circuit breakers, and halt primitives (single agent, group, or entire engagement). Agents check `check_halt` before actions. Persistent SQLite option. This is an external kill-switch, not a semantic quality detector—the necessary backstop.
+  - **SafeHarbor** (ljj-cyber/SafeHarbor, ICML 2026): Training-free hierarchical memory-augmented guardrail that extracts context-aware defense rules, injects them dynamically, and self-evolves the memory tree. Aims at precise decision boundaries (high refusal on harmful requests while preserving benign utility). Relevant when “hallucination sets in” includes safety-critical drift.
+  - Other practical layers: agent-cost-guardrails, TokenOps, agent-budget-guard, MCP proxies (mcp-guard, agent-guardrail), Microsoft Agent Governance Toolkit cost controls, LangGraph recursion_limit + conditional edges/interrupts, and tool-call similarity loop detectors.
+
+Other pattern catalogs (koydas/agent-patterns with loop-with-guard and validator-first, reaatech/agentic-arch-patterns with confidence gates and circuit breakers, various Agentic Design Patterns collections) reinforce the same primitives: explicit terminal states, budget caps, similarity/loop breakers, and external halt capability.
+
+## Practical Synthesis for 99% Value at ~33% Token Cost
+
+The efficiency half of the goal is achievable today with relatively simple, judge-free signals plus hard envelopes:
+
+1. Hard envelope always on (step/token/USD budgets, recursion limits, tool-call similarity breakers, circuit breakers, external halt MCP).
+2. Cheap semantic or consensus signal (embedding cosine-distance patience, answer stability, irreversible majority, critic approval, or a lightweight probe).
+3. Prefer the earliest grounded output unless clear improvement is detected; default to `fixed_k1` or short patience on many RAG-style tasks.
+4. For parallel best-of-N or sandboxed fan-out, use the adaptive controller pattern with hysteresis and early-signal sampling rather than fixed N.
+5. Log full trajectories for later oracle-style analysis and to distill reusable stopping rules (CONVOLVE-style context engineering or playbooks).
+6. Treat “find the best intermediate state” as an open research problem; oracles still win substantially. Re-FORC-style future-reward predictors or learned best-round models are promising but heavier to implement.
+
+Communities and ongoing work are concentrated in arXiv (cs.AI, cs.MA, cs.LG), ICML/NeurIPS/ACL workshops on efficient reasoning and agentic uncertainty, Reddit r/AI_Agents and r/LLMDevs (tokenomics lists, runaway-loop post-mortems, concrete threshold checklists), the Awesome Agentic Patterns ecosystem, and framework Discord/GitHub discussions around LangGraph, AutoGen, CrewAI, Hermes, and MCP. The field is moving from fixed caps toward signal-driven satisficing, but the largest remaining gap is reliably identifying the single best intermediate output rather than merely detecting that further iteration has stopped helping.
+
+Start with the SHP repo + Adaptive Sandbox Fan-Out pattern + one cost/halt MCP for immediate leverage, then layer Re-FORC- or REFRAIN-style predictors if you need finer control over the accuracy–cost frontier. The “plenty good enough” point is usually earlier than intuition suggests.
+
+---
+
+## Sources and References
+
+### Core Papers
+
+- Semantic Early-Stopping for Iterative LLM Agent Loops (SHP). arXiv:2606.27009. https://arxiv.org/abs/2606.27009  
+  Open implementation: https://github.com/SahilShrivastava-Dev/semantic-halting-problem
+
+- Re-FORC: Adaptive Reward Prediction for Efficient Chain-of-Thought Reasoning. ICML 2026. arXiv:2511.02130. https://arxiv.org/abs/2511.02130
+
+- Stop When Enough: Adaptive Early-Stopping for Chain-of-Thought Reasoning (REFRAIN). ACL 2026. arXiv:2510.10103. https://arxiv.org/abs/2510.10103
+
+- SafeHarbor: Defining Precise Decision Boundaries via Hierarchical Memory-Augmented Guardrail for LLM Agent Safety. ICML 2026. arXiv:2605.05704. https://arxiv.org/abs/2605.05704
+
+### Pattern Libraries and Blueprints
+
+- Awesome Agentic Patterns (including Adaptive Sandbox Fan-Out Controller). https://github.com/nibzard/awesome-agentic-patterns  
+  Website: https://agentic-patterns.com
+
+- EPIC Mode: A Blueprint for Stopping Agent Overthinking. https://dev.to/p3ngu1nzz/epic-mode-a-blueprint-for-stopping-agent-overthinking-1ahc  
+  Full article: https://frontier.catgameresearch.net/epic-mode.html
+
+- agent-patterns (koydas). https://github.com/koydas/agent-patterns
+
+- agentic-arch-patterns (reaatech). https://github.com/reaatech/agentic-arch-patterns
+
+### Guardrails and MCP Servers
+
+- agent-guardrails-mcp (samcsta). https://github.com/samcsta/agent-guardrails-mcp  
+  MCP listing: https://lobehub.com/pl/mcp/samcsta-agent-guardrails-mcp
+
+- SafeHarbor repository. https://github.com/ljj-cyber/SafeHarbor
+
+- Additional practical guardrail projects referenced: mcp-guard (sidclawhq), agent-guardrail (rudimentall1), and related MCP proxies.
+
+### Related Concepts and Communities
+
+- Multi-agent optimal stopping / mean-field optimal stopping literature (ICML 2025 and related works).
+- Debate-fatigue and adaptive stopping results in multi-agent debate papers.
+- Communities: arXiv (cs.AI, cs.MA, cs.LG), Reddit r/AI_Agents and r/LLMDevs, framework discussions (LangGraph, AutoGen, CrewAI, Hermes, MCP).
+
+
 * [2026-11-06](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-06.md) ...  ***The best way to catch up is my CURRENT thinking, is actually about what I'm having my agents think about ...*
 
 *... so an approximately current version of that MIGHT BE captured here, in my [MZB.me](https://markbruns.github.io/) gratitude lab book*** *of agentic skill.md files.* 

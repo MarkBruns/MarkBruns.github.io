@@ -1,8 +1,16 @@
-# LOOKING FORWARD To The Best Fifty-Two Weeks In The History of Fifty-Two Week Periods
+# LOOKING FORWARD ... rather than living life in the rear view mirror
+
+My intention now is upon planning the year ahead ... that will ALWAYS be true ... I will ALWAYS be working today on making tomorrow better, working tomorrow on making the week ahead better, working in the week ahead on making the next month better ... with a serious intention of making the next 52 weeks into the best year in the history of 52 week periods.
+
+There is NO TIME WHATSOEVER for nostalgia, reunions, funerals or any form of looking back ... **I am going to allow the DEAD to bury their dead** and I am *dead* serious about that -- *from now on, there is NO TIME WHATSOEVER for nostalgia, reunions, funerals or any form of looking back. NONE.*
 
 ***Planning the system, then living and improving the system.***
 
-Plans are always imperfect, but the whole point of planning is not the document, but the process of implementing, refactoring, revising and changing the plan ... the POINT of a plan is to have a starting roadmap to work from, while realizing that as soon as *the work* starts, the plan will need to be completely overhauled and adjusted, because new OPPORTUNITIES will arise.
+Plans are always imperfect, good intentions pave the road to hell ... but the whole point of planning is not the document, but *SUCK* that comes from when plans don't pan out -- embracing the SUCK means finding and embracing the root cause of the failure and caving in the melon of that demon.
+
+Planning is not navel gazing, but instead 99% of it is the process of **implementing**, then failing ... then refactoring, revising and changing the plan ... the POINT of a plan is to have a starting roadmap to work from, while realizing that as soon as *the work* starts, the plan will need to be completely overhauled and adjusted, because new OPPORTUNITIES will arise.
+
+Finding the root cause of future failures is why we LOOK FORWARD ... we plan to be able to accomplish early detection, we plan to EMBRACE the neck of root cause demon and cave its melon in ... *in terms of planning for the FIGHT AHEAD, we have to PLAN for the likelihood of being punched in the face; we have to plan for desparately wanting to quit.*
 
 The MOST IMPORTANT part of planning is **gratitude discipline** which is ALWAYS, ALWAYS, ALWAYS realizing that the situation is far better than one hoped for, although almost certainly not exactly what one hoped for, ie the plan will NEED TO BE adjusted -- that's the REASON for why planning and preparation are key.
 
