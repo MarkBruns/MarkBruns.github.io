@@ -2,7 +2,7 @@
 
 - [Lifestyle Plan](Manifesto.md)
 
-- [FULL Ishikawa -- PARA and Agentic Skills](BigPicture.md)
+- [Curriculum For Improving Personal Knowledge Mgmt](BigPicture.md)
 
 - [Journal of This Agentic Book Of Skills](Journal.md)
 
