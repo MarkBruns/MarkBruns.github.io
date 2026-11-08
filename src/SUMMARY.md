@@ -1,6 +1,6 @@
 # Summary
 
-- [Lifestyle Plan](Manifesto.md)
+- [Lifestyle/Dojo Plan](Manifesto.md)
 
 - [Curriculum For Improving Personal Knowledge Mgmt](BigPicture.md)
 
