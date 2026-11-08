@@ -1,14 +1,18 @@
-***The best way to catch up is my CURRENT thinking, is actually about what I'm having my agents think about ...*
+* [2026-11-06](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-06.md) ...  ***The best way to catch up is my CURRENT thinking, is actually about what I'm having my agents think about ...*
 
 *... so an approximately current version of that MIGHT BE captured here, in my [MZB.me](https://markbruns.github.io/) gratitude lab book*** *of agentic skill.md files.* 
 
-Agents have made me more conscious of how my words might cause others to think or how articulating the thoughts shapes/clarifies how I think. 
+Agents have made me more conscious of how my words might cause others to think or how articulating the thoughts shapes/clarifies how I think ... thinking is fundamentally about sharing the gratitude and joy and faith in Jesus Christ ... it all comes back to imitation and adoration of Jesus Christ, and how Jesus Christ reached out to others, made friends and humbly stayed as anonymous as possible, EXCEPT for the part of encouraging his agents to go forth and share the message.
 
-*Am I grateful enough?* Clearly, NO! 
+This is about sharing a message of intense gratitude!
 
-**Most** of my new interactions now have become agentic in nature ... that is to say that the connection was initiated by an agent or as the result of my agentic intelligence gathering and prospecting process ... I prospect, engage, make friends agentically.  
+*Am I grateful enough?* Clearly, NO! It's really quite impossible to sufficiently grateful to God for all of the blessing of this existence.
 
-**Agentic prospecting works better than the inefficient process of travelling, attending conferences, going to seminars** ... agentic intelligence gather opens up vast new frontiers of opportunities to meet people who are working DIRECTLY on extremely interesting things and also happen to be too busy to commute, travel, blow time on non-value-added activities. 
+**Most** of my new interactions now have become agentic in nature ... that is to say that the connection was initiated by an agent or as the result of my agentic intelligence gathering and prospecting process ... I prospect, engage, make friends agentically. It is so remarkably better than the OLD way, from 2026 and before that I cannot contain my enthusiasm for importance of ***agentifying*** one's processes.  
+
+**Agentic prospecting so works much better than the inefficient, tedious and wasteful process of travelling, attending conferences, going to seminars** ... agentic intelligence gather opens up vast new frontiers of opportunities to meet people who are working DIRECTLY on extremely interesting things and also happen to be too busy to commute, travel, blow time on non-value-added activities. 
+
+It's NOT really about the automation of processes ... what it's really about is being much, much, much more mindful of the process and improving the process so as not to waste anyone's time or attention.
 
 From the start of any interaction, I need to work at making my agents more *grateful* yet more shrewd as they gather the kind of basic intelligence, eg contact information, what they excel at, which I use to meet people, do business and explore new things. 
 
@@ -17,9 +21,6 @@ Gratitude has always been the most important point of attempting to be a high-ag
 A shift toward a more gratitude-driven lifestyle has made my life far better, but it's also made far less willing to waste even **any** time on those who are ungrateful ... lack of gratitude is effectively a lack of faith and it's not just not possible to fix those who lack faith, who fail to exhibit gratitude.
 
 I need to be MORE grateful, more **publicly** and **genuinely** grateful ... among other things, this realization drives home the point that that ***I need to do a much better job of [microblogging on X](https://x.com/MarkBruns) ... OR maintaining my [Gist of Gists](https://gist.github.com/MarkBruns/4b3290aaff421f167b8e47ee59c7b25b), or open source dev skills templates for multi-agent harness engineering.***  
-
----
-
 
 * [2026-11-05](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-05.md) ...  the additional pummelling of semiconductor and AI stocks has sort of made me re-think whether or not there was EVER any reason for optimism about the resiliency of affluent Americans. Those selling stocks might be right -- maybe we should worry about whether or not most people can ever really develop the skills to use AI. Most can't ... they are intellectually capable, but they have been so completely programmed by their media consumption that they cannot develop new skills ... in much of anything.  Teevee watchers,flix watchers or even sports spectators are overwhelming unable to function or learn BECAUSE THEY PASSIVELY CONSUME, ie just watch too much of their content ... PASSIVE content swallowers are always going to make themselves into LOSERS in any environment ... the passive watchers have made themselves psychologically incapable of being high agency people -- they are PROGRAMMED to be helpless victims.
 
