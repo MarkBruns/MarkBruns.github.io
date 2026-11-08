@@ -1,10 +1,16 @@
-***The best way to catch up is my CURRENT thinking, is actually about what I'm having my agents think about ... so an approximately current version of that MIGHT BE captured here, in my [MZB.me](https://markbruns.github.io/) gratitude lab book*** *of agentic skill.md files.* 
+***The best way to catch up is my CURRENT thinking, is actually about what I'm having my agents think about ...*
+
+*... so an approximately current version of that MIGHT BE captured here, in my [MZB.me](https://markbruns.github.io/) gratitude lab book*** *of agentic skill.md files.* 
 
 Agents have made me more conscious of how my words might cause others to think or how articulating the thoughts shapes/clarifies how I think. 
 
 *Am I grateful enough?* Clearly, NO! 
 
-Most of my interactions now have become agentic in nature ... that's to say that the connection was initiated by an agent. From the start of any interaction, I need to work at making my agents more *grateful* yet more shrewd as they gather the kind of basic intelligence, eg contact information, what they excel at, which I use to meet people, do business and explore new things. 
+**Most** of my new interactions now have become agentic in nature ... that is to say that the connection was initiated by an agent or as the result of my agentic intelligence gathering and prospecting process ... I prospect, engage, make friends agentically.  
+
+**Agentic prospecting works better than the inefficient process of travelling, attending conferences, going to seminars** ... agentic intelligence gather opens up vast new frontiers of opportunities to meet people who are working DIRECTLY on extremely interesting things and also happen to be too busy to commute, travel, blow time on non-value-added activities. 
+
+From the start of any interaction, I need to work at making my agents more *grateful* yet more shrewd as they gather the kind of basic intelligence, eg contact information, what they excel at, which I use to meet people, do business and explore new things. 
 
 Gratitude has always been the most important point of attempting to be a high-agency person ... *otherwise, one is just demanding and manipulative* and interactions are merely transactional ... the world of agents has shift all of us who aggressively use them into having to up our agency game.
 

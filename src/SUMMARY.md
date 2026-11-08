@@ -2,9 +2,9 @@
 
 - [Lifestyle Plan](Manifesto.md)
 
-- [FULL Ishikawa PARA](BigPicture.md)
+- [FULL Ishikawa -- PARA and Agentic Skills](BigPicture.md)
 
-- [Journal of this PKM Process](Journal.md)
+- [Journal of This Agentic Book Of Skills](Journal.md)
 
 - [PKM Methodology](nested/Roadmap.md)
   - [PARA Architecture](nested/Architecture.md)
