@@ -1,4 +1,4 @@
-The newest news in raw form is in the **[Journal of This Agentic Book Of Skills](Journal.md)** ... *check there first, if you are revisiting*
+The newest ***news*** in raw, unedited form is in the **[Journal of This Agentic Book Of Skills](Journal.md)** ... *check there first, if you are revisiting*
 
 --- 
 
