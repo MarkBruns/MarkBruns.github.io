@@ -1,545 +1,483 @@
-# Mobility, Flexibility, Balance and Coordination
+# Mobility, Flexibility, Balance and Coordination — A 52-Week Contemplative Curriculum for Movement and Spiritual Vitality
 
-#### A Contemplative Framework for Movement and Spiritual Vitality
+*Free. Peer-led. No ranks. No branding.*
 
-## Core Principle: Movement as Sacred Stewardship and Divine Design
+**To God be the glory.**
 
-The mobility, flexibility, balance and coordination journey examines one's current movement capabilities while exploring quality of movement patterns, flexibility development strategies, and balance integration challenges throughout aging. This framework addresses coordination, motor control, environmental factors affecting movement, and integrated training approaches that support comprehensive movement health. Questions examine recovery techniques, adaptation processes, and social-psychological dimensions of movement exploration and limitation. Special attention is given to developing a long-term vision for movement capability maintenance throughout aging, approaching mobility as a spiritual discipline, and cultivating curiosity rather than frustration with changing physical abilities. The practice culminates in celebrating movement as God's gift while developing compassionate yet challenging practices that support lifelong independence and functional capacity, recognizing that humans are fearfully and wonderfully made for dynamic movement.
+***A year of training the body's movement capacities — mobility, flexibility, balance, coordination — as sacred stewardship, then living and revising the plan as Jesus Christ would do.*** Plans are always imperfect, but the whole point of planning is not the document; it is the implementing, refactoring, and revising. The POINT of a plan is a starting roadmap that gets overhauled the moment *the moving* starts, because new OPPORTUNITIES (and new ranges) will arise.
 
-*Yes, these questions have that GetAfterIt energyâ€"because your stiffness isn't just physical, it's spiritual rebellion against the body God gave you. Stop pretending immobility is inevitable. Get serious about stewardship. You aren't ready to die YET!*
+The MOST IMPORTANT part of this plan is **gratitude discipline**: the situation is always far better than one hoped for, though never exactly what one hoped for. Humans are fearfully and wonderfully made for dynamic movement, and the household itself is the gym: every load of laundry, every scrub of the floor, every sit-down and get-up is a rep. We cultivate curiosity rather than frustration with changing physical abilities, and compassionate yet challenging practice that supports lifelong independence.
 
-## Part I: Daily Contemplative Practice for Movement
+*Yes, these questions have that GetAfterIt energy—because your stiffness isn't just physical, it's spiritual rebellion against the body God gave you. Stop pretending immobility is inevitable. Get serious about stewardship. You aren't ready to die YET!*
 
-### Morning Movement Assessment
+## 1. What this document is, and what it is not
 
-Begin each day by examining your relationship with mobility and movement quality:
+**Is:** a full year of weekly, 75-minute sessions for a small group (or one stiff believer with a notebook) examining current movement capabilities, quality of movement patterns, flexibility development, balance integration through aging, motor control, environmental factors, recovery techniques, and the long-term vision of movement capability maintained for decades. Every question of the source framework is retained in its original voice and given its week; each week is deepened with one additional passage of Scripture and one piece of field material — chief among them Kelly and Juliet Starrett's *Built to Move* and The Ready State, because nobody has made a better case that the floor is free, the sit-to-stand is a vital sign, and daily life itself is the mobility program.
 
-#### Pre-Movement Contemplation (5 minutes)
+**Is not:** a credential program. No ranks, no tests you fail, no graduation. Nothing here gives one person authority over another. The person who needs a handrail today is exactly as welcome as the person who can sit and rise at a score of ten.
 
-1. **That morning stiffness you've accepted as "normal aging"â€"when exactly were you planning to fight back against this slow-motion surrender to rigor mortis?**
-   - *Psalm 139:14 - "I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well."*
+**Is not:** a gymnastics program. Most of the year's work happens inside ordinary life — sitting on the floor to watch television, squatting to scrub the bathtub, rising from the carpet without hands, carrying the groceries with a tall spine. The extraordinary positions appear only as tests and drills; the *practice* is the household. Anyone with pain, injury, dizziness, or a heart condition moves with their physician's clearance, and within pain-free range, always.
 
-2. **Your hip flexors are tighter than a Pharisee's doctrineâ€"still wondering why your back hurts or ready to admit your sitting addiction needs intervention?**
-   - *Romans 12:1 - "Therefore, I urge you, brothers and sisters, in view of God's mercy, to offer your bodies as a living sacrifice, holy and pleasing to God."*
+Every week has five parts: a **focus work** assignment (the week's questions, worked in the body, not just the head), a **breath practice** (a named, counted breathing exercise done as its own segment), one **concept** to carry, one **deepening** (a passage of Scripture plus field material), and about four sentences of **teaching** written out so nobody has to improvise a lesson they do not feel ready to give.
 
-3. **Ready to see daily movement as worship instead of treating your temple like a neglected building?**
-   - *1 Corinthians 6:19-20 - "Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God?"*
+## 2. How to read a week's entry
 
-4. **Your movement preparation is nonexistentâ€"respecting the temple or treating it like disposable commodity?**
-   - *1 Corinthians 3:16-17 - "Don't you know that you yourselves are God's temple and that God's Spirit dwells in your midst?"*
+- **Focus work.** The question(s) from the framework, labeled *base*, *build*, *peak*, or *recover* (explained in section 5), with their verses.
+- **Breath practice.** A named exercise with actual counts — a class inside the class, not a warm-up and not a cooldown. Movement work lives or dies on the breath that shapes it.
+- **Concept.** One idea, one sentence, for the week.
+- **Deepening.** One additional passage of Scripture, plus one piece of field material — Starrett doctrine, movement science, or the testimony of the eighty-year-olds who never stopped getting up off the floor.
+- **Teaching.** Three to five sentences to read aloud or paraphrase: what the question means, why it matters to a person who is creaky or new or ashamed, and how it connects to what the breath just did.
 
-### Evening Movement Review
+Reading the teaching in your own words is fine. Skipping it is *not* — the sentences are the actual lesson, and the movement is the illustration.
 
-Reflect on the day's movement patterns and tomorrow's mobility needs:
+## 3. The whole mover: four things we are actually training
 
-1. **How many more times will you skip the cool-down mobility work that prevents tomorrow's stiffness?**
-   - *Proverbs 20:4 - "Sluggards do not plow in season; so at harvest time they look but find nothing."*
+A mobility program that only trains range of motion produces a person who can touch their toes and still cannot get off the floor without grunting. Each session touches four dimensions, and each week names which one it leans on.
 
-2. **Your movement snacks throughout the dayâ€"non-existent or strategically stacked into every transition?**
-   - *Deuteronomy 6:7 - "Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up."*
+**The physical dimension** is the obvious one: joints moved through full range, tissues loaded and released, balance challenged in a controlled dose, the body re-learning positions modern life deleted. Trainable in an hour, measurable in a season — the sit-and-rise score is a number anyone can track.
 
-3. **How many more years of morning stiffness before you implement evening mobility rituals?**
-   - *Psalm 63:6 - "On my bed I remember you; I think of you through the watches of the night."*
+**The mental dimension** is motor control and understanding: knowing that the knee's pain is the ankle's fault, that "tight hamstrings" is often a nervous-system speed limit, that stiffness is a position history, not a destiny. A person who can name which joint is blocked has gained something no amount of random stretching gives.
 
-## Part II: Weekly Movement Cycles
+**The emotional dimension** is what happens when the body won't do what it used to: frustration, embarrassment on the floor, the quiet grief of a lost cartwheel. Real limitation met inside guaranteed safety, where nobody is allowed to mock anybody. We never tell anyone their body-image is being healed here; we provide conditions and let time work.
 
-### Monday: Foundation and Assessment
+**The spiritual dimension** is the framework's whole thesis: movement as stewardship of a fearfully-made temple, every get-up off the floor a small resurrection rehearsal. One passage, read twice, sat with in silence, answered with one sentence if a person wants to speak.
 
-*Starting the week with movement integrity*
+The **breath practice** is the hinge where all four meet: it is physical (position and breath are one system — if you can't breathe in a position, you don't own it), mental (counting requires attention), emotional (a slow exhale is the fastest down-shift known), and spiritual (God breathed, and dust became a mover).
 
-1. **How many more years will you let gravity win without putting up a fight through daily mobility work?**
-   - *Isaiah 40:31 - "But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary."*
+## 4. The fixed shape of every session
 
-2. **That balance you're losing incrementallyâ€"still calling it "getting older" or ready to admit it's neglect of God's temple disguised as inevitability?**
-   - *1 Corinthians 6:19-20 - "Do you not know that your bodies are temples of the Holy Spirit?"*
+The session is the same every week of the year. That sameness is the single most important design decision in this document. A person who drops in twice a year should recognize the shape immediately.
 
-3. **Your coordination is deteriorating faster than your excuses are multiplyingâ€"when will you stop talking and start moving?**
-   - *James 1:22 - "Do not merely listen to the word, and so deceive yourselves. Do what it says."*
+| Minutes | Segment | What happens |
+|---|---|---|
+| 0–5 | Arrival | Shoes off — the year is done barefoot where possible. Anyone new gets the one-page card (week 1's handout). |
+| 5–10 | Circle | Welcome. The week's questions, read aloud, with their verses. One honest answer from whoever leads. |
+| 10–22 | Preparation | Joint preparation, the same order every week: neck, shoulders, spine, hips, knees, ankles — circles in every joint that has them. |
+| 22–45 | Main focus work | Base, build, peak, or recover, depending on the week. |
+| 45–52 | Conditioning | The week's capacity task: one test, one hold, one drill — ten minutes, scaled to whoever is present. |
+| 52–62 | **Breath practice** | The named breathing exercise, taught as its own segment — usually on the floor. |
+| 62–72 | Verse circle | The deepening passage read twice. One question. Silence. One sentence each from anyone who wants to speak. |
+| 72–75 | Close | Next week named. Anyone who wants to stay and stretch is welcome to stay and stretch. |
 
-4. **That movement assessment you're avoidingâ€"afraid of the truth or ready to establish baselines?**
-   - *Lamentations 3:40 - "Let us examine our ways and test them, and let us return to the Lord."*
+That is seventy-five minutes. For a solo mover, keep the timer and the segments. In the stiffest week of the year, shorten the focus work, never the verse circle.
 
-### Tuesday: Flexibility and Range of Motion
+## 5. The four-week rhythm inside every block
 
-*Expanding movement capacity*
+The year is thirteen blocks of four weeks. Each block has one theme, and inside each block the weeks follow the same wave — because tissue, like faith, grows by exposure, rest, and gratitude, in that order.
 
-1. **Still treating flexibility like it's optionalâ€"who exactly are you trying to fool?**
-   - *Proverbs 31:17 - "She sets about her work vigorously; her arms are strong for her tasks."*
+**Week one — Base (teach).** The block's opening questions, held at conversational intensity, slow movement, no fatigue, a great deal of talking. The goal is that everyone leaves able to *name the week's concept* and feel it in the body. If people are exhausted, the dose was too hot. If people cannot state the concept, the teaching was too short.
 
-2. **Your hamstrings are so tight you can't touch your toesâ€"but sure, keep pretending flexibility doesn't matter for daily function!**
-   - *Philippians 3:13 - "Brothers and sisters, I do not consider myself yet to have taken hold of it. But one thing I do: Forgetting what is behind and straining toward what is ahead."*
+**Week two — Build (repetition).** The block's questions returned to daily — movement snacks stacked into every transition: sit to the floor during the news, couch stretch during the show, stand on one leg while the coffee brews. Volume without intensity. Correction is offered quietly and individually, never as a public demonstration of someone's error.
 
-3. **That thoracic spine is frozen like Lot's wife but you wonder why your shoulders hurtâ€"ready to mobilize or keep looking back?**
-   - *Genesis 19:26 - "But Lot's wife looked back, and she became a pillar of salt."*
+**Week three — Peak (capacity).** The block's hardest question, held under genuine but controlled load — the end-range hold, the fatigued balance, the crawl that humbles. Nobody is pushed past what they can recover from by the next morning. The floor humbles enough on its own; we do not add to it.
 
-4. **How long will you confuse feeling tight with actually being inflexibleâ€"addressing root causes or just sensations?**
-   - *Proverbs 20:5 - "The purposes of a person's heart are deep waters, but one who has insight draws them out."*
+**Week four — Recover (flow).** Light, integrated movement — the block's skills used without demanding anything new — followed by a longer verse circle, usually sitting on the floor. The bring-a-friend week: arrive late, leave early, miss half, nothing is disrupted.
 
-### Wednesday: Balance and Proprioception
+## 6. Why the breath practice sits where it does
 
-*Midweek stability and awareness training*
+The breath comes *after* the movement work and *before* the verse circle, on purpose. After forty-five minutes on the floor, most people are either winded or wound: attention narrowed, jaw set, nervous system guarding the very ranges it was asked to open. Eight to ten minutes of slow, spacious, nasal breathing tells the guard the inspection is over, and makes the room quiet enough that a single verse can actually be heard instead of merely recited.
 
-1. **Your proprioception is shot but you're still pretending those stumbles are "just not paying attention"â€"ready to train or ready to fall?**
-   - *Proverbs 4:26 - "Give careful thought to the paths for your feet and be steadfast in all your ways."*
+This is also where the curriculum trains what most mobility culture trains badly: **owning positions by staying calm in them.** Most stretching produces a person who yanks at ranges while holding their breath — the nervous system reads that as threat and locks down harder. What we want instead is the Starrett test applied to every position all year: *can you breathe in it?* — spacious, slow, through the nose. If you can breathe there, you own there. Each breath practice has three jobs, named aloud when introduced:
 
-2. **Still treating balance training like it's for "old people" while your stability deteriorates dailyâ€"pride or stupidity?**
-   - *Proverbs 16:18 - "Pride goes before destruction, a haughty spirit before a fall."*
+1. **Down-regulate.** Long exhale, slow count, no strain. The permission job — range is granted by a relaxed system, not extracted from it.
+2. **Widen.** Spacious inhale, ribs and belly moving — the position job, because breath and posture are one machine.
+3. **Attend.** One verse, one joint, one honest sentence of thanks. The stewardship job: the body was made, and the Maker is worth consulting about its maintenance.
 
-3. **That vestibular system you never trainâ€"waiting for vertigo or working on balance preemptively?**
-   - *Proverbs 22:3 - "The prudent see danger and take refuge, but the simple keep going and pay the penalty."*
+---
 
-4. **Still thinking balance is about standing still instead of dynamic stabilityâ€"missing the point much?**
-   - *Psalm 16:8 - "I keep my eyes always on the Lord. With him at my right hand, I will not be shaken."*
+## Block 1 · Weeks 1–4 · Core Principle: Movement as Sacred Stewardship
 
-### Thursday: Coordination and Motor Control
+### Week 1 · The Sit-and-Rise: Your First Vital Sign
+**Focus work — base week.** The core principle, held slowly: movement is sacred stewardship of divine design, and the year begins with an honest number. The block's anchor test, done barefoot: stand, cross one leg over the other, lower yourself to the floor cross-legged, and rise again — **without using hands, knees, or a handrail if you honestly can.** Start at ten points; deduct for every assist and wobble. Whatever you scored, write it down: it is this year's blood pressure.
+**Breath practice — "The Ten-Point Breath."** Sitting cross-legged on the floor (however you got there — assists are allowed this week): in for four, out for six, eight rounds. If the position steals your breath, the position is the assignment, not the count.
+**Concept.** The get-up off the floor is a vital sign: the score predicts decades.
+**Deepening.** *Psalm 139:14 — "I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well."* And the material: the Sit-and-Rise test opens Kelly and Juliet Starrett's *Built to Move* (The Ready State) precisely because it compresses a whole movement life into one motion — hips, ankles, balance, coordination, and the courage of the descent; and the research the Starretts cite links floor-rise competence to long-term health and independence. Children do it at three without thinking; the chair is what un-teaches us. You were made to keep it.
+**Teaching.** The framework's first assignment is a number, not a workout — because you cannot steward what you refuse to measure, and because the psalm insists the machinery was *wonderfully* made, which makes surrender to rigor mortis a theological error, not an aging strategy. Take the test with grace and without drama: a low score is not shame, it is a starting line. The whole year is built to raise that number, and the first practice — breathing, on the floor — starts tonight.
 
-*Developing movement precision and control*
-
-1. **That coordination you need for emergency responseâ€"building it daily or hoping you'll magically have it when crisis hits?**
-   - *2 Timothy 4:2 - "Preach the word; be prepared in season and out of season."*
-
-2. **Your coordination under fatigue is non-existentâ€"training it or hoping you'll never need it when tired?**
-   - *Isaiah 40:29 - "He gives strength to the weary and increases the power of the weak."*
-
-3. **Your movement quality looks like a rusty robotâ€"still thinking speed matters more than control?**
-   - *Ecclesiastes 9:11 - "The race is not to the swift or the battle to the strong."*
-
-4. **That movement complexity you avoidâ€"brain challenging or brain dead training?**
-   - *Romans 12:2 - "Do not conform to the pattern of this world, but be transformed by the renewing of your mind."*
-
-### Friday: Integration and Flow
-
-*Bringing movement patterns together*
-
-1. **That fascia of yours is dehydrated and stuck like concreteâ€"planning to do something about it or just complain when everything hurts?**
-   - *Ezekiel 37:5 - "This is what the Sovereign Lord says to these bones: I will make breath enter you, and you will come to life."*
-
-2. **Your breathing is shallow and disconnected from movementâ€"still wondering why you gas out quickly?**
-   - *Genesis 2:7 - "Then the Lord God formed a man from the dust of the ground and breathed into his nostrils the breath of life."*
-
-3. **That rotational mobility you need for lifeâ€"training it or living in a sagittal plane prison?**
-   - *Ezekiel 37:7 - "So I prophesied as I was commanded. And as I was prophesying, there was a noise, a rattling sound, and the bones came together."*
-
-4. **Your breath doesn't match your movementâ€"disconnected systems or integrated whole?**
-   - *Job 33:4 - "The Spirit of God has made me; the breath of the Almighty gives me life."*
-
-### Saturday: Recovery and Restoration
-
-*Active recovery and tissue quality*
-
-1. **That neural tension limiting your flexibilityâ€"addressing it with nerve glides or just yanking on tight muscles?**
-   - *Psalm 139:13 - "For you created my inmost being; you knit me together in my mother's womb."*
-
-2. **Your tissue quality is garbage from never doing soft tissue workâ€"waiting for massage appointments or taking daily responsibility?**
-   - *Galatians 6:5 - "For each one should carry their own load."*
-
-3. **How many chiropractor visits before you realize YOU need to mobilize daily, not just get adjusted?**
-   - *Matthew 9:12 - "On hearing this, Jesus said, 'It is not the healthy who need a doctor, but the sick.'"*
-
-4. **That sensory-motor amnesia creeping through your bodyâ€"waking up dormant areas or letting them atrophy?**
-   - *Romans 13:11 - "And do this, understanding the present time: The hour has already come for you to wake up from your slumber."*
-
-### Sunday: Rest and Reflection
-
-*Sacred rest and movement contemplation*
-
-1. **Still treating mobility work as punishment instead of giftâ€"when will you thank God by actually maintaining His temple?**
-   - *1 Thessalonians 5:18 - "Give thanks in all circumstances; for this is God's will for you in Christ Jesus."*
-
-2. **Your developmental positions are lostâ€"can you still get up from the floor without using hands or have you already given up?**
-   - *Psalm 71:9 - "Do not cast me away when I am old; do not forsake me when my strength is gone."*
-
-3. **How long will you ignore the connection between emotional rigidity and physical stiffnessâ€"body keeping the score?**
-   - *Proverbs 14:30 - "A heart at peace gives life to the body, but envy rots the bones."*
-
-## Part III: Monthly Progressive Themes
-
-### Month 1: Foundation Assessment and Basic Mobility
-
-**Week 1-2: Movement Screening**
-
-1. **How long will you confuse busy-ness with movement while your joints rust from lack of full range of motion?**
-   - *Ecclesiastes 3:1 - "There is a time for everything, and a season for every activity under the heavens."*
-
-2. **That shoulder impingement didn't happen overnightâ€"still ignoring the mobility work or ready to take responsibility for your temple maintenance?**
-   - *1 Corinthians 9:27 - "No, I strike a blow to my body and make it my slave so that after I have preached to others, I myself will not be disqualified."*
-
-**Week 3-4: Basic Movement Patterns**
-
-1. **Your ankles are stiff as boards but you're wondering why your knees hurtâ€"when will you connect the kinetic chain dots?**
-   - *1 Corinthians 12:26 - "If one part suffers, every part suffers with it; if one part is honored, every part rejoices with it."*
-
-2. **Still thinking 5 minutes of half-hearted stretching counts as mobility workâ€"how's that working for your range of motion?**
-   - *Colossians 3:23 - "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."*
-
-### Month 2: Spinal Health and Posture
-
-**Week 1-2: Cervical and Thoracic Mobility**
-
-1. **That forward head posture making you look like a vultureâ€"technology winning or ready to fight back with daily corrective work?**
-   - *Psalm 121:1 - "I lift up my eyes to the mountainsâ€"where does my help come from?"*
-
-2. **Your spinal rotation is non-existent but you're surprised when your golf game suffersâ€"connecting those dots yet?**
-   - *Ecclesiastes 10:10 - "If the ax is dull and its edge unsharpened, more strength is needed, but skill will bring success."*
-
-**Week 3-4: Core Integration**
-
-1. **That core stability you fake with breath-holdingâ€"ready to learn proper intra-abdominal pressure or keep pretending?**
-   - *Psalm 51:6 - "Yet you desired faithfulness even in the womb; you taught me wisdom in that secret place."*
-
-2. **Your spine segmentation is non-existentâ€"moving like a log or like the 33 joints God gave you?**
-   - *Ezekiel 37:7-8 - "And as I was prophesying, there was a noise, a rattling sound, and the bones came together, bone to bone."*
-
-### Month 3: Hip and Lower Body Mobility
-
-**Week 1-2: Hip Flexibility**
-
-1. **Your hip mobility is garbage but you're trying to squat heavyâ€"ego lifting or intelligent training?**
-   - *Proverbs 24:3-4 - "By wisdom a house is built, and through understanding it is established; through knowledge its rooms are filled with rare and beautiful treasures."*
-
-2. **Still thinking flexibility is just about muscles while ignoring fascial restrictionsâ€"how's that incomplete approach working?**
-   - *Matthew 23:26 - "Blind Pharisee! First clean the inside of the cup and dish, and then the outside also will be clean."*
-
-**Week 3-4: Lower Extremity Integration**
-
-1. **Your movement patterns are compensatory disasters but you keep loading dysfunctionâ€"building strength on sand?**
-   - *Matthew 7:26 - "But everyone who hears these words of mine and does not put them into practice is like a foolish man who built his house on sand."*
-
-2. **That single-leg stability you avoidâ€"bilateral movements only or ready to address imbalances?**
-   - *Leviticus 19:36 - "Use honest scales and honest weights, an honest ephah and an honest hin."*
-
-### Month 4: Upper Body and Shoulder Health
-
-**Week 1-2: Shoulder Mobility**
-
-1. **Your scapular control is non-existent but you're doing overhead workâ€"accident waiting to happen or addressing the foundation?**
-   - *Luke 6:48 - "They are like a man building a house, who dug down deep and laid the foundation on rock."*
-
-2. **That shoulder impingement building from poor thoracic mobilityâ€"addressing the cause or just treating symptoms?**
-   - *Matthew 15:13 - "He replied, 'Every plant that my heavenly Father has not planted will be pulled up by the roots.'"*
-
-**Week 3-4: Upper Extremity Integration**
-
-1. **How long will you let your desk job destroy your mobility without fighting back every single hour?**
-   - *Nehemiah 4:17 - "Those who carried materials did their work with one hand and held a weapon in the other."*
-
-2. **How long will you ignore the fascial connections that link your entire bodyâ€"treating parts or healing wholes?**
-   - *Ephesians 4:16 - "From him the whole body, joined and held together by every supporting ligament, grows and builds itself up in love."*
-
-### Month 5: Dynamic Movement and Coordination
-
-**Week 1-2: Multi-Planar Movement**
-
-1. **That lateral movement you never trainâ€"forward only or ready to move in all planes God designed you for?**
-   - *Isaiah 30:21 - "Whether you turn to the right or to the left, your ears will hear a voice behind you, saying, 'This is the way; walk in it.'"*
-
-2. **Your movement variability you lackâ€"same patterns daily or exploring your full movement potential?**
-   - *1 Corinthians 12:4 - "There are different kinds of gifts, but the same Spirit distributes them."*
-
-**Week 3-4: Complex Coordination**
-
-1. **That crawling pattern you haven't done since infancyâ€"too proud to get on the floor or too smart to skip developmental movements?**
-   - *Matthew 18:3 - "And he said: 'Truly I tell you, unless you change and become like little children, you will never enter the kingdom of heaven.'"*
-
-2. **Your coordination deteriorates under stress but you never train it fatiguedâ€"prepared or hoping?**
-   - *1 Peter 5:8 - "Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour."*
-
-### Month 6: Mid-Year Assessment and Integration
-
-**Week 1-2: Progress Evaluation**
-
-1. **Your joint mobility is decreasing yearly but you're "too busy" for daily maintenanceâ€"scheduling your future wheelchair time yet?**
-   - *Galatians 6:7 - "Do not be deceived: God cannot be mocked. A man reaps what he sows."*
-
-2. **Still thinking stretching is the same as mobility workâ€"static holds or actual movement capacity?**
-   - *Ezekiel 37:7 - "So I prophesied as I was commanded. And as I was prophesying, there was a noise, a rattling sound, and the bones came together, bone to bone."*
-
-**Week 3-4: Program Refinement**
-
-1. **Your movement practice is sporadic at bestâ€"wondering why you see no progress or ready to commit daily?**
-   - *Daniel 6:10 - "Three times a day he got down on his knees and prayed, giving thanks to his God, just as he had done before."*
-
-2. **Still thinking flexibility is about muscles only while ignoring nervous system's roleâ€"partial truth or complete understanding?**
-   - *John 16:13 - "But when he, the Spirit of truth, comes, he will guide you into all the truth."*
-
-### Month 7: Advanced Mobility Techniques
-
-**Week 1-2: PNF and Advanced Stretching**
-
-1. **That PNF stretching that actually worksâ€"too complex to learn or too lazy to implement?**
-   - *Proverbs 4:7 - "The beginning of wisdom is this: Get wisdom. Though it cost all you have, get understanding."*
-
-2. **Your loaded stretching knowledge is zero but you wonder why passive stretching isn't workingâ€"ready to learn or keep failing?**
-   - *Hosea 4:6 - "My people are destroyed from lack of knowledge."*
-
-**Week 3-4: Functional Range Conditioning**
-
-1. **That functional range conditioning you've never heard ofâ€"staying ignorant or ready to learn what actually works?**
-   - *Proverbs 18:15 - "The heart of the discerning acquires knowledge, for the ears of the wise seek it out."*
-
-2. **That end-range strength you lackâ€"flexible but weak or ready to build resilient mobility?**
-   - *Nehemiah 6:9 - "They were all trying to frighten us, thinking, 'Their hands will get too weak for the work, and it will not be completed.' But I prayed, 'Now strengthen my hands.'"*
-
-### Month 8: Nervous System and Movement
-
-**Week 1-2: Neural Mobility**
-
-1. **That reciprocal inhibition you don't understandâ€"using science or just yanking on muscles?**
-   - *Proverbs 2:6 - "For the Lord gives wisdom; from his mouth come knowledge and understanding."*
-
-2. **Your nervous system is stuck in protection modeâ€"ready to teach it safety through movement or stay guarded?**
-   - *Psalm 34:4 - "I sought the Lord, and he answered me; he delivered me from all my fears."*
-
-**Week 3-4: Movement Re-education**
-
-1. **Still thinking flexibility and mobility are the same thingâ€"passive range or active control?**
-   - *James 2:26 - "As the body without the spirit is dead, so faith without deeds is dead."*
-
-2. **Your compensation patterns are so ingrained you think they're normalâ€"ready for movement re-education or staying broken?**
-   - *Isaiah 42:16 - "I will lead the blind by ways they have not known, along unfamiliar paths I will guide them."*
-
-### Month 9: Balance and Fall Prevention
-
-**Week 1-2: Static and Dynamic Balance**
-
-1. **How long will you let fear of looking foolish prevent you from doing the balance work that could save your life?**
-   - *2 Timothy 1:7 - "For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline."*
-
-2. **Your balance training is static onlyâ€"real world is dynamic, so what are you preparing for?**
-   - *Hebrews 12:1 - "Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders."*
-
-**Week 3-4: Reactive Balance**
-
-1. **That reactive stability you need for real lifeâ€"training it with perturbations or hoping for miraculous reflexes?**
-   - *Proverbs 24:16 - "For though the righteous fall seven times, they rise again."*
-
-2. **That fear of falling making you move less, which increases fall riskâ€"vicious cycle or breaking free?**
-   - *Isaiah 41:10 - "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you."*
-
-### Month 10: Performance and Power
-
-**Week 1-2: Speed and Agility**
-
-1. **Your movement is all tension, no relaxationâ€"fighting yourself or flowing with intention?**
-   - *Matthew 11:29-30 - "Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls."*
-
-2. **Your warm-up is the same every day regardless of what followsâ€"intelligent preparation or mindless routine?**
-   - *Proverbs 19:2 - "Desire without knowledge is not goodâ€"how much more will hasty feet miss the way!"*
-
-**Week 3-4: Power Development**
-
-1. **Your isometric end-range holds are non-existentâ€"building strength through range or just hoping flexibility is enough?**
-   - *Isaiah 35:3 - "Strengthen the feeble hands, steady the knees that give way."*
-
-2. **That loaded progressive stretching you avoid because it's hardâ€"comfort or progress?**
-   - *2 Timothy 2:3 - "Join with me in suffering, like a good soldier of Christ Jesus."*
-
-### Month 11: Maintenance and Longevity
-
-**Week 1-2: Daily Habits**
-
-1. **Still treating mobility like a luxury instead of necessityâ€"waiting for crisis or preventing it?**
-   - *Proverbs 6:6-8 - "Go to the ant, you sluggard; consider its ways and be wise! It has no commander, no overseer or ruler, yet it stores its provisions in summer."*
-
-2. **That daily movement practice you keep "planning to start"â€"still planning or finally doing?**
-   - *Luke 9:62 - "Jesus replied, 'No one who puts a hand to the plow and looks back is fit for service in the kingdom of God.'"*
-
-**Week 3-4: Injury Prevention**
-
-1. **How many times will you re-injure the same area before addressing the mobility deficit causing it?**
-   - *Proverbs 26:11 - "As a dog returns to its vomit, so fools repeat their folly."*
-
-2. **Still thinking pain is the only indicator something needs workâ€"proactive or reactive temple maintenance?**
-   - *1 Corinthians 6:12 - "I have the right to do anything," you sayâ€"but not everything is beneficial."*
-
-### Month 12: Integration and Future Planning
-
-**Week 1-2: Assessment and Progress**
-
-1. **That movement quality assessment you needâ€"measuring progress or guessing in the dark?**
-   - *2 Corinthians 13:5 - "Examine yourselves to see whether you are in the faith; test yourselves."*
-
-2. **Still thinking you're "not flexible" like it's genetic destiny instead of trained adaptationâ€"victim mindset or growth mindset?**
-   - *2 Corinthians 5:17 - "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!"*
-
-**Week 3-4: Long-term Vision**
-
-1. **That daily movement practice you need for life-long functionâ€"too much commitment or perfect investment?**
-   - *Matthew 6:21 - "For where your treasure is, there your heart will be also."*
-
-2. **How much longer will you treat your body like a machine that doesn't need daily maintenanceâ€"honoring the temple or abusing it?**
-   - *1 Corinthians 6:19-20 - "You are not your own; you were bought at a price. Therefore honor God with your bodies."*
-
-## Part IV: Seasonal Movement Cycles
-
-### Spring: Renewal and Range of Motion
-
-*Season of expanding movement capacity and flexibility*
-
-#### Spring Movement Questions
-
-1. **Your joint circles look like rectanglesâ€"smooth movement or grinding through dysfunction?**
-   - *Ecclesiastes 1:6 - "The wind blows to the south and turns to the north; round and round it goes, ever returning on its course."*
-
-2. **That controlled articular rotation you've never triedâ€"maintaining joint health or waiting for replacement?**
-   - *Psalm 139:13-14 - "For you created my inmost being; you knit me together in my mother's womb."*
-
-3. **Still thinking age equals stiffness while 80-year-old yogis prove you wrongâ€"excuses or action?**
-   - *Psalm 92:14 - "They will still bear fruit in old age, they will stay fresh and green."*
-
-### Summer: Peak Performance and Coordination
-
-*Season of maximum movement complexity and challenge*
-
-#### Summer Movement Questions
-
-1. **Your recovery between sessions is trash because you skip mobility workâ€"still wondering why you're always sore?**
-   - *Mark 6:31 - "Then, because so many people were coming and going that they did not even have a chance to eat, he said to them, 'Come with me by yourselves to a quiet place and get some rest.'"*
-
-2. **That dynamic warm-up you skip before exerciseâ€"still thinking you're saving time while setting yourself up for injury?**
-   - *Luke 14:28 - "Suppose one of you wants to build a tower. Won't you first sit down and estimate the cost to see if you have enough money to complete it?"*
-
-3. **Still thinking balance is about your ears when it's equally about ankles and eyesâ€"partial understanding or complete system?**
-   - *Luke 11:34 - "Your eye is the lamp of your body. When your eyes are healthy, your whole body also is full of light."*
-
-### Fall: Stability and Strength
-
-*Season of building resilient movement patterns*
-
-#### Fall Movement Questions
-
-1. **That fear of inversion you're nurturingâ€"avoiding positions that challenge your comfort or expanding your movement vocabulary?**
-   - *Psalm 18:29 - "With your help I can advance against a troop; with my God I can scale a wall."*
-
-2. **Still treating flexibility as something you "have" or "don't have" instead of something you developâ€"victim or victor?**
-   - *Philippians 4:13 - "I can do all this through him who gives me strength."*
-
-3. **Your proprioceptive training is zero but you wonder why you're clumsyâ€"connecting dots or staying confused?**
-   - *Proverbs 3:21 - "My son, do not let wisdom and understanding out of your sight, preserve sound judgment and discretion."*
-
-### Winter: Maintenance and Mindful Movement
-
-*Season of careful practice and injury prevention*
-
-#### Winter Movement Questions
-
-1. **Still thinking movement quality doesn't matter if you're strongâ€"building on dysfunction or fixing foundations?**
-   - *1 Corinthians 3:11 - "For no one can lay any foundation other than the one already laid, which is Jesus Christ."*
-
-2. **Your balance confidence is shot but you're not training balanceâ€"hoping for improvement or actually working?**
-   - *Proverbs 28:26 - "Those who trust in themselves are fools, but those who walk in wisdom are kept safe."*
-
-3. **That movement screening you're avoidingâ€"afraid of the truth or ready to build from where you actually are?**
-   - *Psalm 139:23-24 - "Search me, God, and know my heart; test me and know my anxious thoughts."*
-
-## Part V: Annual Development Cycles
-
-### Year One: Foundation Building
-
-**Primary Focus**: Establishing basic movement patterns and mobility habits
-
-#### Annual Questions for Year One
-
-1. **How many YouTube videos about mobility will you watch without actually doing the movementsâ€"knowledge or action?**
-   - *James 2:17 - "In the same way, faith by itself, if it is not accompanied by action, is dead."*
-
-2. **Ready to stop treating mobility work like optional extra credit and start treating it like the foundation of physical stewardship it actually isâ€"YES or more excuses?**
-   - *Hebrews 12:12-13 - "Therefore, strengthen your feeble arms and weak knees. Make level paths for your feet, so that the lame may not be disabled, but rather healed."*
-
-### Year Two: Skill Development
-
-**Primary Focus**: Developing movement quality and coordination
-
-#### Annual Questions for Year Two
-
-1. **That qi stagnation from never moving energeticallyâ€"still wondering why you feel sluggish or ready to circulate some life force?**
-   - *John 7:38 - "Whoever believes in me, as Scripture has said, rivers of living water will flow from within them."*
-
-2. **How many more mornings will you groan getting out of bed instead of doing the evening mobility work that would prevent it?**
-   - *Psalm 30:5 - "Weeping may stay for the night, but rejoicing comes in the morning."*
-
-### Year Three: Integration and Mastery
-
-**Primary Focus**: Complex movement patterns and advanced techniques
-
-#### Annual Questions for Year Three
-
-1. **How many more mornings will you accept stiffness as normal instead of doing evening mobility work?**
-   - *Psalm 4:8 - "In peace I will lie down and sleep, for you alone, Lord, make me dwell in safety."*
-
-2. **How many falls before you admit your proprioception needs deliberate training, not just hoping for the best?**
-   - *Psalm 37:24 - "Though he may stumble, he will not fall, for the Lord upholds him with his hand."*
-
-### Years Four-Seven: Mastery and Teaching
-
-**Primary Focus**: Maintaining peak movement capacity and mentoring others
-
-#### Long-term Development Questions
-
-1. **How many more years will you accept "normal" aging while ignoring movement fundamentals?**
-   - *Psalm 103:5 - "Who satisfies your desires with good things so that your youth is renewed like the eagle's."*
-
-2. **Your movement legacy for the next generationâ€"modeling excellence or accepting decline?**
-   - *Psalm 78:4 - "We will tell the next generation the praiseworthy deeds of the Lord, his power, and the wonders he has done."*
-
-## Part VI: Integration with Life and Faith
-
-### Movement as Spiritual Discipline
-
-Every stretch, every balance challenge, every coordination drill becomes an act of worship when approached with intention. Movement quality reflects our reverence for God's design and our commitment to stewarding the temple He has entrusted to us.
-
-#### Questions for Spiritual Integration
-
-1. **How does your approach to movement reflect your understanding of the body as God's temple?**
-   - *1 Corinthians 6:19-20 - "Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore honor God with your bodies."*
-
-2. **What spiritual disciplines support optimal movement and coordination?**
-   - *Psalm 139:14 - "I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well."*
-
-### The Dance of Divine Design
-
-Human movement capacity reflects the intricate wisdom of our Creator. Every joint, muscle, and nerve connection works in harmony when properly maintained. Understanding and optimizing these systems becomes an act of worship, honoring the Creator's wisdom while maximizing our capacity for service.
-
-#### Contemplative Questions
-
-1. **How does improved mobility enhance your spiritual practices and daily service?**
-   - *Isaiah 40:31 - "But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint."*
-
-2. **What does your movement quality reveal about your stewardship of God's gift?**
-   - *Romans 12:1 - "Therefore, I urge you, brothers and sisters, in view of God's mercy, to offer your bodies as a living sacrifice, holy and pleasing to God."*
-
-### Movement as Prayer
-
-Dynamic movement becomes a form of prayer when performed with awareness and gratitude. Each stretch acknowledges God's design; every balance challenge becomes trust practice; all coordination work celebrates the miracle of embodied existence.
-
-#### Integration Questions
-
-1. **How can daily movement practices enhance your spiritual awareness and connection with God?**
-   - *1 Thessalonians 5:17 - "Pray continually."*
-
-2. **What opportunities for ministry emerge when your movement capacity is optimized?**
-   - *Galatians 6:2 - "Carry each other's burdens, and in this way you will fulfill the law of Christ."*
-
-## Conclusion: The Lifelong Journey of Sacred Movement
-
-Mobility, flexibility, balance, and coordination transcend mere physical capabilitiesâ€"they become practices of sacred stewardship, honoring the intricate design of our Creator while optimizing our capacity for joyful, effective service. Each choice to move with intention, stretch with purpose, and balance with awareness declares our commitment to honoring God with our temples.
-
-The questions in this framework challenge our casual approach to movement while inspiring intentional development of God's gift of mobility. They're designed to expose the connection between movement quality and spiritual effectiveness while encouraging practical daily action.
-
-Remember: Your movement journey is unique. Some days you'll feel fluid and capable; others will humble you with limitations and challenges. Both are part of the stewardship process. The key is consistency, patience, and recognizing that your movement capacity directly impacts your ability to serve God's purposes effectively.
-
-The integration of scripture with movement development reminds us that our bodies are fearfully and wonderfully made, deserving careful attention and grateful maintenance. As we learn to move with quality and intention, we honor our Creator's design. As we practice balance and coordination, we develop skills that serve us in all areas of life. As we maintain mobility and flexibility, we preserve our capacity for long-term service and independence.
-
-**Final Movement Challenges:**
-
-1. **If your body is truly God's temple, what quality of movement does it deserve?**
-2. **Will you choose daily movement stewardship or accept gradual decline?**
-3. **What legacy of movement excellence will you model for the next generation?**
-
-*Stop reading. Start moving. Your body is deteriorating while you intellectualize. Tomorrow's independence depends on today's mobility work. The temple maintenance starts NOW. GET AFTER IT!*
-
-*1 Corinthians 6:19-20 - "Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore honor God with your bodies."*
-
-Your temple is ready. Your movement awaits optimization. The path of sacred mobility beckons. Not tomorrow. Not when convenient. Right now, with the next stretch you take and the next movement you make. Begin moving. Begin flowing. Begin honoring the masterpiece God created.
-
-The world needs people whose physical capability matches their spiritual calling. Stop treating movement like an afterthought. Start treating it like the sacred stewardship it is.
+### Week 2 · The Household Is the Gym
+**Focus work — build week.** Daily, and this is the week's real program: **every ordinary chore becomes a movement test.** Lunge with the vacuum; crawl to reach under furniture; scrub the bathroom while kneeling, not bending; carry the laundry basket tall, one trip, both hands; sit on the floor to fold clothes; and every time you drop something or do something that requires extra steps, consider the get-down-and-get-back-up a gift -- focus on the biomechanics. The question held all week: **where did today's chores ask for range I refused to give?**
+**Breath practice — "The Chore Exhale."** At each chore's start: one round, in for four while finding the working position, out for six while dropping into it. If you cannot breathe in the scrubbing position, you are not the owner of it yet.
+**Concept.** Nobody needs two hours daily; everyone needs a house that asks questions and a body that answers.
+**Deepening.** *Colossians 3:23 — "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."* And the material: this is the Starretts' "movement snacks" doctrine made domestic — ten squats waiting for the kettle, a 90/90 hip switch during the news, one extra trip up the stairs with the groceries; the research on habitual movement says the day's accumulated positions matter more than the hour in the gym, and the home is the only gym you visit twenty times a day anyway. The bathtub doesn't know it's a mobility tool. That's between you and it.
+**Teaching.** This week rewrites the whole idea of a training program: the reps were hiding in the chores all along, and the difference between a workout and a surrender is mostly whether you took the squat when it was offered. Notice the spiritual rhyme — the framework calls the body a temple, and temples have floors; somebody has always had to keep the floors. Work heartily, says the verse, and let the kneeling be the warm-up it always secretly was.
+
+### Week 3 · Basic Maintenance: The Starrett Doctrine
+**Focus work — base week.** The block's field question, taken slowly: **what would change if you treated yourself as a machine you are qualified to maintain — ten focused minutes a day, every day, forever?**
+**Breath practice — "The Maintenance Breath."** Spacious, slow, nasal — in for four, expanding ribs and belly; out for six, jaw loose. Ten rounds, sitting tall. This is the breath the whole year will ask for in every hard position.
+**Concept.** All human beings should be able to perform basic maintenance on themselves.
+**Deepening.** *Proverbs 4:7 — "The beginning of wisdom is this: Get wisdom. Though it cost all you have, get understanding."* And the material: Kelly Starrett — doctor of physical therapy, CrossFit coach, founder of The Ready State and the decade-running MobilityWOD project — built his whole teaching on that maintenance thesis: that position is a *skill*, that "tight" is usually a nervous-system speed limit rather than short tissue, and that ten honest minutes daily at the edge of range beats the monthly heroics that end in strains. His tools are unglamorous: the couch stretch, banded joint distractions, the foam roller, time on the floor. The framework's GetAfterIt energy and the DPT's patience meet exactly here: get after it, slowly, daily, for decades.
+**Teaching.** The block's third week installs the year's engine: not a stretching routine but a *maintenance mindset* — you are the owner-operator of one body, and the owner's manual is learnable. Notice the doctrine's humility: it does not promise circus flexibility; it promises competence at your own edges. Take ten minutes tonight — floor, couch stretch, breath — and you have done the whole assignment.
+
+### Week 4 · Movement as Worship: The Floor Is Free
+**Focus work — recover week.** Light integration, longer verse circle, bring-a-friend week. The block's questions in a sentence each, then the week's gift practice: **tonight, sit on the floor to watch television.** Cross-legged, 90/90, legs long — vary it when it gets uncomfortable; fidgeting is the practice. Thirty minutes on the floor, and notice what your hips say by the credits.
+**Breath practice — "The Sabbath Sit."** On the floor, wherever it's comfortable this minute: in for four, out for six, unhurried. Five minutes. The sitting is the practice; the breathing keeps it honest.
+**Concept.** The floor is free real estate, and worship has postures.
+**Deepening.** *1 Corinthians 6:19–20 — "Do you not know that your bodies are temples of the Holy Spirit? … Therefore honor God with your bodies."* And the material: the Starretts' thirty-minutes-of-floor-sitting prescription is the most economical mobility intervention in print — the positions humans used for millennia, restored nightly, no equipment beyond gravity; and the framework's own theology completes it: kneelers, prostration, sitting cross-legged around fires — the church's prayer postures and the body's oldest resting positions were never separate lists. The couch will still be there tomorrow. So, if you keep this up, will your hips.
+**Teaching.** The block closes by fusing its two anchors: maintenance and worship — the DPT's floor and the temple's floor. Notice neither asks for your feelings; both ask for your presence, in a position, breathing. Next block: the daily questions, the small interrogations that keep the household gym honest.
+
+## Block 2 · Weeks 5–8 · Daily Contemplative Practice (Part I)
+
+### Week 5 · Morning Stiffness and the Sitting Addiction
+**Focus work — base week.** Retained, morning questions: **That morning stiffness you've accepted as "normal aging"—when exactly were you planning to fight back against this slow-motion surrender to rigor mortis?** (*Psalm 139:14 — "I am fearfully and wonderfully made."*) And: **Your hip flexors are tighter than a Pharisee's doctrine—still wondering why your back hurts or ready to admit your sitting addiction needs intervention?** (*Romans 12:1 — "Offer your bodies as a living sacrifice."*)
+**Breath practice — "The First Five Minutes."** Before standing: on your back, knees bent, in for four, out for six, five rounds; then one slow sit-to-stand from the bed's edge. The morning's first meeting with gravity is scheduled, not stumbled into.
+**Concept.** Morning stiffness is a position history, not an age — it is the receipt for yesterday's shapes.
+**Deepening.** *Lamentations 3:22–23 — "His compassions never fail. They are new every morning."* And the material: Starrett's Deskbound argument in one line — the chair adapts the body to its own shape, and the hip flexors that ache at dawn spent yesterday folding; the countermeasure is not a better mattress but more positions in the day, including the floor sit and the couch stretch counter-pose. Compassions are new every morning; so is synovial fluid. Both respond to use.
+**Teaching.** The framework's first morning questions name the two favorite alibis: "normal aging" (stiffness is really position history) and the tight-hip back-pain mystery (there is no mystery — it was the sitting). Take the first-five-minutes practice daily and watch the mornings change inside two weeks. The fight-back against rigor mortis is not heroic; it is a bedtime and a floor.
+
+### Week 6 · The Temple and the Preparation
+**Focus work — build week.** Retained: **Ready to see daily movement as worship instead of treating your temple like a neglected building?** (*1 Corinthians 6:19–20 — "Your bodies are temples of the Holy Spirit."*) And: **Your movement preparation is nonexistent—respecting the temple or treating it like disposable commodity?** (*1 Corinthians 3:16–17 — "God's Spirit dwells in your midst."*)
+**Breath practice — "The Preparation."** Two minutes before whatever the day asks first — the walk, the workout, the shoveling: circles, neck to ankles, every joint, one breath per circle. The oldest warm-up in the world, restored to daily duty.
+**Concept.** Preparation is not the optional part of movement; it is the respect part.
+**Deepening.** *Ecclesiastes 10:10 — "If the ax is dull… more strength is needed, but skill will bring success."* And the material: the Starretts' controlled articular rotations — CARs, the daily joint circles — are the maintenance program of the whole Ready State method: each joint moved slowly through its full circle at low intensity, daily, for the life of the joint; the dull ax is the un-warmed body, and the skill that sharpens it costs two minutes. The temple verse does the theology: buildings this well made deserve a caretaker who circles the property.
+**Teaching.** This week's questions turn preparation from a gym nicety into a temple duty — and the practice is almost embarrassingly small: two minutes of circles, every morning, before the day loads the joints. Notice the snark is aimed at the *neglect*, not the creakiness: nobody is mocked for a stiff morning, only for pretending the building maintains itself. Do the circles daily and log what changes.
+
+### Week 7 · Cool-Downs and Movement Snacks
+**Focus work — base week.** Retained, evening questions: **How many more times will you skip the cool-down mobility work that prevents tomorrow's stiffness?** (*Proverbs 20:4 — "Sluggards do not plow in season; at harvest time they look but find nothing."*) And: **Your movement snacks throughout the day—non-existent or strategically stacked into every transition?** (*Deuteronomy 6:7 — "Talk about them… when you walk along the road, when you lie down and when you get up."*)
+**Breath practice — "The Evening Plow."** Two minutes of the day's best positions — couch stretch, thoracic circles, feet-up-the-wall — one long exhale each, before bed. Tonight's two minutes are tomorrow morning's harvest.
+**Concept.** Stiffness tomorrow is sown (or not) tonight.
+**Deepening.** *Proverbs 6:6–8 — "Go to the ant… consider its ways and be wise! … it stores its provisions in summer."* And the material: "movement snacks" is the Starretts' own coinage for exactly this — five air squats at the counter, a 90/90 switch during the commercial, calf stretches at the curb; the Deuteronomy command makes the pattern liturgical: walking, lying down, getting up — the transitions themselves are the appointed times. The ant stores in summer; the mover stretches at transitions.
+**Teaching.** The evening questions finally put numbers on the framework's quietest lie — that stiffness arrives by weather instead of by sowing. Stack snacks into transitions all week (the verse literally provides the schedule: road, bed, rising) and plow the two minutes at night. Tomorrow morning's testimony will be data.
+
+### Week 8 · The Evening Ritual
+**Focus work — recover week.** Retained: **How many more years of morning stiffness before you implement evening mobility rituals?** (*Psalm 63:6 — "On my bed I remember you; I think of you through the watches of the night."*) The block's questions in a sentence each; longer verse circle — taken on the floor.
+**Breath practice — "The Watches."** Lying in bed, feet heavy, one breath per watch of the night ahead: in for four, out for six, ten rounds. The last mobility work of the day is remembering.
+**Concept.** The last position of the day is a rehearsal for the first one.
+**Deepening.** *Psalm 4:8 — "In peace I will lie down and sleep, for you alone, Lord, make me dwell in safety."* And the material: the Starretts' floor-sitting and pre-sleep mobility prescriptions converge with the psalmist's bedtime practice — the body that ends the day in cared-for positions reports less morning stiffness within a week or two of consistency; the psalm adds the deeper layer: the resting body is *held*, not merely parked. Evening ritual is stewardship wearing pajamas.
+**Teaching.** The block closes by making the evening ritual permanent and liturgical: the bed is a place where a remembering body lies down, and a two-minute plow plus ten slow breaths completes the day's maintenance the way Compline completes the day's prayers. Do it nightly this week, and next block — the weekly cycle — will find you already moving.
+
+## Block 3 · Weeks 9–12 · Weekly Movement Cycles (Part II)
+
+### Week 9 · Monday: Gravity Is Winning by Default
+**Focus work — base week.** Retained: **How many more years will you let gravity win without putting up a fight through daily mobility work?** (*Isaiah 40:31 — "Those who hope in the Lord will renew their strength."*) **That balance you're losing incrementally—still calling it "getting older" or ready to admit it's neglect of God's temple disguised as inevitability?** (*1 Corinthians 6:19–20.*) **Your coordination is deteriorating faster than your excuses are multiplying—when will you stop talking and start moving?** (*James 1:22 — "Do what it says."*) **That movement assessment you're avoiding—afraid of the truth or ready to establish baselines?** (*Lamentations 3:40 — "Let us examine our ways and test them."*)
+**Breath practice — "Monday's Baseline."** One minute on each leg, eyes soft, near a counter: in for four, out for six. Wobbly is data. Write the data down.
+**Concept.** Gravity is not your enemy; it is your unpaid trainer — the only question is whether you attend the sessions.
+**Deepening.** *Psalm 119:59–60 — "I have considered my ways and have turned my steps to your statutes. I will hasten, without delay."* And the material: balance and coordination decline silently for years before the first fall announces it — the research the fall-prevention world cites is blunt: the systems that save you at the ice patch are the ones you trained at the countertop decades earlier. Monday's assessment is the framework's mercy: examine and test, before the environment does it for you on black ice.
+**Teaching.** Monday's four questions all strip the same alibi — "aging" doing the work that neglect did — and replace it with the only antidote: baselines. Take the single-leg minute and the sit-and-rise score, write both down, and you have established what a whole year of quiet work can grow. The hastening psalm is right: without delay, because gravity never takes a day off.
+
+### Week 10 · Tuesday: Flexibility and the Frozen Pillar
+**Focus work — build week.** Retained: **Still treating flexibility like it's optional—who exactly are you trying to fool?** (*Proverbs 31:17 — "Her arms are strong for her tasks."*) **Your hamstrings are so tight you can't touch your toes—but sure, keep pretending flexibility doesn't matter for daily function!** (*Philippians 3:13 — "Forgetting what is behind and straining toward what is ahead."*) **That thoracic spine is frozen like Lot's wife but you wonder why your shoulders hurt—ready to mobilize or keep looking back?** (*Genesis 19:26.*) **How long will you confuse feeling tight with actually being inflexible—addressing root causes or just sensations?** (*Proverbs 20:5 — "The purposes of a person's heart are deep waters."*)
+**Breath practice — "The Couch Stretch Count."** The week's workhorse: couch stretch, two minutes a side, breathing spacious and nasal — if you must hold your breath, you've found your true range, and the breath is the ruler.
+**Concept.** Feeling tight is a nervous-system opinion; being inflexible is a position fact — and only one of them answers to daily practice.
+**Deepening.** *Philippians 3:13–14, completed — "Forgetting what is behind and straining toward what is ahead, I press on toward the goal."* And the material: the Starrett doctrine again — much of "tight" is protective tone, a speed limit the nervous system sets and raises as it learns the position is safe, which is why breath and time at the edge outperform yanking; and the thoracic spine is the shoulder's chassis — the frozen mid-back hands its job to the shoulder, which files the complaint. Lot's wife is the framework's best anatomy joke: a pillar that only looks back is a pillar that can't reach forward either.
+**Teaching.** Tuesday is range day, and its four questions converge on one skill: telling the sensation from the fact, then treating the fact with breath and minutes. The couch stretch — the Starretts' signature hip-flexor antidote to the chair — is this week's household prescription, done during television, without heroics. Straining toward what is ahead, it turns out, is a mid-back verse as much as a life verse.
+
+### Week 11 · Wednesday Balance, Thursday Coordination
+**Focus work — peak week.** Retained, Wednesday's: **Your proprioception is shot but you're still pretending those stumbles are "just not paying attention"—ready to train or ready to fall?** (*Proverbs 4:26 — "Give careful thought to the paths for your feet."*) **Still treating balance training like it's for "old people" while your stability deteriorates daily—pride or stupidity?** (*Proverbs 16:18 — "Pride goes before… a fall."*) **That vestibular system you never train—waiting for vertigo or working on balance preemptively?** (*Proverbs 22:3.*) **Still thinking balance is about standing still instead of dynamic stability—missing the point much?** (*Psalm 16:8 — "With him at my right hand, I will not be shaken."*) And Thursday's: **That coordination you need for emergency response—building it daily or hoping you'll magically have it when crisis hits?** (*2 Timothy 4:2 — "Be prepared in season and out of season."*) **Your coordination under fatigue is non-existent—training it or hoping you'll never need it when tired?** (*Isaiah 40:29.*) **Your movement quality looks like a rusty robot—still thinking speed matters more than control?** (*Ecclesiastes 9:11 — "The race is not to the swift."*) **That movement complexity you avoid—brain challenging or brain dead training?** (*Romans 12:2 — "Be transformed by the renewing of your mind."*)
+**Breath practice — "The Sensory Sweep."** Single-leg stands with eyes soft, then eyes closed, near a counter: one breath cycle per attempt, wobbles counted honestly. The proprioceptive system is trained by being asked questions, daily, gently.
+**Concept.** Balance is a skill that fails silently; coordination under fatigue is a plan that fails loudly — both are trained or lost.
+**Deepening.** *Psalm 17:5 — "My steps have held to your paths; my feet have not slipped."* And the material: the fall-prevention science is emphatic — balance is among the most trainable capacities at any age, and the cheap drills (single-leg stands, heel-to-toe lines, head-turns while walking, eyes-closed work near support) pay directly into the ice-patch reflexes; and coordination is cognition wearing shoes — novel movement patterns (crawling, cross-crawls, non-dominant-hand chores) are the original brain training. The framework's snark about "balance is for old people" inverts the fact: training it is how you avoid *becoming* the person the stereotype describes.
+**Teaching.** The peak week holds two whole days at once because they are one capacity in two costumes: staying upright, and staying orderly — and both are quiet until the day they aren't. Train the drills daily at the counter and the curb; take one novel pattern (the crawl you haven't done since infancy is next month's headline) and be humbled on purpose. The race is not to the swift; it is to the person still standing in it.
+
+### Week 12 · Friday Through Sunday: Fascia, Recovery, and the Floor Test
+**Focus work — recover week.** Retained, Friday's: **That fascia of yours is dehydrated and stuck like concrete—planning to do something about it or just complain when everything hurts?** (*Ezekiel 37:5 — "I will make breath enter you, and you will come to life."*) **Your breathing is shallow and disconnected from movement—still wondering why you gas out quickly?** (*Genesis 2:7.*) **That rotational mobility you need for life—training it or living in a sagittal plane prison?** (*Ezekiel 37:7 — "…the bones came together."*) **Your breath doesn't match your movement—disconnected systems or integrated whole?** (*Job 33:4.*) Saturday's: **That neural tension limiting your flexibility—addressing it with nerve glides or just yanking on tight muscles?** (*Psalm 139:13 — "You knit me together."*) **Your tissue quality is garbage from never doing soft tissue work—waiting for massage appointments or taking daily responsibility?** (*Galatians 6:5 — "Each one should carry their own load."*) **How many chiropractor visits before you realize YOU need to mobilize daily, not just get adjusted?** (*Matthew 9:12.*) **That sensory-motor amnesia creeping through your body—waking up dormant areas or letting them atrophy?** (*Romans 13:11 — "Wake up from your slumber."*) Sunday's: **Still treating mobility work as punishment instead of gift—when will you thank God by actually maintaining His temple?** (*1 Thessalonians 5:18.*) **Your developmental positions are lost—can you still get up from the floor without using hands or have you already given up?** (*Psalm 71:9 — "Do not cast me away when I am old."*) **How long will you ignore the connection between emotional rigidity and physical stiffness—body keeping the score?** (*Proverbs 14:30 — "A heart at peace gives life to the body."*)
+**Breath practice — "The Sunday Floor Rehearsal."** Church clothes off, floor time: sit cross-legged, 90/90, kneel, full squat — five positions, five slow breaths each, and one unassisted rise at the end. The week closes where it will close for fifty more weeks: on the floor, getting up.
+**Concept.** The week's back half is plumbing and poetry: hydrate the fascia, glide the nerves, wake the sleeping areas — and notice that the stiff body and the guarded heart are one body.
+**Deepening.** *Ezekiel 37:10 — "Breath entered them; they came to life and stood up on their feet."* And the material: the valley of dry bones is the framework's own fascia chapter — tissue needs water, slow pressure, and movement to un-stick, and nerve glides (gentle, never yanked) address the tingling tightness that stretching can't; and the Starretts' Sunday-tier reminder: the developmental positions — squat, kneel, sit, rise — are the body's native alphabet, and children drill them daily without knowing. You were fluent once. Fluency returns with practice.
+**Teaching.** The weekly cycle closes with its three verdicts: fascia answers to water and pressure, nerves to glides not yanks, and the whole body to the floor — where week 1's test gets retaken every Sunday, and where the psalmist's old-age prayer meets the get-up that answers it. Notice the framework's last Sunday question is its gentlest: the body keeps the score of the heart, and peace, like range, is practiced. Next block: the monthly curriculum begins its climb.
+
+## Block 4 · Weeks 13–16 · Foundations: Screening, Patterns, and the Spine (Months 1–2)
+
+### Week 13 · Movement Screening: Joints Rust in Secret
+**Focus work — base week.** Retained: **How long will you confuse busy-ness with movement while your joints rust from lack of full range of motion?** (*Ecclesiastes 3:1 — "A time for everything."*) And: **That shoulder impingement didn't happen overnight—still ignoring the mobility work or ready to take responsibility for your temple maintenance?** (*1 Corinthians 9:27 — "I strike a blow to my body and make it my slave."*)
+**Breath practice — "The Joint-by-Joint Sweep."** Head to toe, one joint at a time, ten slow circles each direction, one breath per ten: the screening itself. Whatever circles like a rectangle gets named.
+**Concept.** Joints do not rust in public; they rust in the ranges you stopped visiting.
+**Deepening.** *2 Corinthians 13:5 — "Examine yourselves… test yourselves."* And the material: Starrett's joint-by-joint logic — the body alternates mobility joints (ankle, hip, thoracic) with stability joints (knee, lumbar, scapula), and when a mobile joint stiffens, its stable neighbor starts moving to compensate and then hurting; screening is just visiting every joint monthly to see who is doing whose work. The busy-ness question dies here: hours of activity in a two-lane movement diet rusts the other ten lanes just the same.
+**Teaching.** Month 1 opens with the audit nobody runs: joint by joint, circle by circle, the honest inventory of which ranges still answer the door. Paul made his body his slave, which is a maintenance relationship, not an abuse one. Do the sweep once this week, name your three rustiest ranges, and the year's first program just wrote itself.
+
+### Week 14 · Ankles, Knees, and the Kinetic Chain
+**Focus work — build week.** Retained: **Your ankles are stiff as boards but you're wondering why your knees hurt—when will you connect the kinetic chain dots?** (*1 Corinthians 12:26 — "If one part suffers, every part suffers with it."*) And: **Still thinking 5 minutes of half-hearted stretching counts as mobility work—how's that working for your range of motion?** (*Colossians 3:23 — "Work at it with all your heart."*)
+**Breath practice — "The Ankle Circles."** Kneeling or seated, foot off the floor: slow, full ankle circles, ten each way, breathing nasal, every day this week — plus one minute of the half-kneel stretch. The knee's landlord finally gets a visit.
+**Concept.** The knee is the innocent bystander of the ankle; suffering above is usually stiffness below.
+**Deepening.** *1 Corinthians 12:21 — "The eye cannot say to the hand, 'I don't need you!'"* And the material: the body text for the biomechanics — the stiff ankle forces the knee to absorb rotations it was never designed for, which is the mechanism behind a remarkable share of "bad knees"; and Starrett's test for the ankle is the knee-to-wall tap — measure the distance honestly, mobilize the calf and anterior shin daily, and re-measure in a month. Half-hearted stretching fails on dosage, not sincerity: two minutes of attentive daily work at the edge beats twenty minutes of distracted pulling.
+**Teaching.** Month 1 continues down the chain: the ankle is the knee's silent partner, and the framework's body-of-Christ verse is the exact diagram — one part's stiffness makes every part suffer. Do the ankle circles and the knee-to-wall check daily; your knees have been waiting years for this conversation.
+
+### Week 15 · The Vulture Neck and the Frozen Mid-Back
+**Focus work — base week.** Retained: **That forward head posture making you look like a vulture—technology winning or ready to fight back with daily corrective work?** (*Psalm 121:1 — "I lift up my eyes to the mountains."*) And: **Your spinal rotation is non-existent but you're surprised when your golf game suffers—connecting those dots yet?** (*Ecclesiastes 10:10 — "Skill will bring success."*)
+**Breath practice — "The Eyes-Up Breath."** Every hour, at the screen's edge: lift the eyes to the farthest thing in the room, chin tucked gently, in for four, out for six, three rounds. The posture of attention is trained at the same desk that broke it.
+**Concept.** The mid-back is the body's steering wheel; the forward head is the screen's triumph — both answer to hourly countermeasures.
+**Deepening.** *Psalm 123:1 — "I lift up my eyes to you, to you who sit enthroned in heaven."* And the material: the thoracic spine owns rotation — the golf swing, the shoulder check, the reach across the table — and the desk keeps it pinned in flexion for decades; Starrett's prescription is the boring one: open-book rotations, foam-roller extensions over a rolled towel, hourly posture breaks where the eyes lead the head and the head leads the spine. The psalmist's upward gaze is posture as prayer, and also just posture.
+**Teaching.** Month 2 begins with the screen's two trophies — the vulture neck and the iron mid-back — and hands you the counterattack that costs minutes: lift the eyes hourly, rotate daily, extend over the roller. Notice the framework's golf joke is really a discipleship point: rotation was designed into the hardware, and skill with the ax — not more strength with a dull one — brings success at any age.
+
+### Week 16 · Core: Pressure, Not Pose
+**Focus work — build week.** Retained: **That core stability you fake with breath-holding—ready to learn proper intra-abdominal pressure or keep pretending?** (*Psalm 51:6 — "You desired faithfulness… in that secret place."*) And: **Your spine segmentation is non-existent—moving like a log or like the 33 joints God gave you?** (*Ezekiel 37:7–8 — "The bones came together, bone to bone."*)
+**Breath practice — "The Bracing School."** On hands and knees: big spacious inhale into the ribs and belly, light exhale against a braced middle — the Starrett trunk-pressure skill, five rounds; then cat-cow, one vertebra at a time, letting the spine un-stack and re-stack with the breath.
+**Concept.** The core is a pressure system, not a sucking-in contest — and a log is a spine that forgot it has 33 individual members.
+**Deepening.** *Ephesians 4:16 — "The whole body, joined and held together by every supporting ligament, grows and builds itself up."* And the material: the breath-holding "brace" most gym-goers inherit is a counterfeit of real trunk stiffness — proper intra-abdominal pressure means a 360-degree column of air held with the breath still moving, which is why Starrett's test is whether you can *breathe in position*; and segmentation — moving one vertebra at a time, the cat-cow practiced as 33 small decisions — is what keeps the log out of the low back. Ezekiel's rattling bones, bone to bone, is the framework's own mobilization scene.
+**Teaching.** Month 2 closes at the trunk, where every movement is priced: un-learn the breath-hold, learn the pressure, and take the spine off its rigid log regime one vertebra at a time. The secret-place verse lands well here — real core work is quiet, internal, and mostly invisible, like most faithfulness. Five rounds daily this week, and heavy things get lighter.
+
+## Block 5 · Weeks 17–20 · Hips, Shoulders, and the Desk Job's Long War (Months 3–4)
+
+### Week 17 · The Hips: Where the Squat Lives
+**Focus work — base week.** Retained: **Your hip mobility is garbage but you're trying to squat heavy—ego lifting or intelligent training?** (*Proverbs 24:3–4 — "By wisdom a house is built."*) And: **Still thinking flexibility is just about muscles while ignoring fascial restrictions—how's that incomplete approach working?** (*Matthew 23:26 — "First clean the inside of the cup."*)
+**Breath practice — "The Deep Squat Hold."** The week's centerpiece: three minutes total in the bottom of a squat, elbows inside knees, heels down, breathing spacious and nasal — hands or a post for help, dignity intact. Rise, breathe, return.
+**Concept.** The squat is the human resting position; loading it before owning it is ego renting a house wisdom refused to build.
+**Deepening.** *Psalm 139:13–14 — "You knit me together in my mother's womb."* And the material: the deep squat — Starrett's ten-minutes-a-day challenge — is the position billions of humans still rest in and the one chairs deleted from the West; the hips that "won't" are usually fascia and capsule, not just "tight muscles," which is why pressure, time, and breath beat yanking. The knitting verse is apt: the hips were knitted deep and capable; the needlework doesn't expire — it just needs visiting.
+**Teaching.** Month 3 opens at the body's true center: the hips, where the squat, the stride, and the floor-sit all live or die together. Hold the bottom daily — however assisted, always breathing — and let the load questions wait until the position is owned. Wisdom builds the house first; the barbell can move in later.
+
+### Week 18 · Compensation and Honest Scales
+**Focus work — build week.** Retained: **Your movement patterns are compensatory disasters but you keep loading dysfunction—building strength on sand?** (*Matthew 7:26.*) And: **That single-leg stability you avoid—bilateral movements only or ready to address imbalances?** (*Leviticus 19:36 — "Use honest scales and honest weights."*)
+**Breath practice — "The Honest Scale."** Daily: one single-leg minute per side, near support, one breath cycle per wobble; log left and right separately. The ledger is the practice.
+**Concept.** Strength built on compensation is debt with good marketing; the scales are honest only side-to-side.
+**Deepening.** *Galatians 6:4 — "Each one should test their own actions… without comparing themselves with someone else."* And the material: the body will always find the cheapest route — stiff hip, wide stance, low back doing the hips' work — and every load added cements the detour, which is why the framework's sand metaphor is biomechanically exact; and single-leg work (the Starretts' prescription, and the sit-and-rise's secret engine) exposes the side-to-side gap that bilateral work hides. An honest scale is a device for telling the truth to yourself in pounds and minutes.
+**Teaching.** The hips' month continues with the two accountings: the compensation audit (what is doing whose work?) and the left-right audit (what does each leg actually own?). Train single-leg daily, load the imbalance before you load the bar, and trust the parable — the house on the rock was boringly built, joint by joint, on foundations that told the truth.
+
+### Week 19 · Shoulders: The Scapula's Foundation
+**Focus work — base week.** Retained: **Your scapular control is non-existent but you're doing overhead work—accident waiting to happen or addressing the foundation?** (*Luke 6:48 — "Dug down deep and laid the foundation on rock."*) And: **That shoulder impingement building from poor thoracic mobility—addressing the cause or just treating symptoms?** (*Matthew 15:13 — "Every plant that my heavenly Father has not planted will be pulled up by the roots."*)
+**Breath practice — "The Wall Slide."** Back to the wall, arms sliding up with the exhale, ribs down, four seconds up, six down — five rounds daily. The shoulder's foundation class, taught at the nearest wall.
+**Concept.** The shoulder floats on the scapula, the scapula floats on the mid-back — overhead work without that chain is a house with the foundation poured last.
+**Deepening.** *Proverbs 21:5 — "The plans of the diligent lead to profit."* And the material: impingement is usually a downstream complaint — the thoracic spine and scapular mechanics were the upstream cause, and pulling the plant by the roots means restoring rotation and control, not just resting the symptom until the next flare; Starrett's overhead tests (can the arms reach the wall, ribs quiet?) are free and humbling, and the wall slide is the daily countermeasure. The parable of foundations was about shoulders all along.
+**Teaching.** Month 4 takes the upper quarter: the overhead reach is the year's second sit-and-rise — a capability silently lost, cheaply restored, expensive to ignore. Do the wall slides nightly, test the reach monthly, and treat the shoulder's complaints as subpoenas for the mid-back's testimony. The rock-built house reaches overhead for decades.
+
+### Week 20 · The Desk Job and the Connected Cup
+**Focus work — build week.** Retained: **How long will you let your desk job destroy your mobility without fighting back every single hour?** (*Nehemiah 4:17 — "Those who carried materials did their work with one hand and held a weapon in the other.") And: **How long will you ignore the fascial connections that link your entire body—treating parts or healing wholes?** (*Ephesians 4:16 — "The whole body, joined and held together."*)
+**Breath practice — "The Hourly Weapon."** On the hour, all day: stand, two wall slides or five squats, one long exhale — sixty seconds total. The weapon is in the other hand; the work continues.
+**Concept.** The desk destroys by the hour, so the countermeasure runs by the hour — and the fascia means the desk's damage is never just where you feel it.
+**Deepening.** *Nehemiah 6:9 — "Now strengthen my hands."* And the material: the Starretts' Deskbound thesis in practice — no standing desk saves a body that never changes position; the winning variable is *position changes per hour*, and the fascia (the body's cling-wrap network running heel to skull) transmits the desk's stance everywhere, which is why the neck consults the plantar fascia more than anyone expects. Nehemiah's builders neither left the wall nor dropped their weapons; the modern builder neither leaves the desk nor drops the mobilizations.
+**Teaching.** Month 4 closes the upper-body quarter with the war that most of us fight nine hours daily: the chair's patient siege, broken by the hour, not by the weekend warrior's rescue. Set the hourly alarm for real — the practice is small enough to be undeniable. The whole-body verse is the science too: parts are connected by the wrap, and wholes are what heal.
+
+## Block 6 · Weeks 21–24 · Planes, Crawling, and the Mid-Year Audit (Months 5–6)
+
+### Week 21 · The Lateral Life and Movement Variety
+**Focus work — base week.** Retained: **That lateral movement you never train—forward only or ready to move in all planes God designed you for?** (*Isaiah 30:21 — "Whether you turn to the right or to the left… 'This is the way; walk in it.'") And: **Your movement variability you lack—same patterns daily or exploring your full movement potential?** (*1 Corinthians 12:4 — "There are different kinds of gifts."*)
+**Breath practice — "The Side Plane."** Daily this week: side lunges and lateral reaches woven into chores — the side-step to the dryer, the side-reach to the shelf — one breath per lateral move. The frontal plane gets its ministry restored.
+**Concept.** Life moves in three planes; the treadmill only pays for one of them.
+**Deepening.** *Ecclesiastes 11:6 — "Sow your seed in the morning, and at evening let not your hands be idle."* And the material: the body's planes — forward-back, side-to-side, rotational — are all native, and modern movement diets are almost entirely sagittal (walk, run, bike, sit), leaving lateral and rotational capacity to atrophy quietly until the sideways stumble on the ice finds nothing trained to catch it; the fix is the Starretts' variety principle: rotate, side-bend, and cross-step daily, in the kitchen if not in the gym. The Isaiah verse gives it a blessing: turning right or left, there is a way to walk in it.
+**Teaching.** Month 5 opens by widening the map: forward is one lane of a three-lane design, and the year's chores this week deliberately borrow the other two. Notice how the framework's snark about "forward only" is really fall-prevention in disguise — the sideways step that saves a hip is trained at the dryer, months before the ice. Sow the side-planes in the morning; the evening hands are still doing chores anyway.
+
+### Week 22 · The Crawl and the Child
+**Focus work — peak week.** Retained: **That crawling pattern you haven't done since infancy—too proud to get on the floor or too smart to skip developmental movements?** (*Matthew 18:3 — "Unless you change and become like little children, you will never enter the kingdom of heaven."*) And: **Your coordination deteriorates under stress but you never train it fatigued—prepared or hoping?** (*1 Peter 5:8 — "Be alert and of sober mind."*)
+**Breath practice — "The Crawl Cadence."** Two minutes of crawling — hands and knees, opposite hand-knee, slow and quiet, breathing nasal and unhurried — down the hallway and back. The humbling is part of the dosage.
+**Concept.** The crawl is the developmental pattern that wired your coordination the first time; the floor is where it's re-wired.
+**Deepening.** *Matthew 19:14 — "Let the little children come to me."* And the material: crawling is having a research renaissance — the developmental movement sequence (rolling, crawling, climbing) wires the cross-body coordination adults quietly lose, and it's the basis of the "movement complexity" drills the framework keeps assigning; the Starretts assign it to world-class athletes and grandmothers for the same reason: the pattern is pre-strength, pre-age, pre-everything. Jesus put a child in the middle of the argument; the framework puts one on the floor.
+**Teaching.** The peak week's exercise is the year's most universally humbling: two minutes of crawling, done with the dignity of a person who knows *why* — because the child's pattern is the adult's maintenance, and the coordination that saves you when you're tired and rushed was wired there. Crawl the hallway tonight; the family will stare; the psalmist's children, meanwhile, will simply join you, which is most of the point.
+
+### Week 23 · The Mid-Year Audit: Reaping What's Sown
+**Focus work — base week.** Retained: **Your joint mobility is decreasing yearly but you're "too busy" for daily maintenance—scheduling your future wheelchair time yet?** (*Galatians 6:7 — "A man reaps what he sows."*) And: **Still thinking stretching is the same as mobility work—static holds or actual movement capacity?** (*Ezekiel 37:7 — "The bones came together, bone to bone."*)
+**Breath practice — "The Retest."** Mid-year: barefoot, sit-and-rise retaken; ankle-to-wall retaken; single-leg minutes retaken. One long exhale per number, written next to January's. The audit is the practice.
+**Concept.** Halfway through the year, the numbers tell you what the feelings can't: mobility is sown and reaped in ranges, not vibes.
+**Deepening.** *Hosea 10:12 — "Sow righteousness for yourselves, reap the love of the LORD… It is time to seek the LORD, until he comes and showers righteousness on you."* And the material: the distinction the framework draws is Starrett's own — stretching (passive holds) versus mobility work (active control through range: CARs, loaded end-range, positional challenges), and the research tracks with the doctrine: passive range without active control doesn't survive the sidewalk. The reaping verse is unsentimental in both fields: joints, like fields, answer to the sowing schedule, and "too busy" is the sowing decision.
+**Teaching.** The mid-year month begins with the retest — the same numbers from week 1, honestly retaken — and the framework's meanest question lands only if the sowing was actually sparse. Do the retest with gratitude discipline: every improved number is grace plus two minutes daily; every flat number is a program, not a verdict. Static holds are the appetizer; capacity is the meal.
+
+### Week 24 · Daniel's Knees: The Daily Practice
+**Focus work — build week.** Retained: **Your movement practice is sporadic at best—wondering why you see no progress or ready to commit daily?** (*Daniel 6:10 — "Three times a day he got down on his knees and prayed."*) And: **Still thinking flexibility is about muscles only while ignoring nervous system's role—partial truth or complete understanding?** (*John 16:13 — "The Spirit… will guide you into all the truth."*)
+**Breath practice — "Three Times a Day."** The Daniel pattern, made flesh: morning CARs, midday floor-sit, evening couch stretch — two minutes each, breathing through every position. Sporadic is replaced by liturgical.
+**Concept.** Daniel got down on his knees three times a day and called it prayer; the framework calls the same schedule mobility — both are right.
+**Deepening.** *Psalm 55:17 — "Evening, morning and at noon I cry out, and he hears my voice."* And the material: the nervous system is the missing half of the flexibility story — range is set by protective tone as much as by tissue length, and the levers are breath, time, and graded exposure, not force; the three-times-daily schedule is not legalism but dosage: the nervous system learns safety through *frequent* visits more than heroic ones. Daniel's habit survived the lions' den; yours can survive the calendar.
+**Teaching.** The mid-year block closes with the framework's best liturgy: three appointments a day, on the floor, in positions, breathing — the same number of stations as the old prayers, and the psalmist already wrote the schedule. Notice the partial-truth question is answered by the practice itself: the muscles and the nerves are trained by the same two minutes, when the two minutes actually happen daily. Sporadic ends this week or the excuses do.
+
+## Block 7 · Weeks 25–28 · Advanced Techniques and the Nervous System (Months 7–8)
+
+### Week 25 · PNF and the Science That Actually Works
+**Focus work — base week.** Retained: **That PNF stretching that actually works—too complex to learn or too lazy to implement?** (*Proverbs 4:7 — "Though it cost all you have, get understanding."*) And: **Your loaded stretching knowledge is zero but you wonder why passive stretching isn't working—ready to learn or keep failing?** (*Hosea 4:6 — "My people are destroyed from lack of knowledge."*)
+**Breath practice — "The Contract-Release."** The PNF pattern with the breath built in: find the range's edge, inhale, *gently* contract the stretched muscle for five seconds against resistance, exhale and let the range deepen — three cycles, one position per day. The exhale is where the range is granted.
+**Concept.** Range responds to negotiation (contract, then release) better than to force — the nervous system respects a muscle that can prove strength in the position.
+**Deepening.** *Proverbs 24:3–4 — "By wisdom a house is built… through knowledge its rooms are filled."* And the material: PNF (proprioceptive neuromuscular facilitation — contract-relax and its cousins) is among the best-evidenced flexibility methods precisely because it speaks nervous-system: the contraction reflexively permits more range afterward, and *loaded* stretching — adding gentle load in the new range — is what converts borrowed range into owned range, the Starrett and functional-range doctrine in one move. Passive stretching asks nicely; PNF and load negotiate with credentials.
+**Teaching.** Month 7 begins the advanced tier with the two tools that actually move the needle: contract-release at the edge, then load the range you just won. The breath is the entire safety system — no yanking, ever, and a position you can't breathe in is a negotiation you haven't won. Learn the pattern once this week; it is the year's most portable skill.
+
+### Week 26 · End-Range Strength and Functional Range
+**Focus work — build week.** Retained: **That functional range conditioning you've never heard of—staying ignorant or ready to learn what actually works?** (*Proverbs 18:15 — "The ears of the wise seek it out."*) And: **That end-range strength you lack—flexible but weak or ready to build resilient mobility?** (*Nehemiah 6:9 — "Now strengthen my hands."*)
+**Breath practice — "The Isometric Ladder."** Daily: one end-range isometric per joint that matters — push gently into the barrier, five breaths, three angles, ramping effort. The strength is built exactly where the flexibility ends.
+**Concept.** Flexible-but-weak is a rental; flexible-and-strong is ownership — and the difference is isometrics at the end of range.
+**Deepening.** *Isaiah 35:3 — "Strengthen the feeble hands, steady the knees that give way."* And the material: functional range conditioning (Andreo Spina's FRC system, which the framework borrows by name) is built on the insight that passive range without strength is an unlocked door with no guard — its tools are isometric holds at end range and controlled articular rotations, which is why the last month's CARs and this month's isometric ladder rhyme; the tendon and nervous system learn to *trust* the new range only when strength lives there. Nehemiah prayed for strengthened hands and then rebuilt the wall — order matters.
+**Teaching.** The advanced tier continues: having won range with PNF, you now garrison it with isometrics — the boring, breath-led, five-at-a-time work that turns a borrowed stretch into a defended position. Do the ladder daily on your three rustiest joints, and notice within a month the difference between visiting a range and owning one. The knees that give way are steadied by exactly this.
+
+### Week 27 · The Guarded Nervous System
+**Focus work — base week.** Retained: **That reciprocal inhibition you don't understand—using science or just yanking on muscles?** (*Proverbs 2:6 — "From his mouth come knowledge and understanding."*) And: **Your nervous system is stuck in protection mode—ready to teach it safety through movement or stay guarded?** (*Psalm 34:4 — "He delivered me from all my fears."*)
+**Breath practice — "The Safety Signal."** The down-regulation protocol at the edge of range: double inhale, long sighing exhale, three rounds, then deepen the position one centimeter. The nervous system reads the exhale as a white flag — and then lowers its guard.
+**Concept.** Tightness is often a bodyguard that never got the call that the tour ended; range returns when the guard is persuaded, not tackled.
+**Deepening.** *Psalm 23:4 — "Even though I walk through the darkest valley, I will fear no evil, for you are with me."* And the material: reciprocal inhibition is the physiological free lunch — contracting one muscle's opposite number reflexively quiets it, which is why PNF worked last month — and "protection mode" is the bigger story: the nervous system sets range limits based on perceived threat, and the threat sensors (breath, load, speed, fear) can all be retrained with graded, calm exposure. The psalm's companion-presence is the spiritual version of the safety signal: with Him, the valley is walked, not yanked through.
+**Teaching.** Month 8 opens with the science that reframes every stretch you ever hated: the guard in your hamstrings is doing a job, and the negotiation is breath, patience, and proof of safety — one calm centimeter at a time. Stop yanking; start signaling. And notice the framework's continuity: PNF, end-range strength, and now down-regulation are three dialects of one sentence: *the body gives range to the person it trusts.*
+
+### Week 28 · Movement Re-Education: The Blind Led to New Paths
+**Focus work — build week.** Retained: **Still thinking flexibility and mobility are the same thing—passive range or active control?** (*James 2:26 — "Faith without deeds is dead."*) And: **Your compensation patterns are so ingrained you think they're normal—ready for movement re-education or staying broken?** (*Isaiah 42:16 — "I will lead the blind by ways they have not known, along unfamiliar paths I will guide them."*)
+**Breath practice — "The Slow Mirror."** Daily this week: one familiar movement — the sit-to-stand, the step-up — performed at half speed in a mirror or window's reflection, watching for the twist, the hitch, the favored side. Attention is the re-education.
+**Concept.** You cannot correct a pattern you cannot see, and "normal" is just whatever you've repeated longest.
+**Deepening.** *Romans 12:2 — "Be transformed by the renewing of your mind."* And the material: motor re-education is real neuroscience — ingrained patterns are grooved, not genetic, and un-grooving them takes slow, attended, novel repetitions that the nervous system can finally observe; the practitioner's tools are exactly the framework's: slow motion, external attention (mirrors, video, a coach's eye), and novelty. Isaiah's blind-led-to-unfamiliar-paths is the re-education promise with the nerve endings included: new paths, guided, learned.
+**Teaching.** The nervous-system month closes with the discipline that makes all the others stick: watching yourself move, at half speed, with honesty — because the compensation you "think is normal" is just the path worn deepest, and the unfamiliar path is available to whoever walks it slowly enough to notice. James's deed-faith pairing is the mobility version: range you don't control is dead range. One mirrored movement daily this week; the path is learnable.
+
+## Block 8 · Weeks 29–32 · Balance, Falls, and the Return of Power (Months 9–10)
+
+### Week 29 · The Fear of Looking Foolish
+**Focus work — base week.** Retained: **How long will you let fear of looking foolish prevent you from doing the balance work that could save your life?** (*2 Timothy 1:7 — "The Spirit… gives us power, love and self-discipline."*) And: **Your balance training is static only—real world is dynamic, so what are you preparing for?** (*Hebrews 12:1 — "Throw off everything that hinders."*)
+**Breath practice — "The Fool's Minute."** Where people can see you, on purpose: one minute single-leg at the counter, at the bus stop, in the check-out line — in for four, out for six, wobbles owned publicly. The foolishness is scheduled.
+**Concept.** The balance that saves a hip is trained in front of witnesses who will forget the wobble long before the hip forgives the pride.
+**Deepening.** *Proverbs 29:25 — "Fear of man will prove to be a snare."* And the material: fall epidemiology is the starkest mathematics in this curriculum — falls are a leading cause of injury death and broken independence in aging adults, and balance is the most trainable buffer against them; yet the drills die of embarrassment more than of difficulty, which is why the framework makes vanity the stated enemy. Static balance (eyes open, floor firm) is the warm-up; the real world trains with perturbations, head-turns, uneven curbs, and distraction — so the drills grow those on purpose.
+**Teaching.** Month 9 takes on the mortality question behind this whole curriculum — the fall, the hip, the lost independence — and names the obstacle nobody lists: fear of looking foolish at the counter. The math says train anyway; the verse says the fear of man is the snare, not the wobble. Take the fool's minute daily this week, in public, on purpose; the audience is forgettable, and the hip is not.
+
+### Week 30 · Reactive Balance and the Upright Habit
+**Focus work — build week.** Retained: **That reactive stability you need for real life—training it with perturbations or hoping for miraculous reflexes?** (*Proverbs 24:16 — "Though the righteous fall seven times, they rise again."*) And: **That fear of falling making you move less, which increases fall risk—vicious cycle or breaking free?** (*Isaiah 41:10 — "Do not fear, for I am with you."*)
+**Breath practice — "The Wobble School."** Daily, safely: gentle self-perturbations — a nudge of your own hip while single-leg, a slow head-turn while walking, toe-heel lines in the hall — one breath cycle per recovery. The wobble is the rep; the recovery is the skill.
+**Concept.** Balance is not never wobbling; it is recovering — the reflex is trained by tipping and returning, a thousand gentle times.
+**Deepening.** *Micah 7:8 — "Though I have fallen, I will rise."* And the material: reactive balance — the ankle-step-reach system that catches a trip — is trainable at every age, and the fear cycle is the true enemy: the afraid move less, and the unmoved lose the very reflexes that would have made them unafraid; the break is graduated exposure, close to support, with a spotter for the newly nervous. The righteous-falling proverb turns out to be fall-prevention literature: the point was never not falling; it was the rising that keeps on being practiced.
+**Teaching.** The balance month continues from static courage to reactive skill: tipping, catching, and the great reversal of the fear cycle — move more, fall less, fear less. Notice the framework's gospel pairing: the same God who says *do not fear* built the recovery reflex you're about to train, and both are on your side. Wobble school daily this week; falling happens; rising is the trained habit.
+
+### Week 31 · Speed Needs Relaxation
+**Focus work — base week.** Retained: **Your movement is all tension, no relaxation—fighting yourself or flowing with intention?** (*Matthew 11:29–30 — "My yoke is easy and my burden is light."*) And: **Your warm-up is the same every day regardless of what follows—intelligent preparation or mindless routine?** (*Proverbs 19:2 — "Hasty feet miss the way!"*)
+**Breath practice — "The Tension Inventory."** Before the day's fastest movement (even a brisk walk): scan jaw, shoulders, fists — exhale each loose, three rounds — then move. Speed is borrowed from relaxation, and relaxation is exhaled, not willed.
+**Concept.** Slow is smooth and smooth is fast; tension is the brake you never meant to ride.
+**Deepening.** *Ecclesiastes 10:10 — "Skill will bring success."* And the material: every fast, coordinated act — the throw, the sprint, the catch — runs on the alternating rhythm of tension and release, and the untrained mover's habit is full-body clench; the old coaching aphorism (slow is smooth, smooth is fast) is the Starrett test again in another accent: can the movement breathe? And the warm-up question is intelligence, not ritual — preparation should rhyme with the demands that follow, not with yesterday's habit.
+**Teaching.** Month 10 opens where power lives: in the release, not the clench — the yoke that is easy is also the mechanics of everything fast. Inventory your tension before your fastest moments this week, and let the exhale do the loosening the willpower never could. The warm-up, meanwhile, gets one honest upgrade: match it to what the day actually asks.
+
+### Week 32 · Power, Isometrics, and the Loaded Stretch
+**Focus work — build week.** Retained: **Your isometric end-range holds are non-existent—building strength through range or just hoping flexibility is enough?** (*Isaiah 35:3 — "Strengthen the feeble hands."*) And: **That loaded progressive stretching you avoid because it's hard—comfort or progress?** (*2 Timothy 2:3 — "Join with me in suffering, like a good soldier."*)
+**Breath practice — "The Loaded Exhale."** In the week's end-range hold: exhale into the barrier by one centimeter, hold five breaths, add light load if the breath stays honest. Progress is measured in calm centimeters.
+**Concept.** Power is range plus ownership, and ownership is loaded; comfort is the alternative, and it ships nothing.
+**Deepening.** *Hebrews 12:12 — "Strengthen your feeble arms and weak knees. Make level paths for your feet."* And the material: the aging curve punishes power (the quick stuff) faster than it punishes strength, which is why the get-up, the quick step, and the end-range hold are the decade's real insurance; loaded progressive stretching — earning range and then adding load — is the Starrett/FRC convergence again, now aimed at the older adult's real needs: getting up off the ground quickly. The soldier verse is gentle compared to a hip fracture.
+**Teaching.** The month closes by combining the year's two advanced tools into the aging body's program: isometric end-range holds and loaded stretching, both dosed by breath, both aimed at the one capacity that decides independence — getting up, quickly, from the floor. Do the loaded exhale three times this week, and feel the difference between the range you rent and the range you own.
+
+## Block 9 · Weeks 33–36 · Maintenance, Prevention, and the Long View (Months 11–12)
+
+### Week 33 · Mobility Is Not a Luxury
+**Focus work — base week.** Retained: **Still treating mobility like a luxury instead of necessity—waiting for crisis or preventing it?** (*Proverbs 6:6–8 — "Go to the ant… it stores its provisions in summer."*) And: **That daily movement practice you keep "planning to start"—still planning or finally doing?** (*Luke 9:62 — "No one who puts a hand to the plow and looks back is fit for service."*)
+**Breath practice — "The Started Practice."** The whole practice, in one breath, tonight: floor sit during the news, couch stretch at the ads, single-leg at the kettle — scheduled into this evening's actual timeline. Planning ends when the calendar gets the entries.
+**Concept.** Luxury is what you buy when you feel like it; maintenance is what you do so the feeling never matters again.
+**Deepening.** *Proverbs 21:5 — "The plans of the diligent lead to profit as surely as haste leads to poverty."* And the material: the ant's economics are the Starretts' economics — a little, daily, in season, beats episodic heroics by every measure tissue keeps; and the plow verse is the framework's blade against the eternally-planning: the practice started badly today outproduces the perfect one scheduled for spring. Haste, meanwhile, is how backs are pulled — the diligent profit both ways.
+**Teaching.** Month 11 begins with the two sentences every maintenance program dies between: "it's a luxury" and "I'm planning to start." The ant and the plow both refuse both sentences. Put the three snacks in tonight's actual timeline — written, with times — and the luxury becomes what it always was: rent for independence.
+
+### Week 34 · The Dog and Its Vomit: Injury Loops
+**Focus work — build week.** Retained: **How many times will you re-injure the same area before addressing the mobility deficit causing it?** (*Proverbs 26:11 — "As a dog returns to its vomit, so fools repeat their folly."*) And: **Still thinking pain is the only indicator something needs work—proactive or reactive temple maintenance?** (*1 Corinthians 6:12 — "Not everything is beneficial."*)
+**Breath practice — "The Post-Injury Protocol."** On any currently-quiet old injury site: five slow CARs, one isometric at the pain-free edge, three breaths of thanks that it's quiet. Maintenance of the peace, not just the war.
+**Concept.** The same injury twice is usually one mobility deficit wearing two dates; pain is the fire alarm, not the maintenance schedule.
+**Deepening.** *Proverbs 27:12 — "The prudent see danger and take refuge."* And the material: recurrence is the rule, not the exception — most back and shoulder "injuries" are the same root (the stiff joint next door, the pattern never re-educated) re-announcing itself whenever the buffer runs out; the proactive test is pain-free range and control, checked monthly, not the presence of pain checked never. The framework's grossest proverb is its most clinical: the loop is diagnosable, and it has an exit.
+**Teaching.** The prevention half of the month takes on the repeat customer — the back that "goes out" every spring, the shoulder every overhead season — and asks the only useful question: what deficit keeps re-invoicing you? Do the quiet-site protocol on your old injury this week, and remember that the absence of pain is not the presence of capacity. The dog can be retrained; the vomit is optional.
+
+### Week 35 · Measuring Progress, Retiring Victimhood
+**Focus work — base week.** Retained: **That movement quality assessment you need—measuring progress or guessing in the dark?** (*2 Corinthians 13:5 — "Examine yourselves… test yourselves."*) And: **Still thinking you're "not flexible" like it's genetic destiny instead of trained adaptation—victim mindset or growth mindset?** (*2 Corinthians 5:17 — "The old has gone, the new is here!"*)
+**Breath practice — "The Quarterly Numbers."** The full test battery, unhurried: sit-and-rise, knee-to-wall, single-leg minutes, overhead reach — one long exhale per number, one honest column next to the old ones. The year is a graph now.
+**Concept.** "Not flexible" is a training log nobody kept; adaptation is the body's entire business model.
+**Deepening.** *Philippians 3:12–13 — "Not that I have already obtained all this… but I press on."* And the material: trainability is the encouraging consensus — flexibility and balance respond to consistent practice at essentially every age studied, and the eighty-year-old yogis the framework teases you with are the proof of concept, not the exceptions to it; the assessment battery is how you watch the adaptation happen instead of guessing. Paul's non-victimhood is doctrinal: not obtained, pressing on — the same sentence as every person who ever got their score from a six to a ten.
+**Teaching.** Month 12 opens with the year's final honest accounting: the numbers, all of them, retaken and written down — and with the retirement of the framework's least-fatal lie: "I'm just not flexible," the genetics alibi that daily practice quietly falsifies. Look at your columns: the old has gone, the new is here, and both are documented. Press on from the evidence.
+
+### Week 36 · The Long View: Treasure and Temple
+**Focus work — build week.** Retained: **That daily movement practice you need for life-long function—too much commitment or perfect investment?** (*Matthew 6:21 — "Where your treasure is, there your heart will be also."*) And: **How much longer will you treat your body like a machine that doesn't need daily maintenance—honoring the temple or abusing it?** (*1 Corinthians 6:19–20 — "You were bought at a price. Therefore honor God with your bodies."*)
+**Breath practice — "The Ten-Year Exhale."** In for four on this year; out for eight on the decade you are actually training for. Six rounds — the longest exhale of the month, for the longest timeline.
+**Concept.** The question was never two hours or none; it was whether the temple gets a caretaker or a tenant.
+**Deepening.** *Psalm 92:14 — "They will still bear fruit in old age, they will stay fresh and green."* And the material: the long-view studies converge on the same boring miracle — the movers at seventy are the movers at forty who never stopped, and the strongest predictor of late-life function is decades of accumulated ordinary movement: stairs, floors, carries, walks; the Starretts' whole project is the mechanics of staying fresh and green, and the psalm already wrote the outcome. Ten minutes a day is the tuition; the fruit is paid out for decades you cannot currently imagine needing.
+**Teaching.** The monthly curriculum closes with the two questions that convert the whole year into a lifetime: investment or commitment, caretaker or tenant. Notice the treasury verse does double duty — where you *spend* your minutes is where your body's heart ends up, and the decades keep the receipts. Take the ten-year exhale nightly this week, and next quarter the seasons take over.
+
+## Block 10 · Weeks 37–40 · The Seasons of Movement (Part IV)
+
+### Week 37 · Spring: Circles and CARs
+**Focus work — base week.** Retained: **Your joint circles look like rectangles—smooth movement or grinding through dysfunction?** (*Ecclesiastes 1:6 — "Round and round it goes, ever returning on its course."*) **That controlled articular rotation you've never tried—maintaining joint health or waiting for replacement?** (*Psalm 139:13–14 — "You knit me together."*) **Still thinking age equals stiffness while 80-year-old yogis prove you wrong—excuses or action?** (*Psalm 92:14 — "They will stay fruit in old age."*)
+**Breath practice — "The CARs Renewal."** The full-body daily circles again, now with a year's competence: every joint, every direction, one breath per joint — the spring oil change. Rectangles are named and adopted for the next quarter.
+**Concept.** A joint's circle is its signature; rectangles are the body's request for a letter of its own.
+**Deepening.** *Ecclesiastes 3:1 — "A time for everything."* And the material: CARs — controlled articular rotations, the daily-maintenance centerpiece of the functional-range lineage the Starretts also teach — are exactly the "joint circles" the framework jokes about, done slowly enough to be honest; and the yogi evidence stands: the elastic elderly are the practicing elderly, whatever their birth certificates say. Spring is the audit and the oil change together — circles renewed, courses returned to.
+**Teaching.** The seasonal quarter opens with the year's smallest, most diagnostic movement: the humble joint circle, now performed with ten months of earned smoothness. Do the full-body CARs sweep and find your remaining rectangles — they are next quarter's syllabus. And let the eighty-year-old yogis finish the alibi: age correlates with stiffness in the sedentary, and practice beats correlation.
+
+### Week 38 · Summer: Recovery and the Warm-Up You Skip
+**Focus work — peak week.** Retained: **Your recovery between sessions is trash because you skip mobility work—still wondering why you're always sore?** (*Mark 6:31 — "Come with me… and get some rest."*) **That dynamic warm-up you skip before exercise—still thinking you're saving time while setting yourself up for injury?** (*Luke 14:28 — "Won't you first sit down and estimate the cost?") **Still thinking balance is about your ears when it's equally about ankles and eyes—partial understanding or complete system?** (*Luke 11:34 — "Your eye is the lamp of your body."*)
+**Breath practice — "The Pre-Game Battery."** Before the week's hardest session: five minutes of the actual day's movements at half speed, breathing nasal, plus two rounds of the safety signal. The warm-up is the first set, done in slow motion — never skipped again.
+**Concept.** The warm-up is where the session is actually won, and balance is a three-way conversation between ankles, eyes, and ears — train all three or you've trained a third.
+**Deepening.** *Proverbs 21:31 — "The horse is made ready for the day of battle."* And the material: the dynamic warm-up earns its keep by rehearsing the day's ranges at speed, which is why skipping it to "save time" is spending ligaments to buy minutes; and the balance triad — proprioceptive ankles, visual anchors, vestibular organs — is why the drunk-walk-on-a-beach feeling happens with eyes closed: you just unplugged a third of the system. The summer of complexity demands the full pre-game battery.
+**Teaching.** The seasonal peak week is the athlete's quarter: recovery and preparation, the two disciplines that hide behind training's glamour. Run the pre-game battery before every hard session this week, and do one eyes-closed single-leg minute (near support) to meet the two-thirds of your balance you've been ignoring. The horse is readied before the battle; the wise estimate the cost before the tower.
+
+### Week 39 · Fall: Inversion Fear and the Developed Gift
+**Focus work — recover week.** Retained: **That fear of inversion you're nurturing—avoiding positions that challenge your comfort or expanding your movement vocabulary?** (*Psalm 18:29 — "With your help I can advance against a troop; with my God I can scale a wall."*) **Still treating flexibility as something you "have" or "don't have" instead of something you develop—victim or victor?** (*Philippians 4:13.*) **Your proprioceptive training is zero but you wonder why you're clumsy—connecting dots or staying confused?** (*Proverbs 3:21 — "Preserve sound judgment and discretion."*)
+**Breath practice — "The Gentle Inversion."** Legs up the wall, hips on a folded towel, five minutes: in for four, out for six — the safest inversion in existence, and the on-ramp for every head-below-heart position you've been avoiding since childhood.
+**Concept.** The positions you avoid shrink the map; flexibility and proprioception are both developments, not inheritances.
+**Deepening.** *Romans 12:6 — "We have different gifts, according to the grace given to each of us."* And the material: movement vocabulary is real and trainable — the person who never goes upside down, never rotates, never crouches is running a shrinking dialect, and the fear is the mechanism, not the age; the gentle progressions (legs-up, downslope, supported) are how the nervous system re-learns that down is survivable. Clumsiness, meanwhile, is almost always untrained proprioception, not a personality trait — the dots connect at the balance drills.
+**Teaching.** The fall season is about harvest and about the walls on the map you stopped visiting. Take the gentle inversion daily this week and feel the vocabulary start widening — and retire the have/don't-have framing for good: every capacity in this year's columns was developed, including yours. With His help, even the wall is scalable; with practice, even the floor is familiar.
+
+### Week 40 · Winter: Foundations Under the Snow
+**Focus work — recover week.** Retained: **Still thinking movement quality doesn't matter if you're strong—building on dysfunction or fixing foundations?** (*1 Corinthians 3:11 — "No one can lay any foundation other than the one already laid."*) **Your balance confidence is shot but you're not training balance—hoping for improvement or actually working?** (*Proverbs 28:26 — "Those who walk in wisdom are kept safe."*) **That movement screening you're avoiding—afraid of the truth or ready to build from where you actually are?** (*Psalm 139:23–24 — "Search me, God, and know my heart."*)
+**Breath practice — "The Winter Screening."** The full battery one more time, slowly, barefoot: sit-and-rise, reach, single-leg — one breath per number, no commentary. Winter is where honest numbers keep you safe.
+**Concept.** Strength on dysfunction is a strong house on a cracked slab; winter is the season the foundation gets inspected.
+**Deepening.** *Psalm 139:23–24, completed — "See if there is any offensive way in me, and lead me in the way everlasting."* And the material: the strong-but-creaky are winter's special victims — the deadlift that papers over the frozen ankle until the day it doesn't — and the screening the framework keeps assigning is the psalm's prayer with a goniometer: search me, know me, lead me from where I actually am. The fear of the truth is the only part of the truth that can hurt you; the numbers themselves just want to help.
+**Teaching.** The seasonal quarter closes in winter's honesty: foundations, confidence, and the screening that terrifies people whose real fear is starting over. Retake the battery with the psalm's posture — searched and led, not judged — and let the strong-and-stiff find out what the slab looks like. Spring will be here in a block, and it builds on whatever this winter found.
+
+## Block 11 · Weeks 41–44 · The Annual Development Cycles (Part V)
+
+### Week 41 · Year One: Videos Versus Reps
+**Focus work — base week.** Retained: **How many YouTube videos about mobility will you watch without actually doing the movements—knowledge or action?** (*James 2:17 — "Faith by itself, if it is not accompanied by action, is dead."*) And: **Ready to stop treating mobility work like optional extra credit and start treating it like the foundation of physical stewardship it actually is—YES or more excuses?** (*Hebrews 12:12–13 — "Strengthen your feeble arms and weak knees. Make level paths for your feet."*)
+**Breath practice — "The Watch-Then-Do."** The only video protocol the framework endorses: one video, then pause, then *do the movement*, breathing through it, before the next one. Ten minutes of doing beats an hour of watching.
+**Concept.** The mobility channel is the only genre where the audience watches other people move.
+**Deepening.** *James 1:22 — "Do not merely listen to the word, and so deceive yourselves. Do what it says."* And the material: the watching-doing gap is the field's open secret — mobility content is among the most-saved, least-performed material on the internet, a fact The Ready State's own coaches lament; and the fix is mechanical, not motivational: shrink the unit to one video-then-rep, and the saved queue becomes a curriculum. James wrote the epistle for this exact shelf.
+**Teaching.** The annual cycles begin with the framework's most modern temptation: the mobility video as spectator sport, knowledge accumulating while the hamstrings stay exactly as they were. Convert the shelf into a syllabus this week — one video, then the movement, breathing, on the floor — and notice that ten honest minutes of doing outranks the entire saved folder. The strengthened knees are on the far side of the pause button.
+
+### Week 42 · Year Two: Rivers and Sluggish Mornings
+**Focus work — build week.** Retained: **That qi stagnation from never moving energetically—still wondering why you feel sluggish or ready to circulate some life force?** (*John 7:38 — "Rivers of living water will flow from within them."*) And: **How many more mornings will you groan getting out of bed instead of doing the evening mobility work that would prevent it?** (*Psalm 30:5 — "Weeping may stay for the night, but rejoicing comes in the morning."*)
+**Breath practice — "The River Routine."** The circulation prescription: five minutes of continuous, easy, multi-planar movement — stride, side-step, rotation, reach — nasal breathing, first thing. Sluggishness is a stagnation problem, and rivers need somewhere to flow.
+**Deepening.** *Isaiah 58:11 — "You will be like a well-watered garden, like a spring whose waters never fail."* And the material: the East-and-West convergence is real here — the sluggishness the framework calls stagnation is what the movement literature calls the deconditioned, low-circulation state, and its antidote is identical: regular, energizing, whole-body movement that raises the heart rate and moves every plane; the river verse is the physiology with a promise attached. And the groan-mornings answer stays stubbornly unromantic: the evening plow, done daily, is why some people's mornings rejoice.
+**Teaching.** Year two's questions converge on flow: energy that circulates and mornings that don't groan — both delivered by movement scheduled daily, both lost to stagnation dressed up as tiredness. Do the river routine every morning this week and the evening two minutes every night; the difference in the dawn groan is your data. Living water was always a movement metaphor as much as a spiritual one.
+
+### Week 43 · Year Three: Mastery, Falls, and Upright Hands
+**Focus work — build week.** Retained: **How many more mornings will you accept stiffness as normal instead of doing evening mobility work?** (*Psalm 4:8 — "In peace I will lie down and sleep."*) And: **How many falls before you admit your proprioception needs deliberate training, not just hoping for the best?** (*Psalm 37:24 — "Though he may stumble, he will not fall, for the Lord upholds him with his hand."*)
+**Breath practice — "The Evening Again."** The mastery week's practice is deliberately unadvanced: the same two-minute evening plow from week 7, now performed with a year's consistency — because mastery in maintenance is mostly showing up at hour ten thousand. Log the streak.
+**Concept.** At the mastery level, the advanced technique is consistency; the rare skill is the boring practice kept.
+**Deepening.** *Galatians 6:9 — "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up."* And the material: the fall question gets its hard answer from the balance literature — proprioception declines measurably without training and responds robustly to it, and the difference between a stumble and a fracture is often one trained ankle-step; the "not giving up" verse is the aging athlete's whole program. The psalm's upheld hand is the promise; the wobble school is the practice.
+**Teaching.** Year three asks the two questions that separate the practitioners from the browsers: do the evenings still happen, and has the balance work actually begun? Notice the framework's mastery tier contains no new exercises — only the same two minutes and the same single-leg minute, done without giving up, which is the entire harvest law. The God who upholds also assigned the drills.
+
+### Week 44 · Years Four–Seven: Legacy and the Green Old Age
+**Focus work — recover week.** Retained: **How many more years will you accept "normal" aging while ignoring movement fundamentals?** (*Psalm 103:5 — "Your youth is renewed like the eagle's."*) And: **Your movement legacy for the next generation—modeling excellence or accepting decline?** (*Psalm 78:4 — "We will tell the next generation the praiseworthy deeds of the Lord."*)
+**Breath practice — "The Legacy Sit."** This week, every time you sit on the floor — television, grandchild's rug, picnic grass — name it silently as the inheritance it is: they watch you get down and up, and their seventy-year-old selves are taking notes. In for four, out for six, and stay a while.
+**Concept.** The next generation learns what aging looks like by watching yours get off the floor.
+**Deepening.** *Proverbs 22:6 — "Start children off on the way they should go, and even when they are old they will not turn from it."* And the material: the movement-legacy evidence is the quiet kind — households that sit on floors, walk after dinner, and garden produce adults who do, and the sit-and-rise scores of cultures that keep floor habits put Western chair-cultures to shame at every decade; the Starretts' thirty-minute floor prescription is, among other things, a parenting strategy. Eagle-renewed youth is not marketed in a bottle; it is modeled on a rug.
+**Teaching.** The annual quarter closes with the longest timeline in the framework: your get-up, performed in front of witnesses who will be doing their own in fifty years. The legacy questions are literal — the grandchildren currently watching you cross-legged on their rug are downloading their future posture vocabulary. Model the floor this week; decline is optional, and so is the inheritance.
+
+## Block 12 · Weeks 45–48 · Movement as Spiritual Discipline (Part VI)
+
+### Week 45 · The Temple's Approach
+**Focus work — base week.** Retained: **How does your approach to movement reflect your understanding of the body as God's temple?** (*1 Corinthians 6:19–20 — "You are not your own; you were bought at a price. Therefore honor God with your bodies."*) And: **What spiritual disciplines support optimal movement and coordination?** (*Psalm 139:14 — "I am fearfully and wonderfully made."*)
+**Breath practice — "The Temple Walk-Through."** Ten slow minutes of attention: walk the house you've been training in all year — the floor you sit on, the stairs you climb, the corners you scrub — one breath per station, giving thanks. Maintenance, meeting liturgy.
+**Concept.** The doctrine is in the details: a body bought at a price is maintained like it.
+**Deepening.** *Romans 12:1 — "Offer your bodies as a living sacrifice, holy and pleasing to God—this is your true and proper worship."* And the material: the integration the framework describes has an old name — the body as instrument of devotion: kneeling, standing, processing, fasting, walking to the altars of others' needs; and the modern movement disciplines (floor time, daily CARs, movement snacks) slot into the same hours the prayer book always kept. The spiritual disciplines that support movement turn out to be movement: pilgrimage, service, Sabbath walks, the Psalm-worthy ascent.
+**Teaching.** The final integration quarter opens with the plain question the year has been answering anyway: what does your approach to movement say you believe about the temple? Walk the house with the breath practice once and see the year's gyms for what they were — stairwells as steeples, bathtubs as altars of the humble, the floor as a pew. The disciplines converge because the body is one.
+
+### Week 46 · The Dance of Divine Design
+**Focus work — build week.** Retained: **How does improved mobility enhance your spiritual practices and daily service?** (*Isaiah 40:31 — "They will run and not grow weary, they will walk and not be faint."*) And: **What does your movement quality reveal about your stewardship of God's gift?** (*Romans 12:1 — "Offer your bodies as a living sacrifice."*)
+**Breath practice — "The Service Test."** One act of service this week that requires a body — carrying a neighbor's boxes, mowing the widow's lawn, the church nursery floor — and performed as the year taught: squatting, lifting tall, breathing, getting down and up without hands where honesty allows.
+**Concept.** Every joint, muscle, and nerve is a working harmony — and the harmony was made for service, not storage.
+**Deepening.** *1 Peter 4:10 — "Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace."* And the material: the aging-and-service data is practical — the capacity to kneel at a toddler's level, lift the grandchild, carry the casserole, and get up from the hospital-room floor are the load-bearing movements of love; the framework's Isaiah pairing is exact, because soaring, running, and walking are all service verbs. Stewardship of the gift ends in the gift's spending.
+**Teaching.** The second integration week moves from doctrine to choreography: the fearfully-made machine exists to be *spent* on others, and mobility is the difference between watching needs and meeting them. Take the service test this week with the year's mechanics — the squat, the brace, the get-up — and notice that the harmony was designed for exactly this. The dance has a Partner and a purpose.
+
+### Week 47 · Movement as Prayer
+**Focus work — build week.** Retained: **How can daily movement practices enhance your spiritual awareness and connection with God?** (*1 Thessalonians 5:17 — "Pray continually."*) And: **What opportunities for ministry emerge when your movement capacity is optimized?** (*Galatians 6:2 — "Carry each other's burdens, and in this way you fulfill the law of Christ."*)
+**Breath practice — "The Breath-and-Step Office."** Ten minutes of walking prayer: a name or a thanks per breath cycle, feet on the earth, in for four, out for six — the oldest contemplative technology, restored to the body it was always assigned to.
+**Concept.** Unceasing prayer assumed a body that moves; the monks who wrote it were pacing the cloister.
+**Deepening.** *Psalm 119:164 — "Seven times a day I praise you."* And the material: the movement-prayer traditions are the deepest well here — the pilgrim walks, the labyrinth, the Orthodox prayer rope paced with breath, the Jesus Prayer of the sync-breathed East; and the burden-carrying verse names the ministry that mobility unlocks: the carried box, the held arm, the walked-with. Ministry is biomechanics with love at the helm.
+**Teaching.** The third integration week gives the year's physical practice its oldest job title: prayer. The breath-and-step office needs no app, no class, and no fitness — just feet, breath, and attention, seven times a day if you're zealous, ten minutes if you're honest. And when the capacity you've built is spent carrying someone's burden, the law of Christ is fulfilled through a trained posterior chain, which is a sentence Paul would have nodded at.
+
+### Week 48 · The Synthesis: Made to Move, Made For
+**Focus work — recover week.** The quarter's six questions in a sentence each, then the synthesis exercise: retake week 1's sit-and-rise — barefoot, hands-free, honest — and compare the two numbers. Whatever the change, say what the year actually taught, out loud, in one sentence. Longer verse circle, on the floor, of course.
+**Breath practice — "The Two Numbers."** One breath cycle per point of improvement: in for four on the year's work, out for six on the score. Then two minutes of stillness, spacious and nasal, the whole year's breath in miniature.
+**Concept.** The two numbers are the year in a sentence: position is a practice, and practice keeps the masterpiece.
+**Deepening.** *1 Corinthians 6:19–20 — "Do you not know that your bodies are temples of the Holy Spirit…? Therefore honor God with your bodies."* And the material: the Starretts' whole doctrine, from MobilityWOD to *Built to Move*, compresses to the framework's own theology turned practical — you were made to move, movement is learnable at every age, the floor is the finest gym ever built, and ten daily minutes is the tithe; the sit-and-rise score is simply the doctrine's decimal. Consider the two numbers what they are: stewardship, documented.
+**Teaching.** The final block before the capstone closes by reading the year's ledger — two numbers, a floor, a breath — and letting the doctrine and the field manual say the same sentence from their two vocabularies: made, maintained, honored. Whatever the gap between your numbers, the direction was chosen, and choosing is the whole curriculum. One block remains: the challenges, and the floor you now own.
+
+## Block 13 · Weeks 49–52 · The Lifelong Journey: Final Challenges (Conclusion)
+
+### Week 49 · What Quality Does the Temple Deserve?
+**Focus work — base week.** Retained, final challenge: **If your body is truly God's temple, what quality of movement does it deserve?**
+**Breath practice — "The Deserving Walk."** One walk this week at the standard you'd keep if the temple's Owner were walking beside you — which the framework's whole claim is that He is: tall spine, easy shoulders, unhurried breath, eyes up. In for four, out for six, the whole way.
+**Concept.** Quality of movement is a theology of the body, performed.
+**Deepening.** *Psalm 96:9 — "Worship the Lord in the splendor of his holiness; tremble before him, all the earth."* And the material: the quality question reframes every drill of the year — the get-up, the walk, the carry, the crawl — as standards kept rather than exercises done; the Starrett phrase "position as skill" meets the psalm's "splendor" and neither blinks. The temple's deserving is not perfection; it is maintenance kept with reverence, ten minutes at a time, for the life of the building.
+**Teaching.** The final quarter begins with the conclusion's first challenge, held as a walking standard rather than a quiz: what does the temple deserve from the way you carry it down the street? Take the deserving walk once and notice that quality is mostly attention, which is mostly worship, which was the point all along. The standard is reachable tonight; that is the good news of the whole framework.
+
+### Week 50 · Stewardship or Decline
+**Focus work — build week.** Retained, final challenge: **Will you choose daily movement stewardship or accept gradual decline?**
+**Breath practice — "The Standing Order."** Every morning before the first input: in for four, out for six, and the order spoken once — *today I move, on purpose, in my own house.* Three rounds, then the day, which is full of invitations.
+**Concept.** Decline is not chosen; it is defaulted into — stewardship is the daily refusal of the default.
+**Deepening.** *Joshua 24:15 — "Choose for yourselves this day whom you will serve."* And the material: the longitudinal studies make the default vivid — without deliberate practice, balance, flexibility, and the sit-and-rise score decline on a steep and quiet curve, and the difference between the two sixty-five-year-olds at the picnic is almost always decades of small choices, not luck or genes alone; the Starretts' ten-minute floor-and-breath prescription is the stewardship option, priced for any calendar. Joshua's *this day* is the only day the choice is ever actually made.
+**Teaching.** The second challenge names the fork plainly: decline is the automatic setting, and stewardship is the daily override — chosen every morning, before the world chooses for you. Speak the standing order, take the floor, and let the year's small mechanics make the big decision unnecessary. The default never rests; neither does the steward.
+
+### Week 51 · The Movement Legacy
+**Focus work — build week.** Retained, final challenge: **What legacy of movement excellence will you model for the next generation?**
+**Breath practice — "The Inheritance Exhale."** In for four, receiving the movement you were handed — the parents, coaches, and grandparents who moved and didn't; out for eight, releasing one habit forward — a floor-sit, a walk, a get-up done in front of someone young. Six rounds, then the release performed live.
+**Concept.** The legacy is not what you tell them about movement; it is what your seventy-year-old get-up tells them about their ninety-year-old one.
+**Deepening.** *3 John 1:4 — "I have no greater joy than to hear that my children are walking in the truth."* And the material: the household transmission data is the framework's final science — children of active parents are multiples more likely to be active adults, and the mechanisms are modeling, shared activity, and normalized floor-sitting, not lectures; the psalmist's *tell the next generation* is fulfilled most loudly without words. Walking in the truth includes, apparently, literal walking.
+**Teaching.** The third challenge widens to the watchers — the children, nieces, neighbors, and teams who are calibrating their own aging against your get-up, your floor-sit, your walk after dinner. Perform one legacy habit forward this week, in person, in front of someone whose seventy-year-old self is taking notes. The inheritance compounds; so, unfortunately, does the alternative.
+
+### Week 52 · Stop Reading. Start Moving.
+**Focus work — recover week.** The year's final session: the easiest movement of the year, the longest verse circle of the year — on the floor — and the framework's closing command read aloud twice, once as a scold, once as a benediction: **Stop reading. Start moving. Your body is deteriorating while you intellectualize. Tomorrow's independence depends on today's mobility work. The temple maintenance starts NOW. GET AFTER IT!**
+**Breath practice — "The Masterpiece Breath."** Spacious, slow, nasal — the Built to Move parameters one last time: in for four, expanding wide; out for six, unhurried. Six rounds, then two full minutes of stillness on the floor you now own. The breath is the whole curriculum, kept.
+**Concept.** The masterpiece was made moving; the maintenance is ten minutes; the hour is now.
+**Deepening.** *1 Corinthians 6:19–20 — "Do you not know that your bodies are temples of the Holy Spirit…? You are not your own; you were bought at a price. Therefore honor God with your bodies."* And the material: the framework's closing shout and the Starretts' gentlest prescription converge at the end, as they have all year — the sit-and-rise as vital sign, the floor as sanctuary, the chores as gymnasium, the breath as proof of ownership, ten minutes daily as the whole tithe. The world needs people whose physical capability matches their spiritual calling, and the gap between those two sentences is closed one get-up at a time.
+**Teaching.** The document ends where it began: a plan that was never going to survive contact unchanged, and gratitude that the reality was better than the hope. Fifty-two weeks made the household a gym, the floor a pew, and the get-up a testimony — scored, written, and rising. Your temple is ready. Your movement awaits optimization. Not tomorrow. Not when convenient. Right now, with the next stretch you take and the next movement you make. Begin moving. Begin flowing. Begin honoring the masterpiece God created. You aren't ready to die YET — and until you are: get down on the floor, get back up, and GET AFTER IT.
+
+---
+
+**Conclusion: The Lifelong Journey of Sacred Movement.** Mobility, flexibility, balance, and coordination transcend mere physical capabilities — they become practices of sacred stewardship, honoring the intricate design of our Creator while optimizing our capacity for joyful, effective service. Some days you'll feel fluid and capable; others will humble you with limitations. Both are part of the stewardship process. The key is consistency, patience, and recognizing that your movement capacity directly impacts your ability to serve God's purposes effectively. As we learn to move with quality and intention, we honor our Creator's design; as we practice balance and coordination, we develop skills that serve us in all areas of life; as we maintain mobility and flexibility, we preserve our capacity for long-term service and independence.
+
+*To God be the glory.*
+
+*Revision v1 — unfolded from 10MobilityCoordination.md into 52 weeks. Write in the margins. Change the plan. Sit on the floor. Come back next week.*

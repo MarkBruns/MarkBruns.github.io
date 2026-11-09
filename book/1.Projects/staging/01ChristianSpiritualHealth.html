@@ -1,0 +1,609 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Christian Spiritual Health - MZB.me ... lab notebook for applying agentic BASB</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="highlight-css" href="../../highlight.css">
+        <link rel="stylesheet" id="tomorrow-night-css" href="../../tomorrow-night.css">
+        <link rel="stylesheet" id="ayu-highlight-css" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "../../";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../../toc.js"></script>
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../../toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">MZB.me ... lab notebook for applying agentic BASB</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="christian-spiritual-health--a-52-week-contemplative-curriculum"><a class="header" href="#christian-spiritual-health--a-52-week-contemplative-curriculum">Christian Spiritual Health — A 52-Week Contemplative Curriculum</a></h1>
+<p><em>Free. Peer-led. No ranks. No branding.</em></p>
+<p><strong>To God be the glory.</strong></p>
+<p><em><strong>A year of training in the discipline of discerning the will of the Creator — then living and revising the plan as Jesus Christ would do.</strong></em> Plans are always imperfect, but the whole point of planning is not the document; it is the implementing, refactoring, and revising. The POINT of a plan is a starting roadmap that gets overhauled the moment <em>the walk</em> starts, because new OPPORTUNITIES (and new trials) will arise.</p>
+<p>The MOST IMPORTANT part of this plan is <strong>gratitude discipline</strong>: the situation is always far better than one hoped for, though never exactly what one hoped for. <strong>The REASON that SPIRITUAL fitness matters more than all other forms of fitness combined is that the Creator is still creating.</strong> Embrace the suck, embrace disappointment from humans, embrace the humility, embrace being unappreciated or taken for granted — because humans CANNOT understand the nature of God. Long-term, massive reductions in anxiety are one way of knowing whether the approach is working.</p>
+<h2 id="1-what-this-document-is-and-what-it-is-not"><a class="header" href="#1-what-this-document-is-and-what-it-is-not">1. What this document is, and what it is not</a></h2>
+<p><strong>Is:</strong> a full year of weekly, 75-minute contemplative sessions for a small group (or one reader with a notebook) that expects people to arrive and leave at will. It is written so that a person who has never prayed out loud, has never read the Bible seriously, and has no idea what anyone is talking about can walk in on any week of the year and be genuinely included rather than politely tolerated. Every question of the source framework is retained and given its week; each week is deepened with one additional passage of Scripture.</p>
+<p><strong>Is not:</strong> a credential program. No ranks, no attendance sheet, no graduation, no test. Nothing in this document gives one person authority over another. The person who came for the first time last week is exactly as welcome as the person who has come for three years.</p>
+<p><strong>Is not:</strong> a substitute for the source document. It is the source document, unfolded across a year — daily questions in the early blocks, weekly and monthly themes through the middle, seasonal and annual questions at the year's end — with the weekly rhythm of struggle and victory built around them.</p>
+<p>Every week has five parts: a <strong>focus work</strong> assignment (the week's question or questions, wrestled with), a <strong>breath practice</strong> (a named, counted breathing exercise done as its own segment), one <strong>concept</strong> to carry, one <strong>deepening verse</strong> beyond the week's primary passage, and about four sentences of <strong>teaching</strong> written out so nobody has to improvise a lesson they do not feel ready to give.</p>
+<h2 id="2-how-to-read-a-weeks-entry"><a class="header" href="#2-how-to-read-a-weeks-entry">2. How to read a week's entry</a></h2>
+<ul>
+<li><strong>Focus work.</strong> The question(s) from the framework, labeled <em>teach</em>, <em>repetition</em>, <em>capacity</em>, or <em>flow</em> (explained in section 5), with their primary verses.</li>
+<li><strong>Breath practice.</strong> A named exercise with actual counts — a class inside the class, not a warm-up and not a cooldown.</li>
+<li><strong>Concept.</strong> One idea, one sentence, for the week.</li>
+<li><strong>Deepening verse.</strong> One additional passage of Scripture, chosen to open the week's question further than the primary verse does.</li>
+<li><strong>Teaching.</strong> Three to five sentences to read aloud or paraphrase: what the question means, why it matters to a person who is tired or afraid or new, and how it connects to what the breath just did.</li>
+</ul>
+<p>Reading the teaching in your own words is fine. Skipping it is <em>not</em> — the sentences are the actual lesson, and the question is the illustration.</p>
+<h2 id="3-the-whole-person-four-things-we-are-actually-training"><a class="header" href="#3-the-whole-person-four-things-we-are-actually-training">3. The whole person: four things we are actually training</a></h2>
+<p>A spirituality that only trains the soul produces a person who is holy and still frantic. Each session touches four dimensions, and each week names which one it leans on.</p>
+<p><strong>The physical dimension</strong> is breath, posture, rest, and the body in prayer. Trainable in an hour, measurable in a season. The breath practice is the body's share in every week of this plan.</p>
+<p><strong>The mental dimension</strong> is discernment: numbering days, telling God's will from your own desires, understanding rather than merely reacting. A person who can say what a verse means in one sentence has gained something no amount of feeling alone gives.</p>
+<p><strong>The emotional dimension</strong> is what happens under real stress — anger, grief, doubt, disappointment from humans — arriving in a place where nobody is allowed to mock anybody. Real stress plus guaranteed safety is most of what this program is for. We never tell anyone their wounds are being healed here; we provide the conditions and let time do its work.</p>
+<p><strong>The spiritual dimension</strong> is attention to God: one passage, read twice, sat with in silence, answered with one sentence if a person wants to speak. Not a sermon, not a debate. The verse is the teacher; the leader is the person who keeps the room quiet long enough for it to be heard.</p>
+<h2 id="4-the-fixed-shape-of-every-session"><a class="header" href="#4-the-fixed-shape-of-every-session">4. The fixed shape of every session</a></h2>
+<p>The session is the same every week of the year. That sameness is the single most important design decision in this document. A person who drops in twice a year should recognize the shape immediately.</p>
+<div class="table-wrapper"><table><thead><tr><th>Minutes</th><th>Segment</th><th>What happens</th></tr></thead><tbody>
+<tr><td>0–5</td><td>Arrival</td><td>Bibles or printed weeks. Anyone new gets the one-page card (week 1's handout).</td></tr>
+<tr><td>5–10</td><td>Circle</td><td>Welcome. The week's question, read aloud. One sentence of silence before speech.</td></tr>
+<tr><td>10–22</td><td>Preparation</td><td>Posture and stillness: sit, straighten, two minutes of silence, then the week's primary verse read twice.</td></tr>
+<tr><td>22–45</td><td>Main focus work</td><td>Teach, repetition, capacity, or flow, depending on the week.</td></tr>
+<tr><td>45–52</td><td>Conditioning</td><td>Memory work: the week's deepening verse, repeated until it can be said without the page. Ten minutes, scaled.</td></tr>
+<tr><td>52–62</td><td><strong>Breath practice</strong></td><td>The named exercise, taught as its own segment.</td></tr>
+<tr><td>62–72</td><td>Verse circle</td><td>The deepening verse read twice. One question. Silence. One sentence each from anyone who wants to speak.</td></tr>
+<tr><td>72–75</td><td>Close</td><td>The Lord's Prayer, together. Anyone who wants to stay and talk is welcome to stay and talk.</td></tr>
+</tbody></table>
+</div>
+<p>That is seventy-five minutes. For a solo practitioner, keep the timer and the segments. In a crushing week, shorten the focus work, never the verse circle.</p>
+<h2 id="5-the-four-week-rhythm-inside-every-block"><a class="header" href="#5-the-four-week-rhythm-inside-every-block">5. The four-week rhythm inside every block</a></h2>
+<p>The year is thirteen blocks of four weeks. Each block has one theme, and inside each block the weeks follow the same pattern. Learn the pattern once and you can predict any week of the year.</p>
+<p><strong>Week one — Teach.</strong> The block's opening question, held slowly, no hurry, a great deal of silence. The goal is that everyone leaves able to <em>state the question</em> in their own words. If people are exhausted, the teaching was too long. If people cannot restate the question at the end, the teaching was too short.</p>
+<p><strong>Week two — Repetition.</strong> The block's questions returned to daily — morning and evening — quietly, without novelty. Insight is offered gently and individually, never as a public correction.</p>
+<p><strong>Week three — Capacity.</strong> The block's hardest question, held under real pressure: doubt, grief, anger, or fear brought into the room and looked at. Nobody is pushed past what they can recover from by the next morning. The dark weeks are deliberate; comfort that has never met the dark is only a mood.</p>
+<p><strong>Week four — Flow.</strong> Light integration — the block's questions revisited in a sentence each — followed by a longer verse circle. The bring-a-friend week: arrive late, leave early, miss half, nothing is disrupted.</p>
+<h2 id="6-why-the-breath-practice-sits-where-it-does"><a class="header" href="#6-why-the-breath-practice-sits-where-it-does">6. Why the breath practice sits where it does</a></h2>
+<p>The breath comes <em>after</em> the focus work and <em>before</em> the verse circle, on purpose. After wrestling with a hard question, most people are mildly aroused: heart up, breathing fast, attention narrowed. A passage read in that state lands on a nervous system that cannot receive it. Eight to ten minutes of slow breathing with a long exhale widens attention and makes the room quiet enough that a single verse can actually be heard instead of merely recited.</p>
+<p>This is also where the curriculum trains the framework's own three movements, named aloud when each practice is introduced:</p>
+<ol>
+<li><strong>Down-regulate.</strong> Long exhale, slow count, no strain. The anxiety-reduction job — the framework's promised long-term, massive reduction in anxiety begins here, eight minutes at a time.</li>
+<li><strong>Zoom out.</strong> Attention pushed way, way out — beyond the room, beyond the city, to deep space and tens of thousands of years. The perspective job.</li>
+<li><strong>Discern.</strong> One question, held before God without demanding an answer. The core-principle job: focus upon discerning the will of your Creator rather than upon immediate anxieties, fears, and noise.</li>
+</ol>
+<p>You will still swat mosquitoes. When your hand is on a warming stove, you will still move it. But you do not need to flail about dramatically like some flighty prey animal — you can ditch the drama and breathe like an apex predator. That is a physical skill, practiced fifty-two times a year in this program.</p>
+<hr />
+<h2 id="block-1--weeks-14--the-core-principle-discerning-the-will-of-the-creator"><a class="header" href="#block-1--weeks-14--the-core-principle-discerning-the-will-of-the-creator">Block 1 · Weeks 1–4 · The Core Principle: Discerning the Will of the Creator</a></h2>
+<h3 id="week-1--zoom-way-way-out"><a class="header" href="#week-1--zoom-way-way-out">Week 1 · Zoom Way, WAY Out</a></h3>
+<p><strong>Focus work — teach week.</strong> The core principle itself: focus upon discerning the will of your Creator rather than upon immediate anxieties, fears, and noise. Zoom your thinking out beyond human-centric navel-gazing; zoom your situational awareness out beyond your geographic confines, to deep space; zoom your conception of time beyond the moment, to tens of thousands of years. Retained question: <strong>How does the created world give you knowledge of its Creator?</strong> (<em>Psalm 19:1 — "The heavens declare the glory of God, and the sky above proclaims his handiwork."</em>)
+<strong>Breath practice — "Deep Space."</strong> Sit still. Breathe in for four, out for six. On each exhale, move your attention outward: the room, the building, the city, the sky. Four rounds, no talking.
+<strong>Concept.</strong> Discernment is a zoom problem: God's will comes into focus only at cosmic distance.
+<strong>Deepening verse.</strong> <em>Psalm 8:3–4 (ESV): "When I look at your heavens, the work of your fingers, the moon and the stars, which you have set in place, what is man that you are mindful of him, and the son of man that you care for him?"</em>
+<strong>Teaching.</strong> The framework's first move is not a rule but a change of scale: anxiety is always a framing error, a zoomed-in blur. David looked at the same night sky you can see tonight and felt small — but small and <em>known</em>, which is the whole difference between despair and peace. The practice this year is mechanical: when the noise rises, widen the frame. You were made for a bigger picture than this afternoon.</p>
+<h3 id="week-2--the-creator-is-still-creating"><a class="header" href="#week-2--the-creator-is-still-creating">Week 2 · The Creator Is Still Creating</a></h3>
+<p><strong>Focus work — repetition week.</strong> Daily, morning and evening: <strong>The Creator is still creating — where did I see creation continuing today?</strong> The foundation: spiritual fitness matters more than all other fitness combined because God's work did not end. Retained question: <strong>What is the Christian view of history — where is all of this going?</strong> (<em>Ephesians 1:10 — "…a plan for the fullness of time, to unite all things in him."</em>)
+<strong>Breath practice — "Breath of Life."</strong> In for four, hold two, out for six — remembering that God breathed into dust and it became a living soul (Genesis 2:7). Six rounds.
+<strong>Concept.</strong> GOD NEVER WENT ON VACATION, and never will.
+<strong>Deepening verse.</strong> <em>John 5:17 (ESV): "My Father is working until now, and I am working."</em>
+<strong>Teaching.</strong> A God who finished long ago is a museum piece; the Creator of this framework is on shift, and Jesus's own defense of Sabbath work was that his Father is <em>still working</em>. That is why spiritual fitness outranks every other kind: you are being invited into something ongoing, not preserving something over. Watch this week for continuations — a friendship repairing, a seed splitting, a habit softening — and write one down each night. What you notice, you join.</p>
+<h3 id="week-3--do-not-make-your-creator-in-your-image"><a class="header" href="#week-3--do-not-make-your-creator-in-your-image">Week 3 · Do Not Make Your Creator in Your Image</a></h3>
+<p><strong>Focus work — capacity week.</strong> Held under real pressure: <strong>Where have I shrunk God to my size — my politics, my tastes, my grudges, my understanding?</strong> The framework is blunt: for some, the language of discerning the Creator's will is problematic because it is too anthropomorphic — so don't make your Creator in your tiny, insignificant image. You were created in God's image; you do not get to create God in yours.
+<strong>Breath practice — "The Likeness."</strong> In for four, out for six. On the exhale, name silently one thing about God that exceeds you: older than time, wider than sky, wiser than your certainty. Five rounds.
+<strong>Concept.</strong> The moment you make God in your image, you have shrunk both.
+<strong>Deepening verse.</strong> <em>Romans 1:21–23 (ESV): "…although they knew God, they did not honor him as God… and exchanged the glory of the immortal God for images."</em>
+<strong>Teaching.</strong> The oldest idolatry was not gold statues; it was the exchange of glory for something manageable, and we still make that trade with opinions. This is the capacity week on purpose: shrinking God is comfortable, and comfort under pressure is exactly when we do it. The test of your image of God is whether it ever disagrees with you. A god who always agrees is a mirror, and mirrors do not save. Sit with the discomfort of being exceeded.</p>
+<h3 id="week-4--apex-predator-not-prey"><a class="header" href="#week-4--apex-predator-not-prey">Week 4 · Apex Predator, Not Prey</a></h3>
+<p><strong>Focus work — flow week.</strong> The block's questions in a sentence each, then: <strong>Embrace the suck — embrace disappointment from humans, embrace humility, embrace being unappreciated or taken for granted, because humans CANNOT understand the nature of God.</strong> That's what the resurrection of our Lord Jesus Christ was about.
+<strong>Breath practice — "Steady Eyes."</strong> Soft gaze, wide field, in for four, out for eight. Long, slow, nothing to prove. Five rounds, then one minute of stillness.
+<strong>Concept.</strong> Trust your instincts, swat mosquitoes, and ditch the drama.
+<strong>Deepening verse.</strong> <em>2 Timothy 1:7 (ESV): "For God gave us a spirit not of fear but of power and love and self-control."</em>
+<strong>Teaching.</strong> The framework's strangest and best image: you will still swat mosquitoes and move your hand off a warming stove — instinct is a gift — but you need not flail like prey, because the resurrection settled the question of who wins. The calm of an apex predator is not laziness; it is security, and for the believer it is borrowed security. Bring a friend this week; the exercise is simply to sit upright and breathe like something whose future is settled. Next block: the daily questions that program the whole year.</p>
+<h2 id="block-2--weeks-58--daily-contemplative-practice-part-i-of-the-framework"><a class="header" href="#block-2--weeks-58--daily-contemplative-practice-part-i-of-the-framework">Block 2 · Weeks 5–8 · Daily Contemplative Practice (Part I of the Framework)</a></h2>
+<h3 id="week-5--his-steps-your-plans"><a class="header" href="#week-5--his-steps-your-plans">Week 5 · His Steps, Your Plans</a></h3>
+<p><strong>Focus work — teach week.</strong> Morning question, retained: <strong>How can I discern God's will from my own desires today?</strong> (<em>Proverbs 16:9 — "The heart of man plans his way, but the LORD establishes his steps."</em>) Evening question, retained: <strong>What should be my life's highest priority as I reflect on today?</strong> (<em>Matthew 6:33 — "But seek first the kingdom of God and his righteousness, and all these things will be added to you."</em>) Added retained question: <strong>If God is sovereign, does that negate human responsibility and free will?</strong> (<em>Philippians 2:12–13 — "work out your own salvation with fear and trembling, for it is God who works in you."</em>)
+<strong>Breath practice — "First Steps."</strong> In for four while naming your plan; out for six while yielding the steps. Eight rounds.
+<strong>Concept.</strong> Plans are yours; steps are His — the day is a collaboration, not a script.
+<strong>Deepening verse.</strong> *James 4:13–15 (ESV): "…you do not even know what tomorrow will be… Instead you ought to say, 'If the Lord wills, we will live and do this or that.'"
+<strong>Teaching.</strong> The framework's first daily question is the hardest one in the book, and the evening question answers it: discernment is not mind-reading, it is priority — seek <em>first</em> the kingdom, and the rest of the day organizes itself around the seeking. Sovereignty and your effort are not rivals; Paul puts "work out" and "God works" in one sentence without blinking. Practically: make the plan, hold it loosely, and watch which steps get established anyway.</p>
+<h3 id="week-6--numbering-your-days"><a class="header" href="#week-6--numbering-your-days">Week 6 · Numbering Your Days</a></h3>
+<p><strong>Focus work — repetition week.</strong> Daily: <strong>What is my relationship with time in this present moment?</strong> (<em>Psalm 90:12 — "So teach us to number our days that we may get a heart of wisdom."</em>) And each evening: <strong>How should the reality of Christ's return affect how I lived today?</strong> (<em>2 Peter 3:11, 14 — "what sort of people ought you to be in lives of holiness and godliness…"</em>)
+<strong>Breath practice — "Number Our Days."</strong> In for four, out for six, counting the breaths one to ten and back — numbering them, as the psalm asks. Three cycles.
+<strong>Concept.</strong> Eternity is not more time; it is a different weight on the time you have.
+<strong>Deepening verse.</strong> <em>Ephesians 5:15–16 (ESV): "Look carefully then how you walk, not as unwise but as wise, making the best use of the time, because the days are evil."</em>
+<strong>Teaching.</strong> Moses wrote Psalm 90 comparing God's millennia to a watch of the night, and the wisdom he asked for was not more time but <em>numbered</em> time — time counted, therefore time that counts. The evening question is the same discipline pointed forward: live each day as if the story has an ending, because it does. This week, at the day's end, ask what the day weighed — not what it contained. A numbered day is almost never the frantic one.</p>
+<h3 id="week-7--pray-without-ceasing"><a class="header" href="#week-7--pray-without-ceasing">Week 7 · Pray Without Ceasing</a></h3>
+<p><strong>Focus work — capacity week.</strong> The whole day as the assignment: <strong>How can I live a life of constant prayer throughout this day?</strong> (<em>1 Thessalonians 5:16–18 — "Rejoice always, pray without ceasing, give thanks in all circumstances; for this is the will of God in Christ Jesus for you."</em>)
+<strong>Breath practice — "The Jesus Prayer."</strong> In for four: <em>Lord Jesus Christ, Son of God.</em> Out for six: <em>have mercy on me, a sinner.</em> Ten slow rounds, then ordinary tasks resumed with the rhythm underneath.
+<strong>Concept.</strong> Constant prayer is not constant talking; it is a line kept open.
+<strong>Deepening verse.</strong> <em>Luke 18:1 (ESV): "And he told them a parable to the effect that they ought always to pray and not lose heart."</em>
+<strong>Teaching.</strong> "Without ceasing" has frightened conscientious people for two thousand years, and the oldest answer is breath: tie the prayer to something you already do fifteen thousand times a day, and prayer becomes the pulse of the day rather than an appointment in it. Notice Paul's own definition in the same sentence — rejoicing and thanksgiving <em>are</em> the unceasing prayer. The capacity part is honest: set an alarm at noon and see whether the line is still open. When it is not, that is information, not failure.</p>
+<h3 id="week-8--daily-cross-daily-garden"><a class="header" href="#week-8--daily-cross-daily-garden">Week 8 · Daily Cross, Daily Garden</a></h3>
+<p><strong>Focus work — flow week.</strong> Retained morning questions: <strong>What does it mean to be a disciple of Jesus today?</strong> (<em>Luke 9:23 — "let him deny himself and take up his cross daily and follow me."</em>) And: <strong>Does my daily work, even if it seems secular, matter to God?</strong> (<em>Genesis 2:15 — "The LORD God took the man and put him in the garden of Eden to work it and keep it."</em>)
+<strong>Breath practice — "Morning Frame."</strong> Before rising: in for four, out for six, three rounds — the day's first act deliberate rather than reactive.
+<strong>Concept.</strong> Discipleship and work are both dailies: the cross and the garden were never weekend projects.
+<strong>Deepening verse.</strong> <em>Colossians 3:17 (ESV): "And whatever you do, in word or deed, do everything in the name of the Lord Jesus, giving thanks to God the Father through him."</em>
+<strong>Teaching.</strong> The block closes by pairing the framework's two morning anchors: the cross (self-denial) and the garden (work as assignment from God, before the fall). Notice both adjectives are <em>daily</em> — the old translations were right that religion that fits in one hour a week fits nowhere. Say the week's sentences to someone outside the group: following Him is a today-word, and so is the work on your desk. Next block: the weekly rhythm of struggle and victory.</p>
+<h2 id="block-3--weeks-912--the-weekly-cycle-the-nature-of-struggle-and-victory-part-ii"><a class="header" href="#block-3--weeks-912--the-weekly-cycle-the-nature-of-struggle-and-victory-part-ii">Block 3 · Weeks 9–12 · The Weekly Cycle: The Nature of Struggle and Victory (Part II)</a></h2>
+<h3 id="week-9--forgiven-and-still-wrestling"><a class="header" href="#week-9--forgiven-and-still-wrestling">Week 9 · Forgiven, and Still Wrestling</a></h3>
+<p><strong>Focus work — teach week.</strong> Each week, contemplate the ongoing tension between flesh and spirit, examining both struggles and victories. Retained: <strong>If I am forgiven, why do I still struggle with sin?</strong> (<em>Romans 7:24–25 — "Wretched man that I am! Who will deliver me from this body of death? Thanks be to God through Jesus Christ our Lord!"</em>) And: <strong>What does it mean to "die to self"?</strong> (<em>Galatians 2:20 — "I have been crucified with Christ. It is no longer I who live, but Christ who lives in me."</em>)
+<strong>Breath practice — "The Wretched Exhale."</strong> In for four on the honest half of the sentence; out for eight on the thanksgiving half. Six rounds.
+<strong>Concept.</strong> The Christian life is not the absence of struggle; it is struggle with a different outcome.
+<strong>Deepening verse.</strong> <em>Romans 8:13 (ESV): "For if you live according to the flesh you will die, but if by the Spirit you put to death the deeds of the body, you will live."</em>
+<strong>Teaching.</strong> Paul's groan in Romans 7 comes two paragraphs before "no condemnation" in Romans 8 — the Bible refuses to pretend the forgiven stop struggling, and refuses equally to let the struggle define them. The framework makes this the <em>weekly</em> cycle on purpose: a struggle examined weekly never hardens into an identity. Name one victory and one defeat from the past week, both without drama. That naming, done fifty-two times, is most of sanctification's bookkeeping.</p>
+<h3 id="week-10--the-sabbath-was-made-for-man"><a class="header" href="#week-10--the-sabbath-was-made-for-man">Week 10 · The Sabbath Was Made for Man</a></h3>
+<p><strong>Focus work — repetition week.</strong> Retained: <strong>What is the value of rest and sabbath in a busy world?</strong> (<em>Mark 2:27 — "The Sabbath was made for man, not man for the Sabbath."</em>) And: <strong>How can I find rest for my soul?</strong> (<em>Matthew 11:28–30 — "Come to me, all who labor and are heavy laden, and I will give you rest."</em>)
+<strong>Breath practice — "The Sabbath Sigh."</strong> A long, deliberate sigh on each exhale — the body's own sabbath bell. In for four, out for eight, six rounds.
+<strong>Concept.</strong> Rest is not what you fall into when you drop; it is a gate you walk through on purpose.
+<strong>Deepening verse.</strong> <em>Hebrews 4:9–10 (ESV): "So then, there remains a Sabbath rest for the people of God, for whoever has entered God's rest has also rested from his works."</em>
+<strong>Teaching.</strong> Jesus's defense of his disciples was that the sabbath is a gift with a recipient — rest is for you, not a rule against you — and his invitation in Matthew 11 is even wider: rest for the soul, not just the schedule. The framework's anxiety-reduction promise is simply the sabbath principle applied to everything: you cannot think clearly at the pace you can sprint. This week, choose the rest the way you would choose medicine, and take it at the same hour each day.</p>
+<h3 id="week-11--doubtful-things-and-sundown-anger"><a class="header" href="#week-11--doubtful-things-and-sundown-anger">Week 11 · Doubtful Things and Sundown Anger</a></h3>
+<p><strong>Focus work — capacity week.</strong> Retained: <strong>How do I know if something is a sin if the Bible doesn't mention it specifically?</strong> (<em>Romans 14:23 — "whatever does not proceed from faith is sin."</em>) And: <strong>What is the biblical perspective on anger?</strong> (<em>Ephesians 4:26 — "Be angry and do not sin; do not let the sun go down on your anger."</em>)
+<strong>Breath practice — "Sundown."</strong> In for four; out for six while mentally setting down the day's anger like a bag at a door. Repeat until the bag is actually set down.
+<strong>Concept.</strong> Conscience is a compass, not a courtroom; anger is a signal, not a residence.
+<strong>Deepening verse.</strong> <em>James 4:17 (ESV): "So whoever knows the right thing to do and fails to do it, for him it is sin."</em>
+<strong>Teaching.</strong> The gray areas are where the framework's core principle does its daily work: not "what is forbidden" but "what proceeds from faith" — a question only prayer can answer, which is why no list replaces discernment. Anger gets the same treatment: admitted, not suppressed — the verse says <em>be angry</em> — but not fed, and not carried past sundown. The capacity assignment is to pick one doubtful thing and one live anger, hold both up in the light this week, and notice which of the two was renting the larger room in you.</p>
+<h3 id="week-12--the-fear-of-the-lord"><a class="header" href="#week-12--the-fear-of-the-lord">Week 12 · The Fear of the LORD</a></h3>
+<p><strong>Focus work — flow week.</strong> Retained: <strong>What is the meaning of the "fear of the LORD"?</strong> (<em>Proverbs 9:10 — "The fear of the LORD is the beginning of wisdom, and the knowledge of the Holy One is insight."</em>) Then the block's questions, one sentence each, and the weekly review of struggles and victories.
+<strong>Breath practice — "Holy One."</strong> Still, slow, quiet: in for four, out for eight, no words — the silence itself the practice. Five rounds.
+<strong>Concept.</strong> The fear of the LORD is not flinching; it is standing fully awake in front of something fully real.
+<strong>Deepening verse.</strong> <em>Psalm 34:9 (ESV): "Oh, fear the LORD, you his saints, for those who fear him have no lack!"</em>
+<strong>Teaching.</strong> The framework's weekly cycle ends where Proverbs says wisdom starts — with fear rightly defined: not terror of an abuser but the awe of something enormous that is, astoundingly, for you. Notice the psalm's logic: this fear <em>removes</em> lack and fear of lesser things, which is why awe is the antidote to anxiety and not a new source of it. Next block leaves the cycle and climbs the framework's first monthly summit: the nature of God Himself.</p>
+<h2 id="block-4--weeks-1316--understanding-the-nature-of-god-month-1"><a class="header" href="#block-4--weeks-1316--understanding-the-nature-of-god-month-1">Block 4 · Weeks 13–16 · Understanding the Nature of God (Month 1)</a></h2>
+<h3 id="week-13--father-son-and-holy-spirit"><a class="header" href="#week-13--father-son-and-holy-spirit">Week 13 · Father, Son, and Holy Spirit</a></h3>
+<p><strong>Focus work — teach week.</strong> Retained: <strong>How can a single God exist as three distinct persons: Father, Son, and Holy Spirit?</strong> (<em>Matthew 28:19 — "baptizing them in the name of the Father and of the Son and of the Holy Spirit."</em>)
+<strong>Breath practice — "Threefold."</strong> Three short inhales, one long exhale — three breaths in one breath. Six rounds.
+<strong>Concept.</strong> The Trinity is not a math problem to solve but a community to be joined.
+<strong>Deepening verse.</strong> <em>2 Corinthians 13:14 (ESV): "The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all."</em>
+<strong>Teaching.</strong> Notice that the earliest Christians did not invent a formula and then worship it — they worshiped the Father, obeyed the Son, and felt the Spirit move, and the doctrine of the Trinity is the church's honest attempt to keep all three true at once. Paul's benediction shows the practical shape: grace, love, fellowship — one sentence reaching you through three hands. You will not resolve the mystery this week; the assignment is to notice that God is, in His own depths, a relationship — and that being made in His image means being made for relationship too.</p>
+<h3 id="week-14--perfect-love-perfect-justice"><a class="header" href="#week-14--perfect-love-perfect-justice">Week 14 · Perfect Love, Perfect Justice</a></h3>
+<p><strong>Focus work — repetition week.</strong> Daily: <strong>How can God's perfect love coexist with His perfect justice?</strong> (<em>Romans 3:25–26 — "…whom God put forward as a propitiation by his blood… that he might be just and the justifier of the one who has faith in Jesus."</em>)
+<strong>Breath practice — "The Meeting."</strong> In for four (love), hold for two (both together), out for six (justice done). Six rounds.
+<strong>Concept.</strong> At the cross, love and justice are not in tension; they are in concert.
+<strong>Deepening verse.</strong> <em>Psalm 85:10 (ESV): "Steadfast love and faithfulness meet; righteousness and peace will kiss each other."</em>
+<strong>Teaching.</strong> The old objection imagines a committee: a loving God wants to forgive, a just God wants to punish, and the cross is the compromise. Paul's word in the source verse is the opposite: the cross <em>vindicates</em> God's justice while justifying the sinner — no attribute overrules another, because God is never in committee with Himself. The psalmist saw it from far off and described it as a kiss. Sit this week with the cases where you most want justice for others and mercy for yourself, and bring both wants to one God who claims to satisfy both perfectly.</p>
+<h3 id="week-15--while-we-were-still-sinners"><a class="header" href="#week-15--while-we-were-still-sinners">Week 15 · While We Were Still Sinners</a></h3>
+<p><strong>Focus work — capacity week.</strong> Held against your hardest memory of being unlovable: <strong>Is God's love for humanity unconditional?</strong> (<em>Romans 5:8 — "But God shows his love for us in that while we were still sinners, Christ died for us."</em>)
+<strong>Breath practice — "Still Sinners."</strong> In for four, out for six, on the exhale repeating silently: <em>while we were still.</em> Eight rounds.
+<strong>Concept.</strong> The proof of love is not that God loved the improved you; it is that He loved the actual you.
+<strong>Deepening verse.</strong> <em>1 John 4:9–10 (ESV): "In this is love, not that we have loved God, but that he loved us and sent his Son to be the propitiation for our sins."</em>
+<strong>Teaching.</strong> John defines love by its direction — not our love ascending to God but His descending to us — which sets the terms for the capacity week: every believer carries a private memory of being at their worst, and the verse walks straight into that room without knocking. The framework's "embrace the humility, embrace being unappreciated or taken for granted" is grounded here: you can stop performing for an audience of One who never needed the performance. That assurance is why this curriculum's members can hear hard teachings without flinching.</p>
+<h3 id="week-16--i-the-lord-do-not-change"><a class="header" href="#week-16--i-the-lord-do-not-change">Week 16 · I the LORD Do Not Change</a></h3>
+<p><strong>Focus work — flow week.</strong> Retained: <strong>Does God change His mind?</strong> (<em>Malachi 3:6 — "For I the LORD do not change; therefore you, O children of Jacob, are not consumed."</em>) And retained: <strong>How does the concept of covenant shape the entire biblical story?</strong> (<em>Genesis 17:7 — "And I will establish my covenant between me and you and your offspring after you throughout their generations."</em>)
+<strong>Breath practice — "The Unchanging."</strong> Slow and even, in four, out six — the count identical every round, the stillness the point. Five rounds.
+<strong>Concept.</strong> The Bible is one long covenant story told by a God who does not change His mind about it.
+<strong>Deepening verse.</strong> <em>Numbers 23:19 (ESV): "God is not man, that he should lie, or a son of man, that he should change his mind."</em>
+<strong>Teaching.</strong> Notice the logic of Malachi's line: God's constancy is the reason His people are <em>not consumed</em> — immutability is a comfort, not a coldness. From the covenant with Abraham to the new covenant in Christ's blood, the story is one promise kept by an unchanged Promiser, and every hard providence in your life is read inside that frame. The block closes with its questions in a sentence each; next block walks from the nature of God to the person of His Son.</p>
+<h2 id="block-5--weeks-1720--the-person-and-work-of-christ-month-2"><a class="header" href="#block-5--weeks-1720--the-person-and-work-of-christ-month-2">Block 5 · Weeks 17–20 · The Person and Work of Christ (Month 2)</a></h2>
+<h3 id="week-17--in-the-beginning-was-the-word"><a class="header" href="#week-17--in-the-beginning-was-the-word">Week 17 · In the Beginning Was the Word</a></h3>
+<p><strong>Focus work — teach week.</strong> Retained: <strong>Was Jesus truly God, or just a good man?</strong> (<em>John 1:1, 14 — "In the beginning was the Word, and the Word was with God, and the Word was God… And the Word became flesh and dwelt among us."</em>)
+<strong>Breath practice — "The Word Became."</strong> In for four (eternity), out for six (flesh — the exhale descending, made low). Eight rounds.
+<strong>Concept.</strong> "Just a good man" is not a verdict the evidence permits; Jesus left it unavailable.
+<strong>Deepening verse.</strong> <em>John 20:28 (ESV): "Thomas answered him, 'My Lord and my God!'</em>
+<strong>Teaching.</strong> C.S. Lewis's old trilection — liar, lunatic, or Lord — is really an observation about the text: a merely good man does not forgive sins, claim preexistence, and accept worship. Thomas the doubter is the framework's ideal witness, the skeptic who demanded evidence and then answered the risen Jesus with the highest title in the book. The teaching this week is simply to let both halves of John's opening sentence stand: the Word <em>was God</em>, and the Word <em>became flesh</em> — majesty and a feeding trough, in one person.</p>
+<h3 id="week-18--made-like-his-brothers"><a class="header" href="#week-18--made-like-his-brothers">Week 18 · Made Like His Brothers</a></h3>
+<p><strong>Focus work — repetition week.</strong> Daily: <strong>Why did Jesus have to be both fully God and fully man?</strong> (<em>Hebrews 2:17 — "Therefore he had to be made like his brothers in every respect, so that he might become a merciful and faithful high priest."</em>)
+<strong>Breath practice — "Every Respect."</strong> In for four; out for six while naming one human thing Jesus shared — hunger, tiredness, tears, temptation. Seven rounds, one per name.
+<strong>Concept.</strong> Only a man can represent men; only God can save them; the priest must be both.
+<strong>Deepening verse.</strong> <em>Philippians 2:6–8 (ESV): "…though he was in the form of God… emptied himself, by taking the form of a servant… he humbled himself by becoming obedient to the point of death, even death on a cross."</em>
+<strong>Teaching.</strong> The early church fought for centuries over the two natures, and the framework's question is the pastoral one underneath the controversy: a savior who is not truly man cannot stand in for you, and one who is not truly God cannot carry the weight. Paul's hymn gives the mechanism — not subtraction of deity but addition of servanthood. Read it slowly all week, and let the descent be the lesson: the direction of divinity in this story is <em>down</em>, which tells you what greatness looks like in the economy of God.</p>
+<h3 id="week-19--a-high-priest-who-sympathizes"><a class="header" href="#week-19--a-high-priest-who-sympathizes">Week 19 · A High Priest Who Sympathizes</a></h3>
+<p><strong>Focus work — capacity week.</strong> Bring your actual pain: <strong>Does God truly understand my pain and temptation?</strong> (<em>Hebrews 4:15 — "For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin."</em>)
+<strong>Breath practice — "Man of Sorrows."</strong> In for four on the sorrow; out for eight on the sympathy. Six rounds, unhurried.
+<strong>Concept.</strong> God's compassion is not imagination; it is memory.
+<strong>Deepening verse.</strong> <em>Isaiah 53:3 (ESV): "He was despised and rejected by men; a man of sorrows, and acquainted with grief."</em>
+<strong>Teaching.</strong> The verse you carry this week was written centuries before Bethlehem, and it means the suffering of Christ was no improvisation — He came <em>acquainted</em> with grief, the way a neighbor is acquainted with your street. The capacity assignment is the framework's own honesty about pain: name the specific ache out loud in the circle — nobody mocks anybody here — and then notice that the One you are speaking to does not wince at it. Sympathy that has not suffered is politeness; this is something older and stronger.</p>
+<h3 id="week-20--that-is-what-the-resurrection-was-about"><a class="header" href="#week-20--that-is-what-the-resurrection-was-about">Week 20 · That Is What the Resurrection Was About</a></h3>
+<p><strong>Focus work — flow week.</strong> The block in a sentence each, then the framework's own claim held open: <strong>GOD NEVER WENT ON VACATION. The apex-predator calm of the believer rests on one historical morning.</strong> Longer verse circle; bring-a-friend week.
+<strong>Breath practice — "Third Day."</strong> In for four (Friday), hold for two (Saturday — the long silence), out for six (Sunday). Six rounds.
+<strong>Concept.</strong> The resurrection is either everything or nothing; the framework treats it as everything.
+<strong>Deepening verse.</strong> <em>1 Peter 1:3 (ESV): "Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead."</em>
+<strong>Teaching.</strong> Block one claimed the believer can ditch the drama and behave like an apex predator; this block supplies the reason, and it is not a mood — it is an empty tomb. Notice Peter's phrase <em>living hope</em>: not hope-as-wishfulness but hope-as-biological-fact, anchored to a dated event that sober historians of every stripe admit they must explain. Say the sentence to a friend this week in your own words. The year's next quarter begins the framework's great doctrines: grace, suffering, purpose, sin — all of them standing on this morning.</p>
+<h2 id="block-6--weeks-2124--salvation-and-grace-month-3"><a class="header" href="#block-6--weeks-2124--salvation-and-grace-month-3">Block 6 · Weeks 21–24 · Salvation and Grace (Month 3)</a></h2>
+<h3 id="week-21--by-grace-through-faith"><a class="header" href="#week-21--by-grace-through-faith">Week 21 · By Grace Through Faith</a></h3>
+<p><strong>Focus work — teach week.</strong> Retained: <strong>What does it mean that salvation is by grace through faith?</strong> (<em>Ephesians 2:8–9 — "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast."</em>)
+<strong>Breath practice — "The Gift."</strong> Open hands on the knees, palms up; in for four, out for six. The posture is the prayer. Eight rounds.
+<strong>Concept.</strong> Grace means the invoice was already paid; boasting is mathematically impossible.
+<strong>Deepening verse.</strong> <em>Titus 3:5 (ESV): "…he saved us, not because of works done by us in righteousness, but according to his own mercy."</em>
+<strong>Teaching.</strong> Paul's sentence is built to exclude every form of spiritual résumé — <em>not your doing, not a result, no boasting</em> — because a salvation that could be earned would feed the anxiety this whole curriculum exists to reduce. Grace is the only foundation that holds the framework's promise: unchangeable acceptance before performance. Palms-up breathing is the body learning the doctrine. If your instinct this week is to list your qualifications, notice the list, and let the exhale set it down.</p>
+<h3 id="week-22--if-you-love-me"><a class="header" href="#week-22--if-you-love-me">Week 22 · If You Love Me</a></h3>
+<p><strong>Focus work — repetition week.</strong> Daily: <strong>If I am saved by grace, why does my obedience to God still matter?</strong> (<em>James 2:17 — "So also faith by itself, if it does not have works, is dead."</em>)
+<strong>Breath practice — "Love's Grammar."</strong> In for four; out for six, once around each of Jesus's words in John 14:15. Seven rounds.
+<strong>Concept.</strong> Obedience is not rent paid for the room; it is the way love talks.
+<strong>Deepening verse.</strong> <em>John 14:15 (ESV): "If you love me, you will keep my commandments."</em>
+<strong>Teaching.</strong> The apparent quarrel between Paul and James dissolves once the question is not <em>how do I stay saved</em> but <em>what does love do</em> — James's dead faith is faith that never loved anyone, and Paul's grace produces the very obedience Paul's rivals said it would abolish. The framework's daily-work question from week 8 returns here: your obedience matters the way a promise kept matters, not the way a fee paid matters. Watch this week for one command you have been treating as rent — and do it once, simply as a word to a Friend.</p>
+<h3 id="week-23--his-workmanship"><a class="header" href="#week-23--his-workmanship">Week 23 · His Workmanship</a></h3>
+<p><strong>Focus work — capacity week.</strong> Retained: <strong>What is the relationship between faith and good works?</strong> (<em>Ephesians 2:10 — "For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them."</em>)
+<strong>Breath practice — "Prepared Beforehand."</strong> In for four; out for six while walking one slow lap of the room — works as a walk, not a sprint. Six rounds.
+<strong>Concept.</strong> Grace saves; then grace employs. The works were prepared before you were.
+<strong>Deepening verse.</strong> <em>Galatians 5:6 (ESV): "For in Christ Jesus neither circumcision nor uncircumcision counts for anything, but only faith working through love."</em>
+<strong>Teaching.</strong> Ephesians 2:8–10 is one unbroken sentence: saved by grace <em>for</em> the works prepared beforehand — grace is not the cancellation of purpose but its gift. Paul's shorthand in Galatians is the curriculum's shorthand: faith <em>working through love</em>, three words that end the faith-versus-works debate on a both/and. The capacity question is personal: name the good works already lying in your path this week — the neighbor, the task, the hour of service — prepared before you arrived. Grace, it turns out, is also a foreman.</p>
+<h3 id="week-24--grace-has-appeared-training-us"><a class="header" href="#week-24--grace-has-appeared-training-us">Week 24 · Grace Has appeared, Training Us</a></h3>
+<p><strong>Focus work — flow week.</strong> Retained: <strong>How does God's grace empower me to live a holy life?</strong> (<em>Titus 2:11–12 — "For the grace of God has appeared… training us to renounce ungodliness… to live self-controlled, upright, and godly lives."</em>)
+<strong>Breath practice — "Training Breath."</strong> Steady, disciplined, unhurried: in for four, out for six, ten rounds without variation — the count itself the training.
+<strong>Concept.</strong> Grace is not leniency; it is a curriculum.
+<strong>Deepening verse.</strong> <em>Ezekiel 36:26–27 (ESV): "And I will give you a new heart… And I will put my Spirit within you and cause you to walk in my statutes."</em>
+<strong>Teaching.</strong> The block's last answer is the block's surprise: the same grace that forgives also <em>trains</em> — the New Testament's word is athletic, a coach, not a wave of permissiveness. Ezekiel saw it from the far side: God does not merely command the walk, He <em>causes</em> it, from the inside. This closes the framework's salvation month with the whole curriculum's quiet thesis — that transformation is God's work done in you by practice, like breath, repeated. Next block takes the hardest questions in the book: suffering.</p>
+<h2 id="block-7--weeks-2528--the-problem-of-suffering-month-4"><a class="header" href="#block-7--weeks-2528--the-problem-of-suffering-month-4">Block 7 · Weeks 25–28 · The Problem of Suffering (Month 4)</a></h2>
+<h3 id="week-25--all-things-working-together"><a class="header" href="#week-25--all-things-working-together">Week 25 · All Things Working Together</a></h3>
+<p><strong>Focus work — teach week.</strong> Retained: <strong>If God is good and all-powerful, why does He allow evil and suffering to exist?</strong> (<em>Romans 8:28 — "And we know that for those who love God all things work together for good…"</em>)
+<strong>Breath practice — "The Long View."</strong> In for four on the present pain; out for eight on the longer story. Six rounds.
+<strong>Concept.</strong> The verse does not say all things are good; it says they are being worked — like thread into a tapestry not yet visible.
+<strong>Deepening verse.</strong> <em>Genesis 50:20 (ESV): "As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive."</em>
+<strong>Teaching.</strong> The honest week begins by admitting the framework does not solve the problem; it sets it inside a story long enough to hold it. Joseph's sentence to his brothers is the pattern: real evil, meant as evil, <em>worked</em> as salvation — not excused, woven. Notice Paul's careful wording: "work together," the way ingredients work in a recipe none of which is edible alone. Hold your own hardest thing against the longer story this week. The promise is not that you will see the tapestry; it is that a good Weaver does.</p>
+<h3 id="week-26--not-a-punishment-receipt"><a class="header" href="#week-26--not-a-punishment-receipt">Week 26 · Not a Punishment Receipt</a></h3>
+<p><strong>Focus work — repetition week.</strong> Daily, with care: <strong>Is my suffering a punishment for some specific sin?</strong> (<em>John 9:2–3 — "Rabbi, who sinned, this man or his parents, that he was born blind? Jesus answered, 'It was not that this man sinned… but that the works of God might be displayed in him.'"</em>)
+<strong>Breath practice — "Not That."</strong> In for four; out for six on Jesus's first words: <em>It was not.</em> Eight rounds.
+<strong>Concept.</strong> Job's friends still publish; Jesus retired their thesis on the record.
+<strong>Deepening verse.</strong> <em>2 Corinthians 4:17 (ESV): "For this light momentary affliction is preparing for us an eternal weight of glory beyond all comparison."</em>
+<strong>Teaching.</strong> The disciples' question assumed a moral bookkeeping — suffering as invoice — and Jesus refused the premise twice: not the man's sin, not the parents'. Some suffering is consequence, true; but the reflex that reads every pain as punishment is the very anxiety this curriculum dismantles, and the deepest comfort in this verse is that your Father's bookkeeping is not a fraud investigation. Watch this week for the moment you audit your pain for a cause you deserve. Then breathe, and let the <em>It was not</em> stand.</p>
+<h3 id="week-27--the-tower-in-siloam"><a class="header" href="#week-27--the-tower-in-siloam">Week 27 · The Tower in Siloam</a></h3>
+<p><strong>Focus work — capacity week.</strong> Retained: <strong>What is the Christian response to tragedy and natural disasters?</strong> (<em>Luke 13:4–5 — "Or those eighteen on whom the tower in Siloam fell and killed them: do you think they were worse offenders…? No, I tell you; but unless you repent, you will all likewise perish."</em>)
+<strong>Breath practice — "Refuge."</strong> In for four; out for six, slow and low, breathing as one breathes in a doorway during a storm. Six rounds.
+<strong>Concept.</strong> Jesus's answer to "why them" is "while there is light, you."
+<strong>Deepening verse.</strong> <em>Psalm 46:1–2 (ESV): "God is our refuge and strength, a very present help in trouble. Therefore we will not fear though the earth gives way."</em>
+<strong>Teaching.</strong> Two towers fell in that conversation — one man-made, one by wind or wear — and Jesus refused both the gossip (they were worse) and the lecture, and turned the question on its askers: the disaster is a summons to readiness, not a morality tale about its victims. This is the capacity week because tragedy is where the framework's non-comparison discipline earns its keep: never theorize someone else's ruin. Grieve, help, and let mortality sharpen rather than frighten. The psalm is the posture: <em>a very present help</em>, even while the earth moves.</p>
+<h3 id="week-28--the-prosperity-of-the-wicked"><a class="header" href="#week-28--the-prosperity-of-the-wicked">Week 28 · The Prosperity of the Wicked</a></h3>
+<p><strong>Focus work — flow week.</strong> Retained: <strong>Why do the wicked seem to prosper while the righteous suffer?</strong> (<em>Psalm 73:16–17 — "But when I thought how to understand this, it seemed to me a wearisome task, until I went into the sanctuary of God; then I discerned their end."</em>)
+<strong>Breath practice — "The Sanctuary Turn."</strong> In for four on the wearisome question; out for six on the turning — the breath itself changing direction. Six rounds.
+<strong>Concept.</strong> The equation balances, but only in the sanctuary — comparison dies at the altar.
+<strong>Deepening verse.</strong> <em>Psalm 73:25–26 (ESV): "Whom have I in heaven but you? And there is nothing on earth that I desire besides you. My flesh and my heart may fail, but God is the strength of my heart and my portion forever."</em>
+<strong>Teaching.</strong> Asaph almost lost his faith over other people's bank statements, and his healing was not an argument but an address: he went <em>into the sanctuary</em>, and from there the timeline stretched until he could see the end of the ledger. Notice the framework's own discipline hiding here — never compare, only seek — the psalm ends by pocketing the whole question and keeping God alone. The block's hard month closes with its softest sentence: <em>my portion forever</em>. Next block: what you are for.</p>
+<h2 id="block-8--weeks-2932--purpose-and-vocation-month-5"><a class="header" href="#block-8--weeks-2932--purpose-and-vocation-month-5">Block 8 · Weeks 29–32 · Purpose and Vocation (Month 5)</a></h2>
+<h3 id="week-29--created-for-his-glory"><a class="header" href="#week-29--created-for-his-glory">Week 29 · Created for His Glory</a></h3>
+<p><strong>Focus work — teach week.</strong> Retained: <strong>Why did God create me, and what is the ultimate meaning of life?</strong> (<em>1 Corinthians 10:31 — "So, whether you eat or drink, or whatever you do, do all to the glory of God."</em>)
+<strong>Breath practice — "Whatever You Do."</strong> In for four; out for six while doing one ordinary thing with full attention — the tea, the keys, the sink. Six rounds.
+<strong>Concept.</strong> Meaning is not a hidden chamber to find; it is a direction to point whatever you already hold.
+<strong>Deepening verse.</strong> <em>Isaiah 43:7 (ESV): "…everyone who is called by my name, whom I created for my glory, whom I formed and made."</em>
+<strong>Teaching.</strong> The framework's biggest question gets the Bible's most domestic answer — eating and drinking, the least glorious acts a human performs, are named as possible sites of glory. That means glory is not reserved for the spectacular; it is alignment, available in the kitchen as much as the cathedral. Isaiah supplies the why (created for His glory); Paul supplies the how (point it). The week's practice is small on purpose: take one already-scheduled ordinary act and do it <em>for</em> Him, and notice that the day changed weight without changing contents.</p>
+<h3 id="week-30--work-heartily-as-for-the-lord"><a class="header" href="#week-30--work-heartily-as-for-the-lord">Week 30 · Work Heartily, As for the Lord</a></h3>
+<p><strong>Focus work — repetition week.</strong> Daily: <strong>How do I discover my specific calling or vocation?</strong> (<em>Colossians 3:23–24 — "Whatever you do, work heartily, as for the Lord and not for men, knowing that from the Lord you will receive the inheritance as your reward; you are serving the Lord Christ."</em>)
+<strong>Breath practice — "Heartily."</strong> Deep, willing breaths — in for four, out for six, the exhale as work done gladly. Eight rounds.
+<strong>Concept.</strong> Calling is less a treasure map than a manner of working; most vocations are discovered by serving the one in front of you.
+<strong>Deepening verse.</strong> <em>Esther 4:14 (ESV): "And who knows whether you have not come to the kingdom for such a time as this?"</em>
+<strong>Teaching.</strong> Paul wrote that to household slaves — people with the least vocational choice in the ancient world — and gave them the dignity of <em>serving the Lord Christ</em> in work they did not choose, which reframes the framework's question: calling is first a <em>who-for</em>, and only second a what. Mordecai's question to Esther is the mirror: look at your actual position — this city, this desk, this season — and ask what it is <em>for</em>. Write down this week where you already stand; most callings are discovered by looking down at your own feet.</p>
+<h3 id="week-31--do-nothing-from-selfish-ambition"><a class="header" href="#week-31--do-nothing-from-selfish-ambition">Week 31 · Do Nothing from Selfish Ambition</a></h3>
+<p><strong>Focus work — capacity week.</strong> Held honestly against your ambitions: <strong>How should a Christian view ambition and the pursuit of success?</strong> (<em>Philippians 2:3–4 — "Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves."</em>)
+<strong>Breath practice — "The Descent."</strong> In for four; out for six, letting the shoulders drop an inch each exhale — ambition has a physical posture, and so does its release. Six rounds.
+<strong>Concept.</strong> Ambition is not the sin; <em>selfish</em> is the adjective that kills.
+<strong>Deepening verse.</strong> <em>Jeremiah 45:5 (ESV): "And do you seek great things for yourself? Seek them not."</em>
+<strong>Teaching.</strong> Note that Paul does not say "do nothing great" — he names the engine, <em>selfish ambition</em>, the kind that counts others as furniture, and then this letter goes on to sing the descent of the Son who did the greatest thing. Jeremiah's word to Baruch is surgical: not "your work is wrong" but "your seeking is pointed at yourself," a question worth asking of every promotion, platform, and project plan. The capacity assignment: name one ambition out loud in the circle, and test it by its direction — toward God's glory and others' good, or toward the mirror. Honest ambition survives the test; the rest is weight you may set down.</p>
+<h3 id="week-32--what-does-the-lord-require"><a class="header" href="#week-32--what-does-the-lord-require">Week 32 · What Does the LORD Require</a></h3>
+<p><strong>Focus work — flow week.</strong> Retained: <strong>What is the biblical definition of a "successful" life?</strong> (<em>Micah 6:8 — "He has told you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?"</em>)
+<strong>Breath practice — "The Walk."</strong> Slow walking breath: in for four steps, out for six steps, one lap of the room or the yard. Six laps.
+<strong>Concept.</strong> The Bible's success definition needs no portfolio, no audience, and no comparison — which is why it alone can be done today.
+<strong>Deepening verse.</strong> <em>Matthew 25:21 (ESV): "His master said to him, 'Well done, good and faithful servant… Enter into the joy of your master.'"</em>
+<strong>Teaching.</strong> Micah was answering a man trying to buy God off with offerings — a bigger sacrifice, a better gift — and the prophet's reply is almost dismissive: He has <em>already told</em> you. Justice, kindness, humility: a walk, not a portfolio, doable by the poor and the dying as well as the celebrated. And the Master's final word over a faithful life in Matthew is not "successful" but <em>good and faithful</em> — with joy attached, this very day. The block ends the framework's month on purpose with a definition of success no materialist yardstick can measure. Next: the war inside.</p>
+<h2 id="block-9--weeks-3336--sin-and-sanctification-month-6"><a class="header" href="#block-9--weeks-3336--sin-and-sanctification-month-6">Block 9 · Weeks 33–36 · Sin and Sanctification (Month 6)</a></h2>
+<h3 id="week-33--the-wages-of-sin"><a class="header" href="#week-33--the-wages-of-sin">Week 33 · The Wages of Sin</a></h3>
+<p><strong>Focus work — teach week.</strong> Retained: <strong>What is sin, and why is it so serious?</strong> (<em>Romans 6:23 — "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord."</em>)
+<strong>Breath practice — "Wages and Gifts."</strong> In for four on the wage; out for eight on the gift — the exhale twice as long as the inhale, grace outlasting the ledger. Six rounds.
+<strong>Concept.</strong> Sin is not rule-breaking primarily; it is desire grown wrong, and it pays what it promises.
+<strong>Deepening verse.</strong> <em>James 1:14–15 (ESV): "…each person is tempted when he is lured and enticed by his own desire. Then desire when it has conceived gives birth to sin, and sin when it is fully grown brings forth death."</em>
+<strong>Teaching.</strong> James gives the anatomy the framework assumes: sin starts as desire — a good word, the same word used of Christ's desire — that conceives and grows, and the reason sin is serious is not that God is touchy but that death is its wage, the natural paycheck of the path. Paul's verse holds both columns side by side on purpose: what is earned, and what is <em>given</em>. The week's practice is diagnostic, not morbid: watch one small desire through its whole arc this week, from lure to birth, and see the mechanism yourself. Sanctification begins as observation.</p>
+<h3 id="week-34--guilty-of-all-of-it"><a class="header" href="#week-34--guilty-of-all-of-it">Week 34 · Guilty of All of It</a></h3>
+<p><strong>Focus work — repetition week.</strong> Daily: <strong>Are some sins worse than others in God's eyes?</strong> (<em>James 2:10 — "For whoever keeps the whole law but fails in one point has become guilty of all of it."</em>)
+<strong>Breath practice — "One Point."</strong> In for four; out for six, on the exhale setting down the ranking reflex — the breath refuses to compare. Seven rounds.
+<strong>Concept.</strong> In lawcourt terms, a chain is broken by one link; in grace terms, no sinner is a special case.
+<strong>Deepening verse.</strong> <em>John 19:11 (ESV): "…he who delivered me over to you has the greater sin."</em>
+<strong>Teaching.</strong> James flattens the law's scale for a reason: if you have broken one point you are a lawbreaker, and the number of broken points changes nothing about the verdict — which kills the Pharisee's favorite comfort, the ranking of sins by which he is always above average. Yet Jesus himself speaks of a <em>greater</em> sin, and the tradition holds both: sins differ in weight and consequence, while sinners stand equal in need of mercy. The framework's discipline of non-comparison applies here most of all — no ranking, no score-keeping, and certainly no relief that at least you are not like the people you just ranked.</p>
+<h3 id="week-35--the-unpardonable-sin"><a class="header" href="#week-35--the-unpardonable-sin">Week 35 · The Unpardonable Sin</a></h3>
+<p><strong>Focus work — capacity week.</strong> Held gently, with pastoral care in the circle: <strong>What is the unpardonable sin?</strong> (<em>Mark 3:28–29 — "Truly, I say to you, all sins will be forgiven the children of man, and whatever blasphemies they utter, but whoever blasphemes against the Holy Spirit never has forgiveness."</em>)
+<strong>Breath practice — "The Wide Mercy."</strong> In for four; out for six, on the first half of the verse — <em>all sins will be forgiven</em> — read aloud first. Eight rounds.
+<strong>Concept.</strong> The one who worries about having committed it has, by that very worry, shown a heart still soft.
+<strong>Deepening verse.</strong> <em>1 John 1:9 (ESV): "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness."</em>
+<strong>Teaching.</strong> Every generation of anxious believers has feared itself into this verse, and the pastoral answer has not changed: the blasphemy against the Spirit in the context is the attribution of God's plain work to Satan — a settled, final calcification of the heart, not a bad night or a terrible thought. Notice the verse's structure: <em>all sins</em> leads the sentence, and the exception is a condition of final hardness, not a weakness in the mercy. If you can still grieve your sin, the Spirit is still at work in you, which is the evidence the hard heart cannot produce. Take the comfort; it is doctrinally sound.</p>
+<h3 id="week-36--not-that-i-have-already-attained"><a class="header" href="#week-36--not-that-i-have-already-attained">Week 36 · Not That I Have Already Attained</a></h3>
+<p><strong>Focus work — flow week.</strong> Retained: <strong>Is it possible to reach a state of sinless perfection in this life?</strong> (<em>Philippians 3:12–13 — "Not that I have already obtained this or am already perfect, but I press on… forgetting what lies behind and straining forward to what lies ahead."</em>)
+<strong>Breath practice — "Straining Forward."</strong> In for four, reaching slightly forward; out for six, releasing what is behind. Six rounds.
+<strong>Concept.</strong> Perfectionism is either a doctrine about the future or a delusion about the present; Paul chose the future.
+<strong>Deepening verse.</strong> <em>1 John 1:8 (ESV): "If we say we have no sin, we deceive ourselves, and the truth is not in us."</em>
+<strong>Teaching.</strong> The most mature Christian who ever wrote claims non-attainment in the present tense and pressing-on in the athletic tense — the framework's whole weekly cycle of struggle and victory is Paul's sentence made into a schedule. John's guardrail closes the month: claims of present sinlessness are self-deception, and the refusal to claim it is not pessimism but accuracy, freeing you from perfectionism's anxiety on one side and complacency's flab on the other. Next block turns from the war inside to the peace between people: forgiveness.</p>
+<h2 id="block-10--weeks-3740--forgiveness-reconciliation-and-relationships-months-78"><a class="header" href="#block-10--weeks-3740--forgiveness-reconciliation-and-relationships-months-78">Block 10 · Weeks 37–40 · Forgiveness, Reconciliation, and Relationships (Months 7–8)</a></h2>
+<h3 id="week-37--forgiven-people-forgive"><a class="header" href="#week-37--forgiven-people-forgive">Week 37 · Forgiven People Forgive</a></h3>
+<p><strong>Focus work — teach week.</strong> Retained: <strong>Why must I forgive those who have wronged me?</strong> (<em>Matthew 6:14–15 — "For if you forgive others their trespasses, your heavenly Father will also forgive you…"</em>) And: <strong>How can I forgive someone who isn't sorry?</strong> (<em>Colossians 3:13 — "…bearing with one another and… forgiving each other; as the Lord has forgiven you, so you also must forgive."</em>)
+<strong>Breath practice — "As the Lord."</strong> In for four; out for six while saying silently, on the exhale, <em>as the Lord has forgiven me</em>. Six rounds.
+<strong>Concept.</strong> Forgiveness is not a feeling that arrives; it is a decision, renewed, to release a debt.
+<strong>Deepening verse.</strong> <em>Ephesians 4:32 (ESV): "Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you."</em>
+<strong>Teaching.</strong> The second question is the one that breaks people, and the answer is in the comparative: <em>as the Lord has forgiven you</em> — He forgave you while you were unrepentant, so the release of the debt does not wait on the debtor's apology. This is not pretending the wrong did not happen, nor remaining in harm's way; it is retiring the account so bitterness stops accruing interest in <em>your</em> chest. The framework's anxiety-reduction promise runs through this week directly: unforgiveness is a tax you pay daily for a wrong someone else did. Set the tax down; it may take all year, which is why this is a curriculum and not a tip.</p>
+<h3 id="week-38--enemies-and-no-condemnation"><a class="header" href="#week-38--enemies-and-no-condemnation">Week 38 · Enemies, and No Condemnation</a></h3>
+<p><strong>Focus work — capacity week.</strong> Retained: <strong>How should I respond to people who are difficult to love?</strong> (<em>Luke 6:27–28 — "But I say to you who hear, Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you."</em>) And: <strong>How does the gospel address issues of shame and guilt?</strong> (<em>Romans 8:1 — "There is therefore now no condemnation for those who are in Christ Jesus."</em>) And retained: <strong>Can anything separate me from God's love?</strong> (<em>Romans 8:38–39 — "For I am sure that neither death nor life… will be able to separate us from the love of God in Christ Jesus our Lord."</em>)
+<strong>Breath practice — "Bless and Exhale."</strong> Name before God one difficult person on the inhale; breathe the blessing out for six. Repeat until the blessing stops sticking in the throat.
+<strong>Concept.</strong> Love of enemies is the ceiling of the curriculum, and it is built on a floor of no-condemnation.
+<strong>Deepening verse.</strong> <em>Isaiah 43:25 (ESV): "I, I am he who blots out your transgressions for my own sake, and I will not remember your sins."</em>
+<strong>Teaching.</strong> Pair these questions deliberately: the capacity to love the unlovely is fed by the settled experience of having been loved while unlovely — shame that has been answered cannot be weaponized, and guilt that has been blotted out cannot be re-subpoenaed. Paul's list in Romans 8 is the strongest sentence in the book: no power in existence can separate you, which is the emotional infrastructure under enemy-love. Notice the exhale practice working: the difficult person and the blessing share one breath because in Christ they share one Father.</p>
+<h3 id="week-39--marriage-the-mystery"><a class="header" href="#week-39--marriage-the-mystery">Week 39 · Marriage, the Mystery</a></h3>
+<p><strong>Focus work — repetition week.</strong> Retained: <strong>What is the purpose of marriage?</strong> (<em>Genesis 2:24 — "Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh."</em>) And: <strong>What are the respective roles of a husband and wife in a Christian marriage?</strong> (<em>Ephesians 5:25, 33 — "Husbands, love your wives, as Christ loved the church and gave himself up for her…"</em>)
+<strong>Breath practice — "One Flesh."</strong> If married, breathe together with your spouse for three minutes, matching counts; if single, breathe for three minutes in silence before God who is near.
+<strong>Concept.</strong> Christian marriage is not two nice people sharing expenses; it is a lived illustration of Christ and the church.
+<strong>Deepening verse.</strong> <em>Ephesians 5:31–32 (ESV): "'Therefore a man shall leave his father and mother and hold fast to his wife, and the two shall become one flesh.' This mystery is profound, and I am saying that it refers to Christ and the church."</em>
+<strong>Teaching.</strong> Paul quotes Genesis and then says the astonishing thing: this was always a portrait — marriage is a mystery in the theological sense, a lived sign of a covenant love that precedes it. That is why the roles question has the shape it does: the husband's assignment is <em>self-giving</em> — the standard is Christ at the cross, which ends every conversation about who does less — and the wife's is <em>respect</em> toward a love like that. Married or single, the week's work is the same: watch one marriage this week, and read the portrait instead of the plumbing.</p>
+<h3 id="week-40--singleness-and-the-settled-solitary"><a class="header" href="#week-40--singleness-and-the-settled-solitary">Week 40 · Singleness and the Settled Solitary</a></h3>
+<p><strong>Focus work — flow week.</strong> Retained: <strong>How should Christians view singleness?</strong> (<em>1 Corinthians 7:8 — "To the unmarried and the widows I say that it is good for them to remain single, as I am."</em>) And: <strong>How do I deal with loneliness?</strong> (<em>Psalm 68:6 — "God settles the solitary in a home."</em>)
+<strong>Breath practice — "Settled."</strong> In for four; out for six while feeling the weight of the body held — settled, housed, not floating. Seven rounds.
+<strong>Concept.</strong> The church is the only community in history founded by a single man who called singleness good.
+<strong>Deepening verse.</strong> <em>Isaiah 54:5 (ESV): "For your Maker is your husband, the LORD of hosts is his name."</em>
+<strong>Teaching.</strong> Paul — happily single, and writing as one — refuses to grade singleness as a waiting room, which sets Christianity against every culture's anxiety machine on the subject; and the psalm insists God <em>settles</em> the solitary, a housing promise that families and fellowships are meant to make visible. The block's month ends with the honest pairing the framework makes: every human arrangement — marriage, friendship, church — is a gift that cannot bear the full weight of the loneliness it is asked to cure. Bring the lonely and the partnered to the same verse circle this week; the settled solitary has as much to teach as the settled married.</p>
+<h2 id="block-11--weeks-4144--the-church-and-community-month-9--part-vii"><a class="header" href="#block-11--weeks-4144--the-church-and-community-month-9--part-vii">Block 11 · Weeks 41–44 · The Church and Community (Month 9 + Part VII)</a></h2>
+<h3 id="week-41--the-body-and-the-building"><a class="header" href="#week-41--the-body-and-the-building">Week 41 · The Body and the Building</a></h3>
+<p><strong>Focus work — teach week.</strong> Retained: <strong>What is the purpose of the Church?</strong> (<em>Ephesians 4:11–13 — "And he gave the apostles, the prophets, the evangelists, the shepherds and teachers, to equip the saints… until we all attain… mature manhood."</em>) And: <strong>Why is it important to belong to a local church?</strong> (<em>Hebrews 10:25 — "…not neglecting to meet together, as is the habit of some, but encouraging one another."</em>)
+<strong>Breath practice — "One Breath, Many Lungs."</strong> The circle breathes together, silently matching one another's count — the practice is the point: one breath, many lungs.
+<strong>Concept.</strong> The church is not a building you attend but a body you are — organs do not "attend" the body.
+<strong>Deepening verse.</strong> <em>1 Corinthians 12:27 (ESV): "Now you are the body of Christ and individually members of it."</em>
+<strong>Teaching.</strong> Paul's letters assume that a Christian without a congregation is an amputation, and the author of Hebrews names the drift habitually — "as is the habit of some" — the slow fade no one schedules but many complete. The church's purpose per Ephesians is <em>equipping</em>: saints doing the ministry, not spectators watching professionals. This block is deliberately practical, because the framework's remaining questions — confrontation, discipline, gossip — only exist for people who actually joined a body. You cannot obey "one another" alone; the grammar itself forbids it.</p>
+<h3 id="week-42--water-bread-and-one-new-man"><a class="header" href="#week-42--water-bread-and-one-new-man">Week 42 · Water, Bread, and One New Man</a></h3>
+<p><strong>Focus work — repetition week.</strong> Retained: <strong>What is the significance of baptism?</strong> (<em>Romans 6:4 — "We were buried therefore with him by baptism into death, in order that, just as Christ was raised… we too might walk in newness of life."</em>) And: <strong>What is the significance of the Lord's Supper?</strong> (<em>1 Corinthians 11:26 — "For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes."</em>) And: <strong>How can the Church maintain unity amidst diversity?</strong> (<em>Ephesians 4:2–3 — "…with all humility and gentleness, with patience, bearing with one another in love, eager to maintain the unity of the Spirit in the bond of peace."</em>) And retained: <strong>How does the Bible address racial and ethnic division?</strong> (<em>Galatians 3:28 — "There is neither Jew nor Greek… for you are all one in Christ Jesus."</em>)
+<strong>Breath practice — "The Common Cup."</strong> In for four; out for six, remembering that the whole table drinks from one loaf, one cup, one breath. Six rounds.
+<strong>Concept.</strong> The sacraments are the body's shared vocabulary — and unity is maintained, not manufactured: it is given, then guarded.
+<strong>Deepening verse.</strong> <em>John 17:21 (ESV): "…that they may all be one, just as you, Father, are in me, and I in you, that they also may be in us, so that the world may believe."</em>
+<strong>Teaching.</strong> Baptism is a funeral and a resurrection (the old you went under; a new you stood up), and the Supper is a proclamation in bread — a sermon the whole congregation preaches with its hands. Unity joins them: Paul's "neither Jew nor Greek" was written to a church dividing over ethnicity at the very table, and Jesus's prayer ties the church's oneness to the world's believing. Maintain, the verse says — like a garden, the unity is given and then weeded, weekly, by humble people breathing one count.</p>
+<h3 id="week-43--confrontation-discipline-and-disputed-matters"><a class="header" href="#week-43--confrontation-discipline-and-disputed-matters">Week 43 · Confrontation, Discipline, and Disputed Matters</a></h3>
+<p><strong>Focus work — capacity week.</strong> Retained: <strong>What is the biblical process for confronting another believer about their sin?</strong> (<em>Matthew 18:15 — "If your brother sins against you, go and tell him his fault, between you and him alone."</em>) And: <strong>What is church discipline and why is it necessary?</strong> (<em>1 Corinthians 5:12–13 — "For what have I to do with judging outsiders?… God judges those outside. 'Purge the evil person from among you.'"</em>) And: <strong>How should Christians handle disagreements over non-essential doctrines?</strong> (<em>Romans 14:1 — "As for the one who is weak in faith, welcome him, but not to quarrel over opinions."</em>)
+<strong>Breath practice — "Between You and Him Alone."</strong> In for four; out for six, saying the hard thing in imagination to the person's face alone — never to the group. Six rounds.
+<strong>Concept.</strong> Order matters: face first, forum second, quarantine last — and on opinions, welcome outranks winning.
+<strong>Deepening verse.</strong> <em>Galatians 6:1 (ESV): "…if anyone is caught in any transgression, you who are spiritual should restore him in a spirit of gentleness."</em>
+<strong>Teaching.</strong> The capacity week of the whole year: Matthew 18's sequence is designed to protect the accused from the court of public opinion — the smallest possible audience first — and its goal in Galatians is <em>restoration</em>, not triumph. Real discipline exists (Paul's Corinth case is grim) because a body that cannot say anything can die of anything, but the gate is high and the spirit is gentle. And on the disputed matters, Romans 14 commands the strongest thing in the passage: welcome without a debate. Practice the sequence this week in one small case, gently; the gentleness <em>is</em> the exercise.</p>
+<h3 id="week-44--careless-words"><a class="header" href="#week-44--careless-words">Week 44 · Careless Words</a></h3>
+<p><strong>Focus work — flow week.</strong> Retained: <strong>What does the Bible say about gossip and slander?</strong> (<em>Proverbs 16:28 — "A dishonest man spreads strife, and a whisperer separates close friends."</em>) The block's questions in a sentence each; longer verse circle.
+<strong>Breath practice — "The Whisper Exhale."</strong> In for four; out for six, letting the exhale be inaudible two feet away — the volume of speech you are practicing all week. Six rounds.
+<strong>Concept.</strong> Gossip is prayer backwards: it uses intimacy to harm instead of to heal.
+<strong>Deepening verse.</strong> <em>Matthew 12:36 (ESV): "I tell you, on the day of judgment people will give account for every careless word they speak."</em>
+<strong>Teaching.</strong> Proverbs' anatomy is exact — strife is <em>spread</em>, friendships are <em>separated</em> — and the mechanism is always the same counterfeit intimacy: whispered distance between two people about a third. Jesus's warning is severe in the way this curriculum needs it to be: speech is on the ledger, every careless word, which converts the tongue from entertainment to stewardship. The practice is small and brutal: for one week, say nothing about a person that you would not say to them, and watch what happens to your anxiety. The quiet is not emptiness; it is the sound of strife not being spread.</p>
+<h2 id="block-12--weeks-4548--living-in-the-world-light-authority-and-sovereignty-months-1011--part-vi"><a class="header" href="#block-12--weeks-4548--living-in-the-world-light-authority-and-sovereignty-months-1011--part-vi">Block 12 · Weeks 45–48 · Living in the World: Light, Authority, and Sovereignty (Months 10–11 + Part VI)</a></h2>
+<h3 id="week-45--light-and-commission"><a class="header" href="#week-45--light-and-commission">Week 45 · Light and Commission</a></h3>
+<p><strong>Focus work — teach week.</strong> Retained: <strong>How should Christians relate to the world around them?</strong> (<em>Matthew 5:14, 16 — "You are the light of the world… let your light shine before others, so that they may see your good works and give glory to your Father."</em>) And: <strong>What is the Great Commission, and how do I participate in it?</strong> (<em>Matthew 28:19–20 — "Go therefore and make disciples of all nations… teaching them to observe all that I have commanded you."</em>)
+<strong>Breath practice — "The Shining."</strong> In for four; out for six with the eyes open, soft gaze, letting attention rest on the room you are actually in — light is for the room you are in.
+<strong>Concept.</strong> You do not relate to the world; you are placed in it — as light is placed, not as a critic at a distance.
+<strong>Deepening verse.</strong> <em>Philippians 2:15–16 (ESV): "…that you may be blameless and innocent… shining as lights in the world, holding fast to the word of life."</em>
+<strong>Teaching.</strong> Jesus's metaphors are deliberately unrescuable from society: light, salt, a city on a hill — presence, not withdrawal — and the Commission's grammar makes every believer a participant, "as you go," in the ordinary traffic of days. Notice the two directions of glory in Matthew 5: your good works are public precisely so the glory goes <em>up</em> to your Father — visibility without self-display. This week, be somewhere on purpose: the world is not a threat to survive but a field placed under your feet.</p>
+<h3 id="week-46--governing-authorities-and-the-welfare-of-the-city"><a class="header" href="#week-46--governing-authorities-and-the-welfare-of-the-city">Week 46 · Governing Authorities and the Welfare of the City</a></h3>
+<p><strong>Focus work — repetition week.</strong> Daily: <strong>What is the Christian's relationship to government and secular laws?</strong> (<em>Romans 13:1 — "Let every person be subject to the governing authorities. For there is no authority except from God."</em>) And: <strong>How should a Christian engage with politics and civic life?</strong> (<em>Jeremiah 29:7 — "But seek the welfare of the city where I have sent you into exile, and pray to the LORD on its behalf, for in its welfare you will find your welfare."</em>)
+<strong>Breath practice — "The City's Welfare."</strong> In for four; out for six while praying, by name, one institution of your actual city — the school, the council, the firehouse. Six rounds.
+<strong>Concept.</strong> Christians are exiles who water the city anyway: submission without servility, engagement without absorption.
+<strong>Deepening verse.</strong> <em>Acts 5:29 (ESV): "But Peter and the apostles answered, 'We must obey God rather than men.'"</em>
+<strong>Teaching.</strong> Paul wrote Romans 13 under Nero, and Jeremiah's letter told exiles to build houses and seek Babylon's shalom — the two verses together give the framework's balance: real submission to real authority, and a clear ceiling at Acts 5:29 when the command crosses God's. Civic engagement, per Jeremiah, is not a culture war; it is gardening a city that is not your home, for its sake and incidentally your own. This week, pray for the city's welfare daily, and notice that the prayer cools the outrage that passes, in some quarters, for citizenship.</p>
+<h3 id="week-47--evidence-law-authority-and-the-living-sacrifice"><a class="header" href="#week-47--evidence-law-authority-and-the-living-sacrifice">Week 47 · Evidence, Law, Authority, and the Living Sacrifice</a></h3>
+<p><strong>Focus work — capacity week.</strong> Retained: <strong>Is faith simply a blind leap, or is it based on evidence?</strong> (<em>1 Corinthians 15:3–6 — "…Christ died… he was raised on the third day… he appeared to Cephas, then to the twelve… he appeared to more than five hundred brothers at once."</em>) And: <strong>What is the purpose of God's Law?</strong> (<em>Galatians 3:24 — "So then, the law was our guardian until Christ came, in order that we might be justified by faith."</em>) And: <strong>What is the purpose of spiritual authority and submission?</strong> (<em>Hebrews 13:17 — "Obey your leaders and submit to them, for they are keeping watch over your souls."</em>) And: <strong>What does it mean to be a "living sacrifice"?</strong> (<em>Romans 12:1 — "…present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship."</em>) And retained: <strong>What if I find parts of the Bible difficult to believe or morally troubling?</strong> (<em>Isaiah 55:8–9 — "For my thoughts are not your thoughts… as the heavens are higher than the earth."</em>)
+<strong>Breath practice — "The Reasonable Service."</strong> Slow and deliberate: in for four, out for six, the body deliberately offered — posture, breath, attention. Six rounds.
+<strong>Concept.</strong> Christianity is a credentialed faith: it hands you named witnesses and expects you to count them.
+<strong>Deepening verse.</strong> <em>Romans 12:2 (ESV): "Do not be conformed to this world, but be transformed by the renewal of the mind, that by testing you may discern what is the will of God."</em>
+<strong>Teaching.</strong> The framework's "capacity" stack, held together: Paul's creed is a witness list with a number in it — five hundred, most still alive when he wrote, which is evidence offered, not a leap demanded. The law was a paidagogos, a child-guardian, retired with honor at justification; leaders exist because souls need watchers; and the living sacrifice — the offering that climbs back on the altar daily — is Paul's answer to what faith <em>does</em> with a body. The troubling passages go in this week on purpose: His thoughts are higher, and some weeks you will leave the room with questions still standing, which the framework counts as honesty, not defeat.</p>
+<h3 id="week-48--program-yourself-the-sovereign-individual"><a class="header" href="#week-48--program-yourself-the-sovereign-individual">Week 48 · Program Yourself: The Sovereign Individual</a></h3>
+<p><strong>Focus work — flow week.</strong> Part VI of the framework, held as a week of examination: <strong>Programmed Development</strong> — the moments of your life program you to become you; it's a GET TO, not a have to: with gratitude, choose to PROGRAM YOURSELF. <strong>The Discipline of Non-Comparison</strong> — never be distracted by what others are doing; ONLY seek the will of the Creator. <strong>Recognizing Manipulation</strong> — refuse the carrot (warm, fuzzy, entertained) and the stick (terrified, beaten into powerlessness); both aim to make you abdicate your sovereign authority. And retained: <strong>How do I overcome fear and anxiety with faith?</strong> (<em>Isaiah 41:10 — "fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you."</em>)
+<strong>Breath practice — "Sovereign Breath."</strong> In for four, counting what you consume; out for six, asking the Lord to bless each morsel — you cannot avoid being programmed, but you can be mindful about the menu.
+<strong>Concept.</strong> You will be programmed by something this week; the only real choice is your programmer.
+<strong>Deepening verse.</strong> <em>1 Peter 5:8 (ESV): "Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour."</em>
+<strong>Teaching.</strong> The framework's most distinctive teaching, and its most practical: you are what you eat in every sense — every feed, film, and story is a curriculum with a teacher you did not interview — so the spiritual discipline of this century is media discernment, which is only the old discipline of fasting wearing new clothes. Notice the manipulation taxonomy's honesty: the carrot and the stick both end in the same place, your abdication, and the answer to both is the same fixed frame — fear not, <em>for I am with you</em>. Turn off something this week on purpose. The seat you unclaimed cannot be stolen.</p>
+<h2 id="block-13--weeks-4952--eternal-perspective-seasons-last-things-and-the-great-questions-month-12--parts-ivv--conclusion"><a class="header" href="#block-13--weeks-4952--eternal-perspective-seasons-last-things-and-the-great-questions-month-12--parts-ivv--conclusion">Block 13 · Weeks 49–52 · Eternal Perspective: Seasons, Last Things, and the Great Questions (Month 12 + Parts IV–V + Conclusion)</a></h2>
+<h3 id="week-49--spring-and-summer-new-life-and-fruitfulness"><a class="header" href="#week-49--spring-and-summer-new-life-and-fruitfulness">Week 49 · Spring and Summer: New Life and Fruitfulness</a></h3>
+<p><strong>Focus work — teach week.</strong> Part IV's first two seasons, retained. Spring — <strong>What does it mean to live in freedom from sin's power?</strong> (<em>Romans 6:14 — "For sin will have no dominion over you."</em>) <strong>How can I live a life that has an eternal impact?</strong> (<em>Matthew 6:19–20 — "Do not lay up for yourselves treasures on earth… but in heaven."</em>) <strong>What is true greatness in God's kingdom?</strong> (<em>Mark 10:43–45 — "But whoever would be great among you must be your servant."</em>) Summer — <strong>What is the Christian's responsibility toward the poor and marginalized?</strong> (<em>Proverbs 31:8–9 — "Open your mouth for the mute, for the rights of all who are destitute."</em>) <strong>What is the Christian's obligation to seek justice in society?</strong> (<em>Isaiah 1:17 — "learn to do good; seek justice, correct oppression."</em>) <strong>Does God have a specific plan for my life?</strong> (<em>Jeremiah 29:11 — "For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope."</em>)
+<strong>Breath practice — "Seed Time."</strong> In for four — the seed going in the ground; hold two — the waiting under soil; out for six — the slow green rising. Six rounds.
+<strong>Concept.</strong> The year's first half: freedom received becomes greatness spent becomes fruit for others.
+<strong>Deepening verse.</strong> <em>Galatians 6:9 (ESV): "And let us not grow weary of doing good, for in due season we will reap, if we do not give up."</em>
+<strong>Teaching.</strong> The framework's seasons run against the calendar on purpose — new life whenever the grace arrives. Trace the arc across the six questions: freedom <em>from</em> sin's dominion is for freedom <em>to</em> serve, greatness is redefined as the servant's towel, and the summer questions send the fruit outward to the mute and the oppressed. Notice Jeremiah 29:11 was written to exiles, not to people in the highlight reel — the future-and-hope verse is an exile's verse. Let the season questions examine you: which season is this, actually, for you?</p>
+<h3 id="week-50--fall-and-winter-harvest-waiting-and-doubt"><a class="header" href="#week-50--fall-and-winter-harvest-waiting-and-doubt">Week 50 · Fall and Winter: Harvest, Waiting, and Doubt</a></h3>
+<p><strong>Focus work — capacity week.</strong> Part IV's latter seasons, retained. Fall — <strong>What is the ultimate purpose of all creation, including humanity?</strong> (<em>Romans 11:36 — "For from him and through him and to him are all things. To him be glory forever."</em>) <strong>Can the Bible contain errors?</strong> (<em>Psalm 119:160 — "The sum of your word is truth, and every one of your righteous rules endures forever."</em>) <strong>How do I balance grace and truth in my relationships?</strong> (<em>John 1:14 — "And the Word became flesh and dwelt among us… full of grace and truth."</em>) Winter — <strong>What should I do when God feels distant or silent?</strong> (<em>Psalm 13:1–2 — "How long, O LORD? Will you forget me forever?"</em>) <strong>Is it a sin to be angry with God?</strong> (<em>Job 10:1–2 — "My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul."</em>) <strong>Is it wrong to have doubts about my faith?</strong> (<em>Mark 9:24 — "I believe; help my unbelief!"</em>) <strong>Why does God sometimes delay in answering prayer?</strong> (<em>2 Peter 3:9 — "The Lord is not slow to fulfill his promise… but is patient toward you."</em>)
+<strong>Breath practice — "Though the Fig Tree."</strong> In for four; out for eight on Habakkuk's resolve — long, slow, stubborn. Five rounds.
+<strong>Concept.</strong> Winter is a season of the year, not a verdict on the year — and the Bible's winter psalms are canon, not complaints.
+<strong>Deepening verse.</strong> <em>Habakkuk 3:17–18 (ESV): "Though the fig tree should not blossom… yet I will rejoice in the LORD; I will take joy in the God of my salvation."</em>
+<strong>Teaching.</strong> The capacity week of the last quarter: harvest questions (purpose, truth, grace-and-truth) alongside winter questions (silence, anger at God, doubt, delay), and the framework is braver than most curricula — Job's bitter complaint and the psalmist's "how long" are <em>in the Bible</em>, which means God canonized the argument rather than forbidding it. Note what the doubting father receives: not a rebuke but help for his half-faith. Habakkuk is the deepening verse because it is winter's endgame: rejoice with empty hands. Practice the whole syllabus of winter this week, gently; the valley has a floor, and it holds.</p>
+<h3 id="week-51--death-and-the-hope-of-glory"><a class="header" href="#week-51--death-and-the-hope-of-glory">Week 51 · Death and the Hope of Glory</a></h3>
+<p><strong>Focus work — repetition week.</strong> Month 12, retained: <strong>What happens to a person's soul immediately after they die?</strong> (<em>2 Corinthians 5:8 — "…we would rather be away from the body and at home with the Lord."</em>) <strong>What will our resurrected bodies be like?</strong> (<em>Philippians 3:20–21 — "…he will transform our lowly body to be like his glorious body."</em>) <strong>What are the "new heavens and the new earth"?</strong> (<em>Revelation 21:1 — "Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away."</em>) <strong>How does the hope of heaven help us endure earthly suffering?</strong> (<em>Romans 8:18 — "For I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us."</em>) And retained from the annual cycle: <strong>How can a Christian face the reality of their own death without fear?</strong> (<em>Psalm 23:4 — "Even though I walk through the valley of the shadow of death… I will fear no evil, for you are with me."</em>) <strong>Will we know each other in heaven?</strong> (<em>1 Corinthians 13:12 — "For now we see in a mirror dimly, but then face to face."</em>) <strong>Will animals be in the new creation?</strong> (<em>Isaiah 11:6 — "The wolf shall dwell with the lamb…"</em>)
+<strong>Breath practice — "The Last Enemy."</strong> In for four — mortal; out for eight — being made immortal, the exhale twice as long as the life. Six rounds.
+<strong>Concept.</strong> Christianity does not deny death; it dates it — defeated, with the paperwork pending.
+<strong>Deepening verse.</strong> <em>Revelation 21:4 (ESV): "He will wipe away every tear from their eyes, and death shall be no more, neither shall there be any mourning, nor crying, nor pain anymore, for the former things have passed away."</em>
+<strong>Teaching.</strong> The framework's eschatology is physical: souls at home with the Lord, then <em>bodies</em> transformed — the Christian hope is not escaping the earth but earth rebuilt, wolf and lamb at peace, tears wiped by a hand. Paul's comparison in Romans 8:18 is arithmetic, not denial — the sufferings are real and weigh nothing against the glory — which is the only kind of hope that survives an actual hospital room. Sit with the week's honest question this week — your own death — and let the Shepherd's presence-in-the-valley be the whole answer, because it was His whole answer too.</p>
+<h3 id="week-52--judgment-glory-and-the-end-of-the-matter"><a class="header" href="#week-52--judgment-glory-and-the-end-of-the-matter">Week 52 · Judgment, Glory, and the End of the Matter</a></h3>
+<p><strong>Focus work — flow week.</strong> The annual cycle's great questions, retained: <strong>What is the final judgment, and on what basis will people be judged?</strong> (<em>Revelation 20:12 — "…and the dead were judged by what was written in the books."</em>) <strong>For believers in Christ, what is the nature of their judgment?</strong> (<em>Romans 8:1 — "There is therefore now no condemnation for those who are in Christ Jesus."</em>) <strong>What does the Bible teach about the reality of hell?</strong> (<em>Matthew 25:46 — "And these will go away into eternal punishment, but the righteous into eternal life."</em>) <strong>What is the Great White Throne Judgment?</strong> (<em>Revelation 20:11 — "Then I saw a great white throne and him who was seated on it; from his presence earth and sky fled away."</em>) <strong>Should we try to predict the date of Christ's return?</strong> (<em>Matthew 24:36 — "But concerning that day and hour no one knows."</em>) <strong>What is the ultimate destiny of Satan and the forces of evil?</strong> (<em>Revelation 20:10 — "…the devil who had deceived them was thrown into the lake of fire."</em>) <strong>Will there be rewards in heaven?</strong> (<em>1 Corinthians 3:13–14 — "…each one's work will become manifest… If the work… survives, he will receive a reward."</em>) <strong>What does it mean that God will be "all in all"?</strong> (<em>1 Corinthians 15:28 — "…that God may be all in all."</em>) And the framework's final question, retained: <strong>What is the ultimate summary of our human duty?</strong> (<em>Ecclesiastes 12:13 — "The end of the matter; all has been heard. Fear God and keep his commandments, for this is the whole duty of man."</em>)
+<strong>Breath practice — "All in All."</strong> In for four; out for eight, attention dissolving outward into the widest frame of the year — the zoom of week 1, completed. Six rounds, then two full minutes of silence.
+<strong>Concept.</strong> The year ends where it began, zoomed out: judgment is real, the accuser is finished, and duty compresses to one line.
+<strong>Deepening verse.</strong> <em>2 Corinthians 5:10 (ESV): "For we must all appear before the judgment seat of Christ, so that each one may receive what is due for what he has done in the body."</em>
+<strong>Teaching.</strong> The last week holds the framework's heaviest questions in the smallest format — one sentence each, read aloud, then silence — because that is the size at which eternity can be carried into a Tuesday. Notice the two judgments carefully distinguished: no condemnation for those in Christ, and yet a judgment seat where work is tested and rewarded — salvation by grace, service by fire, both held without flinching. And the Preacher's last line, the whole duty of man, is the curriculum's exit: fear God, keep His commandments, and be anxious about nothing else. The plan was imperfect and that was the point; the anxiety dropped all year, and that was the proof; the door of this circle stays open behind you.</p>
+<hr />
+<p><strong>Conclusion: The Integration of All Things.</strong> As you develop this discipline of focusing upon discerning the will of your Creator, you will become much, much, MUCH less anxious. Long-term, massive reductions in anxiety are one way of knowing whether your approach is working. With freedom from anxiety comes the ability to get off the hamster wheel, make smarter and more stable decisions, and avoid blatantly stupid physical behaviors — using substances to relax, food as an emotional crutch, or thinking you need constant escape. The moments of your life program you to become you: develop only those aspects of life that perform as assets. We are competing against our ideal selves, the perfect self our Creator intended us to exhibit — never against each other, and never by any yardstick of materialist life.</p>
+<p><em>To God be the glory.</em></p>
+<p><em>Revision v1 — unfolded from 01ChristianSpiritualHealth.md into 52 weeks. Write in the margins. Change the plan. Come back next week.</em></p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../1.Projects/Template.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../../1.Projects/staging/16MartialArts.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../1.Projects/Template.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../../1.Projects/staging/16MartialArts.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js"></script>
+        <script src="../../mark.min.js"></script>
+        <script src="../../searcher.js"></script>
+
+        <script src="../../clipboard.min.js"></script>
+        <script src="../../highlight.js"></script>
+        <script src="../../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>
