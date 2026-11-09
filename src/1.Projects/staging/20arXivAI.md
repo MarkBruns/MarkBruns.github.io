@@ -1,10 +1,3 @@
----
-title: "arXiv AI, focused upon Agent Harnesses"
-type: project
-tags: goals, requirements, deadlines
-alias: harnesslab
----
-
 # Agent Harnesses — A 52-Week arXiv Curriculum for a Drop-In Reading Group of Agent Builders
 
 *Free. Peer-led. No ranks. No branding.*

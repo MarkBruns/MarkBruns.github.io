@@ -1,11 +1,4 @@
----
-title: "Martial Arts"
-type: project
-tags: goals, requirements, deadlines
-alias: ideation
----
-
-# Martial Arts
+# Martial Arts — A 52-Week arXiv Curriculum for Intentional Lifestyle Change
 
 ***Planning the martial arts lifestyle, then living and improving the plan as Jesus Christ would do.***  Plans are always imperfect, but the whole point of planning is not the document, but the process of implementing, refactoring, revising and changing the plan ... the POINT of a plan is to have a starting roadmap to work from, while realizing that as soon as *the battle* starts, the plan will need to be completely overhauled and adjusted, because new OPPORTUNITIES will arise.  
 
