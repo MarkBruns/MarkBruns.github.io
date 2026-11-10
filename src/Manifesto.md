@@ -1,4 +1,4 @@
-The newest ***news*** in raw, unedited form is in the **[Journal of This Agentic Book Of Skills](Journal.md)** ... *check there first, if you are revisiting*
+The newest ***news*** in raw, unedited form is in the [**Journal of the PROCESS, of BUILDING**](Journal.md) this little [repository or agentic mdBook monorepo of skill *.md files](https://github.com/MarkBruns/MarkBruns.github.io) ... *check the Journal first, if you are revisiting -- otherwise, look at the repository or maybe fork/clone it.*
 
 --- 
 

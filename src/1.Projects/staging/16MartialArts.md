@@ -1,6 +1,12 @@
-# Martial Arts — A 52-Week arXiv Curriculum for Intentional Lifestyle Change
+# Martial Arts — A 52-Week Curriculum for Jesus-First Lifestyle Change
 
-***Planning the martial arts lifestyle, then living and improving the plan as Jesus Christ would do.***  Plans are always imperfect, but the whole point of planning is not the document, but the process of implementing, refactoring, revising and changing the plan ... the POINT of a plan is to have a starting roadmap to work from, while realizing that as soon as *the battle* starts, the plan will need to be completely overhauled and adjusted, because new OPPORTUNITIES will arise.  
+***Planning the martial arts lifestyle, then living and improving the plan as Jesus Christ would do*** ... **AS JESUS CHRIST WOULD DO**.  
+
+What is THE GOAL ... THE OBJECTIVE ... it's not martial arts or the dojo or the gi or the swag ... THE OBJECTIVE is being able to live in better accordance with our adoration of Jesus Christ. *Otherwise, we just look like silly kids pretending to be tough guys.*
+
+The following plan might look daunting ... but coming up with plans is ridiculously easy ... the tough part is on internalizing the plan, implementing the plan and then NECESSARILY revising and adapting the plan CONTINOUSLY as the plan meets Reality.
+
+Plans are always imperfect. ALWAYS!  The point of planning is not to come up with A PLAN ... the whole point of ***planning*** is not an artifact, a schedule, or a document, but instead the whole point is ***the process*** of implementing, refactoring, revising and changing the plan ... the POINT of a plan is to have a starting roadmap to work from, while realizing that as soon as *the battle* starts, the plan will need to be completely overhauled and adjusted, because new OPPORTUNITIES will arise.  
 
 The MOST IMPORTANT part of planning is **gratitude discipline** which is ALWAYS, ALWAYS, ALWAYS realizing that the situation is far better than one hoped for, although almost certainly not exactly what one hoped for, ie the plan will NEED TO BE adjusted -- that's the REASON for why planning and preparation are key.
 
