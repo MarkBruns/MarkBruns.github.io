@@ -69,8 +69,8 @@ The session is the same every week of the year. That sameness is not laziness; i
 
 | Minutes | Segment | What happens |
 |---|---|---|
-| 0–5 | Arrival | Waiver and emergency contact check for anyone new. Shoes and gear check. Name tags if the group is larger than twelve. |
-| 5–10 | Circle | Welcome. One safety sentence for the day. A short prayer, out loud, by whoever is leading. |
+| 0–5 | Arrival | Waiver and emergency contact check for anyone new. Shoes and gear check. *Name tags if the group is larger than twelve* ... ***ha, ha, ha*** ... *a group size of three might be unprecedented, maybe four would blow my mind!*  In spite of group size, format/discipline/reverence matters for a session ... training is NOT just for hanging out or goofing off; it has to be taken seriously or else serious results are impossible. |
+| 5–10 | Circle | Centering, deep breaths, like saying formal grace BEFORE swallowing any food item. Prayer for safety/mindfulness (ie pay ATTENTION to what others are doing; the Holy Spirit is with us). The prayer must be said formally, out loud, by whoever is leading. |
 | 10–22 | Joint and movement preparation | Joints from the neck down, in the same order every week, plus whatever the day's body work requires. |
 | 22–45 | Main body work | Teach, repetition, capacity, or flow, depending on the week. |
 | 45–52 | Conditioning | The week's capacity task. Ten minutes at most, scaled by whoever is present. |
