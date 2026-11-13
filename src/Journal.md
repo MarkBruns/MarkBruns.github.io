@@ -1,3 +1,15 @@
+# [2026-11-13](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-13.md) ... 40-session Observability Engineering For Multi-Agent Harness Engineering
+
+This 40 workshop (*"W" is for "workshop", eg W1 is Workshop 1) curriculum deliberately does not make anyone "fluent" in anything ... but completing W1–W8 will give you a control group; W9–W18 make you go deep enough in one framework to generate real judgment; W19–W26 show you how the deployment environment rewrites the rules of security and evidence; W27–W34 turn security from "configuration" into "runtime adjudication"; W35–W40 compress experience into a transferable judgment tool. If the audit schemas you produce at W15 and W37 are solid, the 40 workshops have succeeded — because your first reaction to any new framework afterward will be something like "how do this system's checkpoint feed my schema," rather than just "how many GitHub stars does it have."
+
+**The course is feasible, but understand what the goal is.** 20 days × 6 hours = 120 hours, 40 workshops. That is not enough to reach production-grade fluency in any single framework, let alone "master" all competitors in that framework's industry. But it is enough to build a **transferable judgment framework** in which you learn how to ask smarter, shrewder, tougher questions ... specifically, after completing this workshop [and extending it for your own specific interests/use cases], you should be able to ask useful questions about where each orchestration model leaks on observability and security, why it leaks, and what patches the leak. The take away should not be "I know LangGraph." It should be "I can tell, within an hour or two of experimenting and using, where a new framework's audit evidence chain breaks."
+
+The sequence below is **depth first, breadth second, attack-and-defend throughout**. LangGraph gets ~40%, competitors and contrasts ~30%, security and observability woven through ~30%. 
+
+Every workshop has a concrete deliverable ... there's no "just watch some YouTube vids on how to do this" — to complete the workshop you have to build something concrete that actually works and you can show to others.
+
+
+
 # [2026-11-07](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-07.md) ...  Optimal Stopping for Multi-Agent and Iterative Agent Systems
 
 **Optimal stopping for multi-agent and iterative agent systems is best understood as a satisficing control problem under bounded rationality**, not pure optimization. Herbert Simon’s satisficing (search until an option is “good enough” given aspiration levels and resource constraints) maps cleanly onto agent loops: the orchestrator or the agent itself monitors signals of marginal progress, evidence sufficiency, consensus irreversibility, semantic stability, and budget exhaustion, then intervenes before quality plateaus or degrades and before token costs compound.
