@@ -1,3 +1,259 @@
+# [2026-11-23](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-23.md) ... Provenance and Causal Engineering for Agentic Systems
+
+15 weeks · 3 h reading worksession + 2 h lab per week · plus one 60-minute study hour, Mon–Sat, 09:30**
+
+| | |
+|---|---|
+| **Prerequisites** | Python fluency; basic probability (conditional independence, expectation); command line and Docker. No prior causal inference or provenance background required. |
+| **Software** | Python 3.10+, Flowcept, Docker (Redis + MongoDB or LMDB), LangGraph or a minimal agent loop, Jupyter, dagitty, causaloptim (R) or a Python bounds implementation |
+| **Core texts** | W3C PROV Primer; PROV-AGENT (arXiv 2508.02866); Flowcept docs; Pearl/Glymour/Jewell *Primer*; Hernán & Robins *Causal Inference: What If*; the evidence-tracing survey (arXiv 2606.04990) |
+| **Assessment** | Provenance audit 15% · identification exercises 20% · causal audit 10% · final project 40% · labs and peer review 15% |
+
+> **Core constraint, stated once and enforced throughout.** This course does **not** claim that provenance tooling performs causal inference. It teaches you to separate **provenance reconstruction** — what happened, and what depended on what — from **causal identification** — what would have happened under intervention, which requires statistical assumptions no trace can supply. The two are complementary and not substitutable. Every assessment penalises conflating them.
+
+---
+
+## Course description
+
+Agentic systems built on language models produce execution traces that are rich in detail and poor in causal semantics. A trace can show that a tool output preceded a plan revision; it cannot by itself tell you whether the tool output *caused* the revision, whether a revision would have occurred with a different output, or how much of the final outcome is attributable to the tool rather than the model's prior context.
+
+This course trains you to instrument agentic workflows with the ORNL/Argonne **PROV-AGENT** schema and the **Flowcept** capture framework, and then to interrogate the resulting traces with identification methods from the Pearl/Rubin tradition. You will leave able to answer two distinct questions and to keep them apart: *What happened in this run, and what evidence supports that reconstruction?* and *What causal claims about this behaviour are actually warranted by the data I have?*
+
+The course is deliberately uncomfortable with its own tools. Weeks 5, 10, 11 and 15 are devoted to the places where provenance is silent, where identification fails, and where a confident answer would be a lie. Reporting "unidentified" with precision is a passing grade, not a failure.
+
+## Learning objectives
+
+By the end of the course you will be able to:
+
+1. **Instrument** a Python agentic workflow with Flowcept, persist provenance to a queryable store (LMDB or MongoDB), and verify the resulting graph round-trips.
+2. **Explain** PROV-AGENT's agent-centric entities — `AIModelInvocation`, `AgentTool`, and the `wasInformedBy` relation — and how they extend W3C PROV for agent root-cause analysis.
+3. **Distinguish** a provenance-derived dependency graph from a causal DAG, and state precisely which interventional claims the former does and does not license.
+4. **Apply** back-door and front-door identification to agent traces where some structure is observed (provenance) and the rest is assumed — and say which is which in writing.
+5. **Critique** existing provenance systems for their gaps in claim-level evidence, memory invalidation semantics, and multi-agent responsibility attribution.
+6. **Design** a schema extension or a causal analysis plan for one failure mode (hallucination propagation, tool-error cascade, memory poisoning) that is technically defensible and explicit about its untestable assumptions.
+
+## How the course runs
+
+Each week has a 3-hour lecture block and a 2-hour lab. Both are scheduled separately from the daily 09:30 study hour; that hour is yours, and its content is specified in `DAILY-PLAN.md` and in `course.ics` (90 sessions, one per weekday morning plus Saturday).
+
+The study hour follows a fixed rhythm, and the rhythm is part of the pedagogy:
+
+| Day | Focus | Purpose |
+|---|---|---|
+| Mon | Preview | Arrive at the lecture with questions, not a blank page |
+| Tue | Re-derive | Reproduce the week's formalism from memory — the only test re-reading cannot fake |
+| Wed | Lab prep | Design the instrumentation before typing; most provenance bugs are design bugs |
+| Thu | Exercise | Identification is a motor skill; it needs reps |
+| Fri | Critical read | One paper section per week, read adversarially (15 papers a term) |
+| Sat | Synthesis | Assumption ledger, retrieval practice on week *n−3*, next week's plan |
+
+**The artefact that carries the course:** `ASSUMPTIONS.md`, a running ledger with one row per assumption — where it enters, whether it is testable with your data, and what would falsify it. Saturday's hour maintains it. By week 15 it is the analytical spine of your final report, and it is graded as part of it.
+
+---
+
+## Part I — Provenance foundations (weeks 1–5)
+
+### Week 1 — Why agent traces are not enough
+
+**Lecture.** Outputs propagate as inputs; errors compound across steps and agents. Two failure modes: *dataflow contamination* (a bad input corrupts downstream state) and *non-determinism* (same prompt, different trajectory). The three-level distinction that organises the course: a log tells you *what*; provenance tells you *what depended on what*; causal inference tells you *what would have changed if*.
+
+**Lab.** Diagnose a deliberately broken four-step agent using print statements only. Document the exact point where your reasoning stalls, and classify the stall: missing dataflow, missing comparison, or missing counterfactual.
+
+**Read.** PROV-AGENT §1–2; survey §1; Flowcept README.
+
+**Honesty checkpoint.** Every diagnosis you produced is a causal claim in disguise ("the retrieval step caused the wrong answer"). Circle them; you will revisit them in week 6.
+
+### Week 2 — W3C PROV and the PROV-AGENT extension
+
+**Lecture.** PROV's core: `Entity`, `Activity`, `Agent`, and the relations `used`, `wasGeneratedBy`, `wasInformedBy`, `wasAssociatedWith`. PROV-AGENT's additions: `AIModelInvocation` for a single prompt→response exchange, `AgentTool` for a tool execution by an agent, and `agent_id` as the linking field that lets a full agent graph be reconstructed. Why `wasInformedBy` is a *dependency* relation and not a counterfactual one.
+
+**Lab.** Hand-construct a PROV-AGENT JSON graph for a three-step interaction. Annotate every edge: observed (recorded by capture) or inferred (you supplied it). The count of inferred edges is the size of your causal assumption set.
+
+**Read.** W3C PROV Primer; PROV-AGENT §3; Flowcept schema docs.
+
+**Honesty checkpoint.** An inferred edge is not a weaker edge; it is a different kind of object. Mark them in a different colour and keep that convention all term.
+
+### Week 3 — Flowcept instrumentation
+
+**Lecture.** The record model: workflows, tasks, and blobs; message-queue streaming (Redis by default, with RabbitMQ, Kafka and Mofka supported) and database-backed storage (MongoDB for queryable deployments, LMDB for file-based runs). The decorators — `@flowcept_task` for function-level capture, `@flowcept` / `with Flowcept()` for workflow context — and the agent adapters, including MCP. Offline buffering versus persistent mode: when in-memory suffices, when you need a database.
+
+**Lab.** Instrument the provided LangGraph agent. Capture model invocations and tool tasks, export the graph, and verify `agent_id` linkage across the whole run. Break the linkage deliberately, then fix it.
+
+**Read.** Flowcept documentation (instrumentation and storage); Flowcept paper (e-Science 2023, arXiv 2308.09004).
+
+**Engineering note.** Decorator and adapter names track a fast-moving project. If a name in this syllabus does not exist in the installed version, the documentation is authoritative and the syllabus is the bug — say so in your lab report.
+
+**Honesty checkpoint.** Capture is not neutral: what the framework records defines what you can later ask. List three questions your trace cannot answer.
+
+### Week 4 — Querying provenance for reconstruction
+
+**Lecture.** Reconstruction as graph traversal: find the first anomalous output, then every task informed by it. Querying by subtype and by task identifiers; reconstructing chains from parent/dependency fields. The Flowcept Agent (LLM-based natural-language querying) and its verification requirement: a natural-language answer about a trace is a hypothesis until it is checked against the raw records.
+
+**Lab.** Given a provenance database from a failed run, write queries that identify (a) the first task producing an anomalous output, (b) every downstream task informed by it, and (c) any model invocation that reused a prior response without verification.
+
+**Read.** Flowcept query docs; survey §3.
+
+**Honesty checkpoint.** Write one sentence per query stating what the query assumes (e.g. "anomaly is detectable from output alone"). Those sentences go in the ledger.
+
+### Week 5 — Provenance limits and the evidence gap
+
+**Lecture.** What PROV-AGENT captures well: order, input–output linkage, tool-argument dependency, agent attribution. What it does not: claim-level support and contradiction, memory invalidation semantics, inter-agent responsibility for propagated false claims. The *semantic taint* problem: an unsupported assumption introduced at step 2 can influence the final output without appearing as a distinct bad entity.
+
+**Lab.** Audit a Flowcept trace for a hallucination-propagation scenario. Map every point where provenance is silent about *why* a claim was accepted rather than challenged.
+
+**Deliverable.** **Provenance audit report (15%)** — instrument an agent, capture a failure, and document what the provenance graph explains and what it leaves unresolved. Graded on the honesty of the second half, not the thoroughness of the first.
+
+**Read.** Survey §§5–6; PROV-AGENT §7.
+
+---
+
+## Part II — Causal identification (weeks 6–10)
+
+### Week 6 — Structural causal models and DAGs
+
+**Lecture.** Endogenous and exogenous variables; structural equations; interventions as graph surgery. Reading a DAG: chains, forks, colliders, d-separation. The central move of the course: treat an agent's execution as a *partially known* causal system — some edges given by provenance, the rest assumed or tested.
+
+**Lab.** Draw the DAG for a two-step retrieval→generation agent. Mark provenance-observed edges versus causal assumptions. Identify the open back-door paths and say which confounder you cannot measure.
+
+**Read.** *A Crash Course in Good and Bad Controls* (arXiv 2103.06108); Pearl/Glymour/Jewell *Primer*, first chapters.
+
+**Honesty checkpoint.** If your DAG has no unobserved variables, you have drawn a wish, not a model.
+
+### Week 7 — The do-operator and identification
+
+**Lecture.** `P(Y | do(X))` versus `P(Y | X)`; confounding as a property of the graph, not the data. The back-door criterion and adjustment formula; the front-door criterion for mediation, with agent reasoning steps as mediators between retrieved evidence and output. What identification means in an agent context: which assumptions licence an estimate of the effect of changing a tool's output.
+
+**Lab.** Apply back-door adjustment by hand to a simulated agent dataset where prompt context confounds tool output. Then explain, in one page, why the provenance graph alone did not specify the adjustment set.
+
+**Read.** Hernán & Robins, *Causal Inference: What If*, Part I (target-trial framing and confounding); dagitty adjustment-set analysis.
+
+**Honesty checkpoint.** Write the adjustment set and the assumption that justifies each variable's inclusion. "Standard practice" is not a justification.
+
+### Week 8 — Counterfactuals and agent behaviour
+
+**Lecture.** The three steps — abduction, action, prediction — and what each requires. Why agent counterfactuals are hard: answering "what if the tool had returned v′" requires a model of how the model *would* have responded, not a record of how it did. Provenance constrains the counterfactual graph (it fixes known dependency edges); it says nothing about functional form.
+
+**Lab.** For a captured run, state one counterfactual question precisely, then list every assumption required. Separate the testable from the untestable. Then write the paragraph you would put in a paper.
+
+**Read.** Hernán & Robins, counterfactual chapters; Pearl *Primer* counterpart; DoWhy documentation for the estimation scaffolding.
+
+**Honesty checkpoint.** An untestable assumption is acceptable; an unstated one is misconduct.
+
+### Week 9 — Partial identification and honest uncertainty
+
+**Lecture.** When effects are not point-identified: bounds and partial identification. Manski bounds for binary outcomes; what they buy (a range that is true under almost no assumptions) and what they cost (width). The pedagogy of "I don't know": reporting identification failure instead of overclaiming.
+
+**Lab.** With a small agent dataset (binary tool success, binary final outcome), compute Manski bounds. Compare with the naive difference in means and explain the gap in causal terms.
+
+**Read.** *Causal Inference: What If* (identification framing); causaloptim (bounds via linear programming); survey's evaluation material.
+
+**Honesty checkpoint.** Report the bounds even when the point estimate is more flattering. Especially then.
+
+### Week 10 — Synthesis: provenance meets causality
+
+**Lecture.** Student-led critique of a published provenance paper from a causal standpoint: which causal claims does it make, and are they licensed? Structured debate: *"`wasInformedBy` is sufficient for root-cause analysis in agentic systems."* Both sides must cite evidence, not intuition.
+
+**Deliverable.** **Causal audit of a provenance paper (10%)** — one page, identifying every point where dependency tracing is presented as, or read as, causal inference.
+
+**Lab.** Debate, then a written synthesis: the licensing table (what each evidence type licenses) becomes a course artefact you will reuse in week 15.
+
+---
+
+## Part III — Integration and applied projects (weeks 11–15)
+
+### Week 11 — Memory, multi-agent systems, and the provenance gap
+
+**Lecture.** Memory provenance: write, update, retrieval, invalidation. The memory-poisoning threat. Multi-agent responsibility: who introduced a false claim, who amplified it, who failed to verify it — and why that is a *unit-level causal question*, not a lookup. Current coverage versus the gaps catalogued in the survey.
+
+**Lab.** Instrument a two-agent handoff. Attempt to attribute a propagated error using captured fields only. Then specify the minimal extra metadata that would settle the attribution, and argue whether it is capturable at all.
+
+**Read.** Survey, memory and multi-agent sections; PROV-AGENT agent-centric relations.
+
+**Honesty checkpoint.** "Agent B caused it" is a counterfactual claim about a run that did not happen. Say which one you mean.
+
+### Week 12 — Designing a causal–provenance study
+
+**Lecture.** From research question to estimand to identification strategy to instrumentation to sensitivity analysis — in that order, because reversing it produces unfalsifiable studies. Two worked examples: temperature and tool-argument hallucination (needs intervention or strong ignorability); an extra retrieved document and answer correctness (mediation, with provenance supplying candidate mediators).
+
+**Deliverable.** **Two-page study design** — question, estimand, DAG, identification strategy, instrumentation plan, and the assumptions you cannot test.
+
+**Lab.** Peer review of draft designs against the four-part template: estimand, identification, instrumentation, sensitivity. Two reviews each, written, with the author's response due within 48 hours.
+
+**Read.** *Causal Inference: What If* (target-trial framing); *Crash Course* again, now that you have a DAG of your own.
+
+---
+
+### Week 13 — Instrumentation clinic
+
+**Lecture.** Common failures: missing `agent_id` linkage, offline buffer overflow, unpersisted large blobs, timestamps that destroy reproducibility. The provenance completeness checklist, derived from PROV-AGENT's entity coverage and the survey's open requirements.
+
+**Lab.** Run the checklist against your own repository; file every gap as an issue with a reproduction. In-class debugging of each other's instrumentation.
+
+**Read.** Flowcept docs (agents, adapters, storage); OpenTelemetry GenAI conventions, as a contrast in what a general observability standard chooses to capture.
+
+---
+
+### Week 14 — Analysis clinic
+
+**Lecture.** Defending a DAG, an adjustment set, and a counterfactual assumption out loud. Peer review structured around three questions: *What does provenance establish? What does causal analysis add? What remains unidentified?*
+
+**Lab.** Swap notebooks. Review two others against the three questions and record dispositions. Then revise your own notebook in response.
+
+**Read.** dagitty documentation and examples; survey's evaluation and benchmark gaps.
+
+---
+
+### Week 15 — Final presentations and synthesis
+
+**Lecture.** Ten-minute presentations, five minutes of questions, timed. Closing synthesis: a decision tree for *when provenance reconstruction suffices and when causal inference is required*. Course retrospective: what would a genuinely integrated causal–provenance system need that no current tool provides?
+
+**Lab.** Presentation session: ten minutes, five minutes of questions, timed. Questions are submitted in writing first, so that the Q&A tests understanding rather than quickness.
+
+**Deliverable.** **Final project (40%)** — instrument an agent, capture data, formulate a causal question, apply an identification strategy, and report findings with explicit limitations. Submit: repository, provenance export, analysis notebook, four-page report, and `ASSUMPTIONS.md`.
+
+**Read.** Your week 1 notes, annotated with what you now know.
+
+---
+
+## Assessment
+
+| Component | Weight | Due | Graded on |
+|---|---|---|---|
+| Provenance audit report | 15% | Week 5, Saturday | Correctness of capture; completeness of the "what it leaves unresolved" section |
+| Causal identification exercises | 20% | Weekly, weeks 6–10 | DAG defensibility; adjustment-set correctness; stated assumptions; honest bounds |
+| Causal audit of a provenance paper | 10% | Week 10, Saturday | Precision in naming the conflation, with page references |
+| Final project | 40% | Week 15 | End-to-end coherence; identification honesty; reproducibility |
+| Labs and peer review | 15% | Continuous | Preparation, quality of critique, response to critique |
+
+Full rubrics: `reference/ASSESSMENT.md`.
+
+**A note on the 20% exercises.** They are marked on the *reasoning*, not the number. An exercise that concludes "not identified under these assumptions, and here is what data would identify it" scores full marks. An exercise that reports a confident estimate with unstated assumptions scores zero, even if the number happens to be right.
+
+## Materials
+
+- **PROV-AGENT** — Souza et al., *Unified Provenance for Tracking AI Agent Interactions in Agentic Workflows*, IEEE eScience 2025. <https://arxiv.org/abs/2508.02866>
+- **Flowcept** — documentation <https://flowcept.readthedocs.io/>; source <https://github.com/ORNL/flowcept>; paper <https://arxiv.org/abs/2308.09004>
+- **Survey** — *From Agent Traces to Trust: A Survey of Evidence Tracing and Execution Provenance in LLM Agents*. <https://arxiv.org/abs/2606.04990>
+- **W3C PROV** — Primer <https://www.w3.org/TR/prov-primer/>; ontology <https://www.w3.org/TR/prov-o/>
+- **Pearl, Glymour & Jewell**, *Causal Inference in Statistics: A Primer* — companion material <http://bayes.cs.ucla.edu/PRIMER/>
+- **Hernán & Robins**, *Causal Inference: What If* — free book <https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/>
+- **Cinelli, Forney & Pearl**, *A Crash Course in Good and Bad Controls* <https://arxiv.org/abs/2103.06108>
+- **dagitty** <https://www.dagitty.net/> · **DoWhy** <https://www.pywhy.org/dowhy/> · **causaloptim** <https://cran.r-project.org/web/packages/causaloptim/>
+
+Annotated bibliography with "read this for X": `reference/READINGS.md`.
+
+## Policies
+
+**Agent and LLM use.** Permitted and expected for code, query writing, and literature triage. Not permitted as the author of a causal claim: any sentence asserting an effect, an attribution, or an assumption must be one you can defend in viva. You must disclose, per artefact, which tools were used and for what. Undisclosed generation of analysis prose is an integrity violation; disclosed use is normal engineering.
+
+**Data and ethics.** Agent traces can contain user text, secrets, and personal data. Use the provided synthetic traces for coursework unless you have written permission otherwise. Redact before capture, not after submission.
+
+**Late work.** Labs are not marked late — they are marked present or absent. The three written deliverables lose 10% per day, to a floor of 50%, because the week 10 audit is an input to the final project.
+
+**Accessibility.** All materials are text-first and screen-reader compatible; no video is required. If a tool needs a GUI, an equivalent CLI path exists in the lab handout; tell the instructor if it does not.
+
+**A note on honesty.** The most valuable sentence you will write this term is some version of: *"This claim requires an assumption I cannot test with the data I have."* The course is designed so that you write it early, often, and without embarrassment.
+
 # [2026-11-21](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-21.md) ... The Living Agentic Book — 42-session build sprint.
 
 This is about the architectural evolution of tool calling, native reasoning, and stateless MCP ... we want to really EXPLORE building an agentic personal knowledge engineering utility ... from static LLMs to quasi-persistent agentic ecosystems to something like a "book" that continually gathers information for us to consider, edit, annotate, refactor and contemplate ... realistically, it's not about a final answer -- it's about gathering more knowledge to contemplate ... *not just* TRENDING things such as serious discussions about the [AI-assisted proof of the Reimann hypothesis](https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/) and how this sort of thing **opens up** gigantic new vistas in the entire realm of Mathematics and reasoning ... but, more importantly, it's about the more important discoveries that are not so trendy or hyped, ie it's about real agentic ***DISCOVERY*** not about the extra trendy mind poison that gets regurgitated by the propaganda machines that comprise ALL media. 
