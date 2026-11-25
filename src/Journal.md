@@ -92,14 +92,14 @@ The study hour follows a fixed rhythm, and the rhythm is part of the pedagogy:
 
 | Day | Focus | Purpose |
 |---|---|---|
-| Mon | Preview | Arrive at the lecture with questions, not a blank page |
-| Tue | Re-derive | Reproduce the week's formalism from memory — the only test re-reading cannot fake |
-| Wed | Lab prep | Design the instrumentation before typing; most provenance bugs are design bugs |
-| Thu | Exercise | Identification is a motor skill; it needs reps |
-| Fri | Critical read | One paper section per week, read adversarially (15 papers a term) |
-| Sat | Synthesis | Assumption ledger, retrieval practice on week *n−3*, next week's plan |
+| Mon | Preview | Arrive at the lecture with questions, not blank stare or empty page of a traditional student ... *because learning autodidacticly with AI assistance, requires the student to ask better questions in order to improve the reading list and build the lecture*  |
+| Tue | Re-derive | Reproduce the week's formalism from memory — the only test that simply re-reading and regurg'ing material cannot fake |
+| Wed | Lab prep | Architect the instrumentation before typing; provenance bugs tend to be failures in experimental structure or design bugs |
+| Thu | Exercise | Knowing what one is looking at OR identification of issues in the roadmap is a motor skill; better reactions come from the reps that happen one thinks one has done enough |
+| Fri | Critical read | One paper that best exemplifies the content of the week's material covered in this section per week; selecting the paper requires experience/familiarly -- reading the most interesting adversarially means that one reads the most compelling material from fifteen different sections per term |
+| Sat | Synthesis | Assumption re-examination adjustment ledger ... retrieval/coordination practice on material from this week, n ... as well as *n−1* week, *n−2* *n−3* ... because re-adjusting assumptions or former knowledge affects how the material covered will be used in next week's *n+1* plan |
 
-**The artefact that carries the course:** `ASSUMPTIONS.md`, a running ledger with one row per assumption — where it enters, whether it is testable with your data, and what would falsify it. Saturday's hour maintains it. By week 15 it is the analytical spine of your final report, and it is graded as part of it.
+**The artefact that really carries the course:** `ASSUMPTIONS.md` ... *what do I think I know?* ... a running ledger with one row per assumption — where it enters, whether it is testable with your data, and what would falsify it. Saturday's hour maintains it. By week 15 it is the analytical spine of your final report, and it is graded as part of it.
 
 ---
 
