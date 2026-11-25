@@ -170,7 +170,49 @@
 <hr />
 <h2 id="course-description"><a class="header" href="#course-description">Course description</a></h2>
 <p>Agentic systems built on language models produce execution traces that are rich in detail but poor in causal semantics: a trace can show that a tool output preceded a plan revision, but not whether it caused the revision, whether a different output would have changed it, or how much of the final outcome came from the tool versus the model’s prior context. That gap motivates causal instrumentation. It also justifies a staged posture: explore loosely inside bounded, reversible sandboxes before anyone is affected; then, as impact becomes possible, shift to trace review, human interaction, and review gates. Knowledge grows through editing and refactoring, so provenance should be a living practice—provenance-by-default after the sandbox stage, versioned trace refactoring, and post-hoc causal annotation, including counterfactual replay and ablation where feasible. The rule is not to capture provenance perfectly on the first attempt, but to never let it stop being editable.</p>
-<p>This course trains you to instrument agentic workflows with the ORNL/Argonne <strong>PROV-AGENT</strong> schema and the <strong>Flowcept</strong> capture framework, and then to interrogate the resulting traces with identification methods from the Pearl/Rubin tradition. You will leave able to answer two distinct questions and to keep them apart: <em>What happened in this run, and what evidence supports that reconstruction?</em> and <em>What causal claims about this behaviour are actually warranted by the data I have?</em></p>
+<p>This course trains you to instrument agentic workflows with the ORNL/Argonne <strong>PROV-AGENT</strong> schema and the <strong>Flowcept</strong> capture framework, and then to interrogate the resulting traces with identification methods from the Pearl/Rubin tradition.  We should ensure that people understand exactly what that Pearl/Rubin Tradition is about and how it relates to causal inference and especially causal engineering in AI-driven agentic knowledge engineering.</p>
+<p>As many might guess, the <strong>Pearl/Rubin tradition</strong> refers to the two foundational mathematical frameworks of modern <strong>causal inference</strong>, named after computer scientist <strong>Judea Pearl</strong> and statistician <strong>Donald Rubin</strong>. In the context of interrogating execution traces of AI agents, applying identification methods from the Pearl/Rubin tradition means taking raw observational logs of what an agent did and applying formal mathematical rules to determine whether step A <em>actually caused</em> step B—or if they just happened to occur in sequence. Both traditions aim at solving the same fundamental problem: <strong>correlation is not causation</strong>, and observational data (like an execution trace) cannot tell you what would have happened under a different action unless you impose strict causal assumptions.</p>
+<hr />
+<h2 id="1-the-pearl-tradition-structural-causal-models-scms--dags"><a class="header" href="#1-the-pearl-tradition-structural-causal-models-scms--dags">1. The Pearl Tradition: Structural Causal Models (SCMs) &amp; DAGs</a></h2>
+<p>Judea Pearl approached causality from computer science and AI, formalizing it through <strong>Directed Acyclic Graphs (DAGs)</strong> and <strong>Structural Causal Models (SCMs)</strong>.</p>
+<ul>
+<li><strong>Core Mechanism:</strong> You map out the data-generating process as a graph of nodes (variables) and directed arrows (causal mechanisms).</li>
+<li><strong>The $\text{do}$-Operator:</strong> Pearl introduced $\text{do}(X = x)$ to distinguish between passively <em>observing</em> a variable ($P(Y \mid X = x)$) and actively <em>intervening</em> to force a variable to take a value ($P(Y \mid \text{do}(X = x))$). Graphically, $\text{do}(X)$ performs "graph surgery"—deleting all incoming arrows into $X$ because you forced its value rather than letting its normal causes determine it.</li>
+<li><strong>Identification Criteria:</strong> Pearl provides graphical rules—most notably the <strong>Back-Door Criterion</strong> and <strong>Front-Door Criterion</strong>—to determine which variables you must control for (adjust for) in observational data to isolate a true causal effect from confounding noise.</li>
+</ul>
+<hr />
+<h2 id="2-the-rubin-tradition-potential-outcomes"><a class="header" href="#2-the-rubin-tradition-potential-outcomes">2. The Rubin Tradition: Potential Outcomes</a></h2>
+<p>Donald Rubin (building on earlier work by Jerzy Neyman) formalized causality from statistics through the <strong>Rubin Causal Model (RCM)</strong>, also known as the <strong>Potential Outcomes Framework</strong>.</p>
+<ul>
+<li><strong>Core Mechanism:</strong> Every unit (e.g., an agent run) has multiple potential outcomes: $Y(1)$ if it receives a treatment (e.g., a specific tool output) and $Y(0)$ if it receives a control (e.g., a different tool output).</li>
+<li><strong>The Fundamental Problem of Causal Inference:</strong> For any single run, you can only ever observe <em>one</em> potential outcome—the path actually taken. The other path is an unobserved <strong>counterfactual</strong>.</li>
+<li><strong>Identification Assumptions:</strong> Because you cannot observe both outcomes for a single run, Rubin's framework relies on statistical assumptions across populations of runs:
+<ul>
+<li><strong>Ignorability (Unconfoundedness):</strong> Treatment assignment is independent of potential outcomes given observed covariates.</li>
+<li><strong>Positivity:</strong> Every state has a non-zero probability of receiving either treatment.</li>
+<li><strong>SUTVA (Stable Unit Treatment Value Assumption):</strong> No interference between runs and no hidden variations of treatments.</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h2 id="3-how-they-compare-and-converge"><a class="header" href="#3-how-they-compare-and-converge">3. How They Compare (and Converge)</a></h2>
+<p>Although Pearl and Rubin historically debated which formalism was more fundamental, modern causal inference treats them as <strong>mathematically equivalent</strong>—two languages describing the same underlying reality, but BOTH deserve credit and BOTH have their disciples:</p>
+<div class="table-wrapper"><table><thead><tr><th style="text-align: left">Dimension</th><th style="text-align: left">Judea Pearl (Graphical / SCM)</th><th style="text-align: left">Donald Rubin (Potential Outcomes)</th></tr></thead><tbody>
+<tr><td style="text-align: left"><strong>Primary Language</strong></td><td style="text-align: left">Causal DAGs, structural equations, $\text{do}$-calculus.</td><td style="text-align: left">Counterfactual random variables: $Y_i(1), Y_i(0)$.</td></tr>
+<tr><td style="text-align: left"><strong>Strength</strong></td><td style="text-align: left">Makes complex structural assumptions (mediators, colliders, confounders) visually transparent.</td><td style="text-align: left">Connects directly to experimental design (A/B tests, randomized trials) and statistical estimators.</td></tr>
+<tr><td style="text-align: left"><strong>Role in Agent Traces</strong></td><td style="text-align: left">Maps directly onto provenance graphs (where observed edges give partial graph structure).</td><td style="text-align: left">Frames the exact counterfactual question: <em>"What would the agent's final answer be if Tool X had returned $v'$ instead of $v$?"</em></td></tr>
+</tbody></table>
+</div>
+<hr />
+<h2 id="4-why-this-matters-for-causal-engineering-in-ai"><a class="header" href="#4-why-this-matters-for-causal-engineering-in-ai">4. Why This Matters for Causal Engineering [in AI]</a></h2>
+<p>Standard observability and provenance tools (such as <a href="https://flowcept.readthedocs.io/">Flowcept</a> or <a href="https://arxiv.org/abs/2508.02866">PROV-AGENT</a>) record <strong>dependency</strong>—they tell you <em>what</em> inputs flowed into <em>what</em> outputs. However, a trace alone cannot tell you:</p>
+<ol>
+<li><strong>Confounding:</strong> Did a bad tool output cause the agent to fail, or did a confusing user prompt cause <em>both</em> a bad tool query and a bad final answer?</li>
+<li><strong>Counterfactual Sensitivity:</strong> If you intervened and swapped out a retrieved document mid-run, would the LLM actually change its final response, or would its parametric weights ignore the context?</li>
+</ol>
+<p>This means that applying the Pearl/Rubin tradition <em><strong>forces</strong></em> one to <strong>explicitly separate</strong> what the trace <em>proves happened</em> from the untestable statistical assumptions required to claim <em><strong>WHY</strong></em> <em>it happened</em>.</p>
+<hr />
+<p>A student working through this course should be able to leave able to answer two distinct questions and to keep them apart, distinct: <em>What happened in this run, and what evidence supports that reconstruction?</em> and <em>What causal claims about this behaviour are actually warranted by the data I have?</em></p>
 <p>The course is deliberately uncomfortable with its own tools. Weeks 5, 10, 11 and 15 are devoted to the places where provenance is silent, where identification fails, and where a confident answer would be a lie. Reporting "unidentified" with precision is a passing grade, not a failure.</p>
 <h2 id="learning-objectives"><a class="header" href="#learning-objectives">Learning objectives</a></h2>
 <p>By the end of the course you will be able to:</p>
