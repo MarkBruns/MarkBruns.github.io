@@ -1,6 +1,6 @@
 # [2026-11-26](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-26.md) ... the Causal.Engineering podcast/audiobook project
 
-This deliverable for the CAUSAL.ENGINEERING project [***as opposed to the MZB.me PKM Building A Second Brain mdBook project***] is something similar, but more like a project learning mdBook agentic notebook **FOR ME** ... for my entertainment and enjoyment, because I enjoy thinking about causal inference@SCALE ... CAUSAL.ENGINEERING is strictly for ME ... *and for anybody who cares to listen or fork the project*.
+This deliverable for the CAUSAL.ENGINEERING project [***as opposed to the MZB.me PKM Building A Second Brain mdBook project***] is something similar ... this is more like a project learning mdBook agentic notebook **FOR ME** ... for my entertainment and enjoyment, because I enjoy thinking about causal inference@SCALE ... CAUSAL.ENGINEERING is strictly for ME ... *and for anybody who cares to listen or fork the project*.
 
 The CE project learning notebook involves taking notes/observations/annotations from different sources [in the realm of causal engineering] ... see [my last entry](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-23.md) on **Provenance and Causal Engineering for Agentic Systems**.
 
