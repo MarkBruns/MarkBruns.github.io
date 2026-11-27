@@ -1,6 +1,8 @@
-The newest ***news*** in raw, unedited form is in the [**Journal of the PROCESS, of BUILDING**](Journal.md) this little [repository or agentic mdBook monorepo of skill *.md files](https://github.com/MarkBruns/MarkBruns.github.io) ... *check the Journal first, if you are revisiting -- otherwise, look at the repository or maybe fork/clone it.*
+*Returning visitors will want to START with [**Journal of the PROCESS**](Journal.md) ... the Journal is about BUILDING this little [repository or agentic mdBook monorepo of skill *.md files](https://github.com/MarkBruns/MarkBruns.github.io)* ... so ***check the Journal first, if you are revisiting*** -- *otherwise, have your AI agent look over the entire repository and then maybe fork/clone it and use the parts that you want to use.*
 
 --- 
+
+---
 
 # PREAMBLE to MZB.me.
 

@@ -1,5 +1,7 @@
 # Summary
 
+- [Process JOURNAL](Journal.md)
+
 - [Gratitude Lifestyle](Manifesto.md)
 
 - [PKM Methodology](nested/Roadmap.md)
@@ -16,4 +18,3 @@
     - [Resources](./3.Resources/Template.md)
     - [Archives](./4.Archives/Template.md)
   
-- [Process Diary](Journal.md)

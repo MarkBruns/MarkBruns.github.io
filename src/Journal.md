@@ -1,3 +1,920 @@
+# [2026-11-26](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-26.md) ... the Causal.Engineering podcast/audiobook project
+
+This deliverable for the CAUSAL.ENGINEERING project [***as opposed to the MZB.me PKM Building A Second Brain mdBook project***] is something similar, but more like a project learning mdBook agentic notebook **FOR ME** ... for my entertainment and enjoyment, because I enjoy thinking about causal inference@SCALE ... CAUSAL.ENGINEERING is strictly for ME ... *and for anybody who cares to listen or fork the project*.
+
+The CE project learning notebook involves taking notes/observations/annotations from different sources [in the realm of causal engineering] ... see [my last entry](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-23.md) on **Provenance and Causal Engineering for Agentic Systems**.
+
+I would expect that material typically involves things like arXiv pre-prints or alphaXiv discussions or HuggingFace open weight model repositories and **producing something for me to listen to, several times, over and over** ... frankly, I will kind of *follow my nose* or let the developments in this branch of statistical thinking or inference content, as new material emerges, suggest where the study of causal engineering is going ... the notebook is for personal study -- it's NOT supposed to be anything like an authoritative reference on the material.
+
+The point is to produce a final digest in somewhat edited, refined audio form -- listenable FOR ME, but not something professionally mastered for discerning ears ... it will feature audio snippets from my [elevenlabs.io Pro subscription (600K credits per month)](https://elevenlabs.io/app/subscription/creative) and [suno.com Premier subscription (10,000 song credits per month)](https://suno.com/account?source=saleBanner) and [NotebookLM](https://notebook.google.com/) deepdives AND my own raw voice recordings stitched together with REAPER.fm or some other audio DAW (probably using elevenlabs and suno tools first).
+
+I started by putting together a list of 25 tactical practices for something like Causal.Engineering mixtape. This is a tactical list, not a strategy. Each item below is four sentences, aimed at the two constraints that actually bind: **credits are for iteration, not volume**, and **your editing hours are the scarce resource, not the audio**.
+
+The starting or assumed setup is something like: ElevenLabs Pro (600k credits/month), Suno Premier (10k/month), NotebookLM, REAPER, my own voice [recorded with my smartphone], one or two or five poems per week, two mixes (drift for sleep, walk for walking). At roughly 900 spoken characters per minute, a 20-minute tape is about 18k credits ...
+
+The monthly subscription allowance covers roughly 30 of them at one credit per character, so the really budget for credits is not exactly likely to be the problem ... the issues is really my time -- but I need to make sure that I am not squandering my time, optimizing because of a stingy credit balance.
+
+The items in this list of tactical best practices are ordered by leverage ... within five groups: credits and time (1–5), the poem (6–10), the sound (11–17), the ritual (18–19), and capture and durability (20–25).
+
+---
+
+## Credits and time
+
+### 1. Batch by the week, not the night
+
+Write one poem a week and render it six times, rather than writing a new one every night. Incubation research suggests stepping away lets weak associations surface, and a week gives the material time to [incubate](https://en.wikipedia.org/wiki/Incubation_(psychology)). Six nightly plays of the same text also convert repetition into a retrieval cue instead of a stream of novelty. If you find yourself wanting a new poem daily, you are consuming content rather than conditioning a state.
+
+*Credits: low · Time: ~90 min/week · Fails when: the poem is a summary.*
+
+### 2. Take per stanza, not per episode
+
+Generate two takes of each three- or four-line stanza and keep the better one. Selection beats tuning, because TTS prosody varies more between takes than between sliders, so best-of-two at stanza level buys more quality per credit than re-rendering a whole file. It also makes a single bad line cheap to replace at 2 a.m. without re-cutting the tape. At ~18k credits per 20-minute tape, best-of-two costs 36k and still leaves you twenty-odd tapes a month ([ElevenLabs docs](https://elevenlabs.io/docs)).
+
+*Credits: 2× · Time: +20 min · Fails when: you audition eight takes.*
+
+### 3. Three beds per quarter, instrumental only
+
+Generate three instrumental beds and reuse them for three months. Consistency lets the ear learn "this is the sleep tape" the way a [state-dependent cue](https://en.wikipedia.org/wiki/State-dependent_memory) does, and it removes one decision from every episode. Prompt Suno for no vocals, no solos and no build — "sparse late-night jazz trio, brushed drums, upright bass, 60 BPM, loopable" is a workable seed ([Suno help](https://help.suno.com/)). Three beds a quarter costs a small fraction of 10,000 monthly credits, so spend the remainder on nothing.
+
+*Credits: ~150/quarter · Time: 1 h/quarter · Fails when: the bed has a memorable melody.*
+
+### 4. Freeze a voice bible
+
+Fix two voices — one narrator, one questioner — and write their model, stability, similarity and speed settings into a file. Changing voice settings mid-project is the audio equivalent of changing your handwriting every page, and it dismantles the [priming](https://en.wikipedia.org/wiki/Priming_(psychology)) that familiarity provides. A frozen voice bible also makes a month-four re-render indistinguishable from the original, which is what lets you swap one stanza without re-cutting the tape. Three settings per voice is enough; more knobs is procrastination.
+
+*Credits: 0 · Time: 20 min once · Fails when: you "improve" it weekly.*
+
+### 5. Cap the session at ninety minutes
+
+Declare the poem finished at ninety minutes, whatever state it is in. Audio editing is unbounded, and the [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) applies brutally: the last ten per cent of polish is inaudible at sleep volume. The cap also keeps the project in the band where it is enjoyable, which is the only reason a personal project survives month three. Use a timer rather than a feeling, because feelings about audio are unreliable after minute sixty.
+
+*Credits: 0 · Time: 90 min · Fails when: you mix before writing.*
+
+---
+
+## The poem
+
+### 6. Four to six anchors, each traced to a claim
+
+Give each poem a budget of four to six technical terms, and treat it as a hard limit. [Cognitive load](https://en.wikipedia.org/wiki/Cognitive_load) is why a poem with fourteen terms teaches nothing and reminds you of nothing. Every anchor must trace to a line in your claims ledger, so the poem cannot drift into vocabulary you could not defend. If you cannot point to the claim, cut the term; the poem survives and the authority does not.
+
+*Time: 10 min · Fails when: you keep "just one more".*
+
+### 7. The refrain is the question
+
+Build the repeated line as a question you cannot answer, not a conclusion you have reached. Unresolved questions sustain [incubation](https://en.wikipedia.org/wiki/Incubation_(psychology)) and give the 2 a.m. mind something productive to worry at. Conclusions close the loop and end the tape's usefulness after one listen. Keep the wording identical across nights, because the same words are the retrieval key the refrain exists for.
+
+*Time: 15 min · Fails when: the question has an obvious answer.*
+
+### 8. One contradiction per paper
+
+Read each paper for the place where it disagrees with the field, or with itself, and write that down before anything else. A poem needs tension, and a summary has none — which is why summaries produce boring tapes. Store the tension as a `contested` claim with both sources, so you can hear which side persuaded you last month; a [paradigm shift](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions) is the general shape. If a paper offers no live contradiction, it is background reading, not material.
+
+*Time: 20 min/paper · Fails when: you read for agreement.*
+
+### 9. Rotate the angle, not the topic
+
+Keep one subject for three nights and change only the angle: mechanism, then evidence, then your own resistance to it. This is [elaborative encoding](https://en.wikipedia.org/wiki/Elaborative_encoding) without novelty overload, and it gives repetition a purpose beyond exposure. The topic stays stable, so the ritual stays stable. By the third night the poem should feel like a place you have been rather than a text you have heard.
+
+*Time: 3 × 10 min · Fails when: the angle becomes a second topic.*
+
+### 10. Use a form that cannot conclude
+
+Choose a repeating form — [villanelle](https://en.wikipedia.org/wiki/Villanelle), [ghazal](https://en.wikipedia.org/wiki/Ghazal), or a plain two-refrain loop — and let the form do the circling. Fixed forms are easier to memorize and harder to finish, which is the ratio you want. They also make re-rendering trivial, since each stanza is a self-contained unit of known shape. Free verse is fine for the walk mix; the sleep mix wants architecture.
+
+*Time: 0 (it saves time) · Fails when: the form becomes a puzzle.*
+
+---
+
+## The sound
+
+### 11. The same first thirty seconds, forever
+
+Record a thirty-second opening once and reuse it every night: breath, settle, the night's subject, silence. Conditioning runs on an invariant cue, and a [fixed ritual](https://en.wikipedia.org/wiki/Classical_conditioning) is cheaper and more reliable than any intention formed at 22:00. The same frame also prevents the failure where every episode starts differently and your body never learns what is coming. Re-record only if your voice changes; otherwise treat it as infrastructure.
+
+*Credits: 300 once · Time: 10 min once · Fails when: you rewrite the ritual to "keep it fresh".*
+
+### 12. Drift mix: mono, 9 kHz, −20 LUFS
+
+Render the sleep version in mono with a gentle low-pass around 9 kHz and an integrated loudness near −20 LUFS. Mono survives one earbud on a pillow, and the low-pass removes the sibilance that makes quiet listening tiring. Quiet playback also loses bass, so the mix needs midrange presence rather than more low end, which is [equal-loudness](https://en.wikipedia.org/wiki/Equal-loudness_contour) in practice. Normalize with two-pass [`loudnorm`](https://ffmpeg.org/ffmpeg-filters.html#loudnorm), never by ear, because your ear adapts within minutes.
+
+*Time: 5 min/render · Fails when: you master it loud "for the walk".*
+
+### 13. Walk mix: full band, −16 LUFS, chaptered
+
+Render the walk version separately at about −16 LUFS, full spectrum, with [chapter markers](https://ffmpeg.org/ffmpeg-formats.html#Metadata) every two or three minutes. Walking is a different listening state, so the mix can carry more detail without keeping you awake. Markers matter here and nowhere else, because they let you jump to the stanza you want to argue with. Two renders, one REAPER session, one [render matrix](https://www.reaper.fm/userguide.php) — never duplicate the editing.
+
+*Time: +15 min/render · Fails when: you edit the walk mix by hand.*
+
+### 14. Bed as weather, not as music
+
+Run the Suno stems through tape saturation, slow pitch drift and a long reverb until they stop being a tune. Melody invites attention, and attention is the enemy of [sleep onset](https://en.wikipedia.org/wiki/Sleep_onset). You want the bed noticed only when it stops, which is [ambient music](https://en.wikipedia.org/wiki/Ambient_music)'s job rather than jazz's. Keep one recognizable chord change every eight bars so the ear has somewhere to rest without following a hook.
+
+*Time: 20 min once per bed · Fails when: you leave the trumpet solo in.*
+
+### 15. No new information after minute thirty
+
+Put the terms in the first half and repeat only refrains after minute thirty. Sleep consolidates what was already encoded, so material first met in the last third is unlikely to [survive the night](https://en.wikipedia.org/wiki/Sleep_and_memory). Repetition after the halfway mark is not wasted; it is the [targeted reactivation](https://en.wikipedia.org/wiki/Targeted_memory_reactivation) part of the design. If you would be upset to forget it, it belongs before the halfway point.
+
+*Time: 0 · Fails when: you save the good line for the end.*
+
+### 16. Fade, never stop
+
+End every drift mix with sixty to ninety seconds of decay into silence, never a hard cut or an outro. A sudden stop produces a startle response that can undo twenty minutes of downshift. The [fade](https://en.wikipedia.org/wiki/Fade_(audio_engineering)) also makes looping harmless if your player ignores the sleep timer. No goodnight, no sign-off, no credits: the tape should end the way a room gets dark.
+
+*Time: 2 min · Fails when: you add a "see you tomorrow".*
+
+### 17. Two voices, one of which never answers
+
+Limit the drift mix to your voice and one TTS questioner, and give the questioner no answers. A second voice that agrees with you turns the tape into a conversation, and conversations keep people awake. One question per stanza is enough to occupy the analytical mind without handing it a task. Write the questions before the poem; the poem is then the answer to something you never asked aloud.
+
+*Time: 15 min · Fails when: the questioner explains.*
+
+---
+
+## The ritual
+
+### 18. Timer, no autoplay
+
+Set a forty-five-minute timer and disable autoplay before you lie down. A player that runs into the next episode at 3 a.m. will eventually train you to wake for content. The timer also bounds exposure, which matters for hearing over years rather than weeks ([WHO safe listening](https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-safe-listening)). If you regularly wake when the tape ends, shorten the tape rather than raising the volume.
+
+*Time: 0 · Fails when: you "just finish this one".*
+
+### 19. Three lines before coffee
+
+Keep a notebook by the bed and write three lines before checking anything: an image, a half-answer, a name. The value is in the [retrieval attempt](https://en.wikipedia.org/wiki/Testing_effect), not in the quality of the note. Do it before coffee, because the first half hour after waking is the cheapest access you will ever have to the [hypnagogic](https://en.wikipedia.org/wiki/Hypnagogia) state. One line a day compounds into next week's raw material.
+
+*Time: 5 min · Fails when: you check your phone first.*
+
+---
+
+## Capture and durability
+
+### 20. Transcribe voice notes locally
+
+Transcribe walk voice notes locally with [whisper.cpp](https://github.com/ggml-org/whisper.cpp) instead of a cloud service. Local transcription keeps unfinished thinking off other people's servers and makes the notes searchable beside your corpus. A fifteen-minute walk yields roughly 800–1,500 words, more raw material than you will use. Name files by date and subject, never by mood.
+
+*Time: 10 min/walk · Fails when: you transcribe instead of thinking.*
+
+### 21. Version every render, never overwrite
+
+Name every render `YYYY-MM-DD_poem-vN_mix.wav` and never overwrite one. The diff between v1 and v4 is your real learning record — what you thought was good then and what you changed. It also makes A/B listening honest, because you cannot unconsciously "fix" the old file. [Version-control](https://en.wikipedia.org/wiki/Version_control) thinking applies to audio even when the tool is a filesystem.
+
+*Time: 0 · Fails when: "final_final_v2.wav" appears.*
+
+### 22. NotebookLM on published sources only
+
+If you use NotebookLM deep dives, feed it published papers and public model cards, never your own notes or memos. That is a data-egress decision as much as a quality one, and it is the difference between using a tool and being its training data. Use the deep dive to find the disagreement, then rewrite it as a poem yourself, because two-host audio is structurally uneditable ([NotebookLM help](https://support.google.com/notebooklm)). NotebookLM is research assistance, never a master.
+
+*Credits: 0 · Time: 30 min/paper · Fails when: you upload the notebook.*
+
+### 23. Back up scripts, settings and renders
+
+Put scripts, the voice bible, stems and finished renders under [restic](https://restic.readthedocs.io/) with a monthly prune. Audio projects die from a dead drive or a lost settings file, and both are cheap to prevent. Restore one file every month instead of trusting the repository's existence. If the poems live in git and the audio lives in restic, the project can be rebuilt on a new machine in an afternoon.
+
+*Time: 15 min/month · Fails when: the backup has never been restored.*
+
+### 24. Volume: sixty per cent, sixty minutes
+
+Cap playback near sixty per cent of maximum for no more than sixty minutes at a stretch, and prefer a speaker or [bone conduction](https://en.wikipedia.org/wiki/Bone_conduction) at low level. Hearing damage from earbuds is cumulative and silent, and sleep listening is the worst case because fatigue goes unnoticed. Bone conduction also leaves the ear canal open, which matters if you want to hear a smoke alarm. This is the one tactic where "it feels fine" is not evidence.
+
+*Time: 0 · Fails when: you raise the volume to hear a quiet mix instead of fixing the mix.*
+
+### 25. Build the 3 a.m. tape
+
+Cut a twelve-minute "greatest refrains" tape from the quarter's episodes and keep it by the bed. Waking at 3 a.m. is the highest-yield cue moment, and a full episode is too much to start then. It doubles as a quality test: if those twelve minutes still work on the tenth listen, the material is real. Refresh it quarterly, and retire any poem whose refrains have gone stale.
+
+*Time: 30 min/quarter · Fails when: it grows into a second podcast.*
+
+---
+
+## How to use this list
+
+1. **Cut first, adopt second.** If you did nothing but items 1, 7, 12 and 15, you would have a working tape. Everything else is refinement.
+2. **One change per week, maximum.** Changing three things at once makes it impossible to know which one made the tape better, and this is a project about learning to notice.
+3. **Keep the tags.** The "fails when" column is the useful part on a re-read in month three, when you will have started doing all of them.
+
+## What I would revise first, if this were mine
+
+- Item 2 is the one with the weakest cost-benefit for a 20-minute tape; per-stanza takes matter more for long-form narration than for a poem with a fixed refrain.
+- Item 3 assumes Suno's jazz output is unobtrusive enough to loop for months; if it is not, the fix is fewer elements, not more prompting.
+- Item 22 is a values judgement, not a technical one; if NotebookLM is genuinely useful for finding contradictions, the honest move is to use it on public sources and say so in the file metadata.
+
+---
+
+# Syllabus: 15 weeks of reading for the tape
+
+**23 Nov 2026 – 6 Mar 2027 · one theme, one contradiction, one poem, one tape per week**
+
+This is the project-level syllabus: the reading spine that feeds `Causal.Engineering`. It is not the formal course in `../causal-engineering-course/SYLLABUS.md` — that one teaches identification and instrumentation with labs and rubrics. This one has a single output: **material worth compressing into a poem, and a tape worth re-listening to.**
+
+Workload: about 3.5 hours a week — 90 minutes reading, 60 minutes writing, 60 minutes rendering. If a week costs more than five hours, the week is wrong, not you.
+
+---
+
+## What each week must produce
+
+| Artefact | Minimum |
+|---|---|
+| Claims | 6, each with a primary source, a hash and a date |
+| Contradiction | 1, stated in both directions, and parked or promoted |
+| Poem | 12–18 lines, 4–6 anchors, refrain phrased as a question |
+| Tape | drift mix (and the walk mix if the week allowed) |
+| Ledger row | 1 new assumption, with its testability |
+
+A week without a contradiction is a week of reading, not a week of the project. Skip the tape; keep the reading; move on. Do not manufacture tension to satisfy the template — that is how the notebook fills with noise.
+
+## How a week runs
+
+Mon triage (sources → candidate claims) · Tue contradiction hunt · Wed poem draft · Thu render · Fri listen and annotate · Sat synthesis and journal. Detail and dates: `DAILY-PLAN.md`.
+
+The one structural rule: **reading happens before writing, and writing happens before rendering.** A poem written after the render is a caption, and a caption is not a compression.
+
+---
+
+## Weeks 1–5 — Provenance: what a trace can and cannot carry
+
+### Week 1 · 23–28 Nov · Traces are not enough
+
+**Read.** PROV-AGENT §1–2 (<https://arxiv.org/abs/2508.02866>); survey §1 (<https://arxiv.org/abs/2606.04990>).
+
+**Contradiction to hunt.** "Provenance makes agents accountable" versus "provenance records only what the schema anticipated".
+
+**Poem brief.** Anchors: *trace, dependency, counterfactual*. Refrain question: "what would have happened otherwise".
+
+**Tape.** 15 minutes, drift only. First tape of the project: expect it to be bad, and keep it as the baseline.
+
+**Exit.** You can say, in one sentence, what the trace does not tell you.
+
+### Week 2 · 30 Nov–5 Dec · The arrow is not the cause
+
+**Read.** W3C PROV Primer (<https://www.w3.org/TR/prov-primer/>); PROV-AGENT §3 (<https://arxiv.org/abs/2508.02866>).
+
+**Contradiction to hunt.** `wasInformedBy` as an accountability mechanism versus as a causal claim in disguise.
+
+**Poem brief.** Anchors: *entity, activity, informed-by, inference*. Refrain: "the arrow points both ways".
+
+**Tape.** 15 minutes, drift. Introduce the analyst voice: one question per verse, never answered.
+
+**Exit.** Every edge in your own diagram is labelled observed or inferred.
+
+### Week 3 · 7–12 Dec · Capture forecloses questions
+
+**Read.** Flowcept documentation (<https://flowcept.readthedocs.io/>); OpenTelemetry GenAI conventions (<https://opentelemetry.io/docs/specs/semconv/gen-ai/>).
+
+**Contradiction to hunt.** More telemetry versus less legibility: the schema that makes you accountable also decides what you can never ask.
+
+**Poem brief.** Anchors: *schema, record, omission*. Refrain: "what did the schema not ask".
+
+**Tape.** 18 minutes. First walk mix: does the poem survive daylight?
+
+**Exit.** Three questions your trace cannot answer, written down.
+
+### Week 4 · 14–19 Dec · Reconstruction is not explanation
+
+**Read.** Flowcept query/analysis docs (<https://flowcept.readthedocs.io/>); survey §3 (<https://arxiv.org/abs/2606.04990>).
+
+**Contradiction to hunt.** "Root cause found" versus "first anomaly located".
+
+**Poem brief.** Anchors: *ancestor, descendant, first failure*. Refrain: "where did it start, and does that matter".
+
+**Tape.** 20 minutes. Add the 30-second fixed ritual if not already present — from here on it never changes.
+
+**Exit.** Your query set finds a chain; your prose admits it is not an explanation.
+
+### Week 5 · 21–26 Dec · The evidence gap
+
+**Read.** Survey §§5–6 (<https://arxiv.org/abs/2606.04990>); PROV-AGENT §7 (<https://arxiv.org/abs/2508.02866>).
+
+**Contradiction to hunt.** Accountability versus unfalsifiability: a trace can prove what ran, never why a claim was accepted.
+
+**Poem brief.** Anchors: *semantic taint, invalidation, responsibility*. Refrain: "who accepted this, and on what".
+
+**Tape.** 20 minutes. Holiday week: no new music, reuse bed 1.
+
+**Exit.** The audit checklist exists and has been run on your own week-1 trace.
+
+---
+
+## Weeks 6–10 — Identification: what a trace cannot licence
+
+### Week 6 · 28 Dec–2 Jan · Partially known graphs
+
+**Read.** *A Crash Course in Good and Bad Controls* (<https://arxiv.org/abs/2103.06108>); Pearl/Glymour/Jewell companion (<http://bayes.cs.ucla.edu/PRIMER/>).
+
+**Contradiction to hunt.** "The provenance graph is the DAG" versus "the DAG is a set of assumptions including ones you cannot observe".
+
+**Poem brief.** Anchors: *chain, fork, collider*. Refrain: "what did you condition on".
+
+**Tape.** 20 minutes. The analyst asks only collider questions.
+
+**Exit.** One DAG with observed edges coloured differently from assumed edges.
+
+### Week 7 · 4–9 Jan · Adjustment
+
+**Read.** *Causal Inference: What If*, Part I (<https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/>); dagitty (<https://www.dagitty.net/>).
+
+**Contradiction to hunt.** The adjustment set is defensible on the graph versus indefensible in the agent, where prompt context is unmeasured.
+
+**Poem brief.** Anchors: *back-door, adjustment, unmeasured*. Refrain: "what is still open".
+
+**Tape.** 22 minutes. No new information after 11:00 this week — test the rule.
+
+**Exit.** An adjustment set, plus the sentence naming its unmeasured confounder.
+
+### Week 8 · 11–16 Jan · Counterfactuals about runs
+
+**Read.** *What If*, counterfactual chapters; DoWhy (<https://www.pywhy.org/dowhy/>).
+
+**Contradiction to hunt.** "What if the tool had returned v′" versus "the model would have responded differently for reasons the trace cannot show".
+
+**Poem brief.** Anchors: *abduction, action, prediction*. Refrain: "in the world where it went otherwise".
+
+**Tape.** 22 minutes. Record the refrain in your own voice; TTS for the verses only.
+
+**Exit.** One counterfactual question with its assumptions split into testable and untestable.
+
+### Week 9 · 18–23 Jan · Bounds
+
+**Read.** causaloptim (<https://cran.r-project.org/web/packages/causaloptim/>); *What If*, identification framing.
+
+**Contradiction to hunt.** A point estimate is more useful versus a bound is more true.
+
+**Poem brief.** Anchors: *bounds, width, monotonicity*. Refrain: "how much can the data not rule out".
+
+**Tape.** 22 minutes. The tape may state numbers; it may not round them into confidence.
+
+**Exit.** Bounds computed and reported, with the naive estimate beside them.
+
+### Week 10 · 25–30 Jan · The causal audit
+
+**Read.** PROV-AGENT, full (<https://arxiv.org/abs/2508.02866>); survey, conclusion (<https://arxiv.org/abs/2606.04990>).
+
+**Contradiction to hunt.** The paper's causal language versus the evidence it presents.
+
+**Poem brief.** Anchors: *audit, licence, overclaim*. Refrain: "what does this evidence permit".
+
+**Tape.** 25 minutes. This is the tape to send to someone who disagrees with you.
+
+**Exit.** One page of instances, with section references.
+
+---
+
+## Weeks 11–15 — Automation, attribution, synthesis
+
+### Week 11 · 1–6 Feb · Memory, attribution, responsibility
+
+**Read.** Survey, memory and multi-agent sections; PROV-AGENT, agent relations.
+
+**Contradiction to hunt.** Responsibility as a lookup ("agent B produced it") versus as a counterfactual ("without B, would the outcome differ").
+
+**Poem brief.** Anchors: *memory, poison, attribution*. Refrain: "who would have stopped it".
+
+**Tape.** 25 minutes. Two voices, maximum; the questioner is now the accused.
+
+**Exit.** One attribution claim, and the sentence that shows it is causal.
+
+### Week 12 · 8–13 Feb · Designing a study
+
+**Read.** *What If*, target-trial framing; *Crash Course*, second pass.
+
+**Contradiction to hunt.** Estimand-first versus data-first: agents make data collection cheap, which makes data-first tempting and fatal.
+
+**Poem brief.** Anchors: *estimand, intervention, sensitivity*. Refrain: "what would have to be true".
+
+**Tape.** 25 minutes. Walk mix is now the primary artefact; drift is derived.
+
+**Exit.** A two-page design with an identification strategy you can defend aloud.
+
+### Week 13 · 15–20 Feb · Instrumentation clinic
+
+**Read.** Flowcept adapters (<https://flowcept.readthedocs.io/>); OTel GenAI (<https://opentelemetry.io/docs/specs/semconv/gen-ai/>).
+
+**Contradiction to hunt.** Completeness versus cost: every extra field is a maintenance liability.
+
+**Poem brief.** Anchors: *linkage, buffer, blob*. Refrain: "what did we fail to record".
+
+**Tape.** 25 minutes. Re-render an earlier poem with this week's understanding; compare versions.
+
+**Exit.** The completeness checklist has been run and its gaps filed.
+
+### Week 14 · 22–27 Feb · Analysis clinic
+
+**Read.** dagitty examples (<https://www.dagitty.net/>); DoWhy refutation (<https://www.pywhy.org/dowhy/>).
+
+**Contradiction to hunt.** "The estimate is robust" versus "the refutation tests were chosen by the same person who chose the estimate".
+
+**Poem brief.** Anchors: *placebo, subset, robustness*. Refrain: "what would break this".
+
+**Tape.** 25 minutes. Strip the bed to a single drone; test whether the poem carries alone.
+
+**Exit.** Someone else's three questions answered in writing.
+
+### Week 15 · 1–6 Mar · Synthesis
+
+**Read.** Nothing new. Re-read your week-1 notes and mark what you would retract.
+
+**Contradiction to hunt.** When reconstruction suffices versus when identification is required — the decision tree, drawn from your own tapes.
+
+**Poem brief.** One poem assembled from the refrains of weeks 1–14.
+
+**Tape.** 30 minutes: the quarter's synthesis, drift and walk.
+
+**Exit.** The decision tree exists in one page, and the 25 questions in Appendix C have written answers.
+
+---
+
+## Self-assessment (weekly, Saturday, five minutes)
+
+1. Six claims, each traceable to a primary source hash.
+2. One contradiction, stated both ways, not smoothed.
+3. Four to six anchors, each traceable to a claim id.
+4. A refrain that is still a question at the end of the week.
+5. One ledger row with a testability verdict.
+
+Four of five is a pass. Five of five for three weeks in a row means the bar is too low.
+
+## Materials and fallbacks
+
+- Reading: arXiv, alphaXiv (<https://www.alphaxiv.org/>), HF model cards (<https://huggingface.co/models>), W3C specs, the two textbooks. Text only.
+- Rendering: ElevenLabs, three Suno beds per quarter, REAPER, `ffmpeg loudnorm`, `whisper.cpp` for notes.
+- Fallback: if a paper is paywalled or withdrawn, substitute its nearest open preprint and record the substitution in the journal — substitutions are data about the field.
+
+## What this syllabus deliberately excludes
+
+Benchmarks as evidence, vendor announcements as sources, and any week whose only output would be a summary. If a reading week cannot generate a contradiction, it becomes a walk note and the tape is skipped. The project's value is in the compression, and compression of nothing is nothing.
+
+---
+
+# Daily plan: the six-day rhythm
+
+**15 weeks · Mon–Sat · one theme per week · 90 micro-tasks and 30 build tasks**
+
+Two modes, because the project has two kinds of work:
+
+- **M — micro (≤25 min).** Fits the 09:30 study hour. Reading, deciding, annotating.
+- **B — build (60–90 min).** Needs the 12:30–14:30 or 15:30–17:30 block. Rendering, assembling, listening properly.
+
+Per week: 4 M + 2 B ≈ 3.5 h. If a week collapses, drop the walk mix and keep the drift mix: the drift mix is the artefact, the walk mix is the bonus.
+
+Weekly theme detail and readings: `SYLLABUS.md`.
+
+---
+
+## Week 1 · 23–28 Nov · Traces are not enough
+
+| Day | Mode | Target | Output |
+|---|---|---|---|
+| Mon | M | Triage PROV-AGENT §1–2 and survey §1; capture both to the corpus | 3 candidate claims with hashes |
+| Tue | M | Contradiction: accountability versus what the schema anticipated | Contradiction id, both sides dated |
+| Wed | M | Poem: *trace, dependency, counterfactual*; refrain "what would have happened otherwise" | Draft v1, 12–18 lines |
+| Thu | B | Two TTS voices, two takes each; pick the narrator and freeze it | Voice bible v1 + 3-minute test render |
+| Fri | M | Listen once at low volume; note where you explain instead of ask | 3 lines the next morning |
+| Sat | M | Journal entry, one assumption row, keep the bad baseline tape | `journal/` entry + `ASSUMPTIONS.md` row |
+
+## Week 2 · 30 Nov–5 Dec · The arrow is not the cause
+
+| Day | Mode | Target | Output |
+|---|---|---|---|
+| Mon | M | Triage PROV Primer and PROV-AGENT §3 | 3 claims on entities and relations |
+| Tue | M | Contradiction: `wasInformedBy` as accountability versus as causation | Both readings, one sentence each |
+| Wed | M | Poem: *entity, activity, informed-by, inference*; refrain "the arrow points both ways" | Draft v2 |
+| Thu | B | Add the analyst voice: one question per verse, no answers | 15-minute drift mix |
+| Fri | M | Listen for whether the analyst sounds like you arguing with yourself | 3 lines |
+| Sat | M | Label every edge in your own diagram observed or inferred | Diagram + ledger row |
+
+## Week 3 · 7–12 Dec · Capture forecloses questions
+
+| Day | Mode | Target | Output |
+|---|---|---|---|
+| Mon | M | Triage Flowcept docs and OTel GenAI conventions | 3 claims on what is captured |
+| Tue | M | Contradiction: more telemetry versus less legibility | Contradiction id |
+| Wed | M | Poem: *schema, record, omission*; refrain "what did the schema not ask" | Draft v3 |
+| Thu | B | First walk mix: full band, chaptered, −16 LUFS | Walk mix + drift mix |
+| Fri | M | Walk with it; record whatever you say aloud within 20 seconds | Voice note, transcribed locally |
+| Sat | M | Write the three questions your trace cannot answer | Journal + ledger row |
+
+## Week 4 · 14–19 Dec · Reconstruction is not explanation
+
+| Day | Mode | Target | Output |
+|---|---|---|---|
+| Mon | M | Triage Flowcept query docs and survey §3 | 3 claims on traversal |
+| Tue | M | Contradiction: "root cause found" versus "first anomaly located" | Contradiction id |
+| Wed | M | Poem: *ancestor, descendant, first failure*; refrain "where did it start, and does that matter" | Draft v4 |
+| Thu | B | Record the 30-second ritual once; splice it into the front of every tape from now on | Ritual stem + 20-minute drift mix |
+| Fri | M | Listen with one earbud at low volume; does the mono mix hold? | 3 lines |
+| Sat | M | Write the paragraph distinguishing the chain from the explanation | Journal + ledger row |
+
+## Week 5 · 21–26 Dec · The evidence gap
+
+| Day | Mode | Target | Output |
+|---|---|---|---|
+| Mon | M | Triage survey §§5–6 and PROV-AGENT §7 | 3 claims on silences |
+| Tue | M | Contradiction: accountability versus unfalsifiability | Contradiction id |
+| Wed | M | Poem: *semantic taint, invalidation, responsibility*; refrain "who accepted this, and on what" | Draft v5 |
+| Thu | B | Holiday week: no new music, reuse bed 1; re-render only the verses | 20-minute drift mix |
+| Fri | M | Listen in a different room; note what changes | 3 lines |
+| Sat | M | Run the audit checklist against your week-1 trace | Checklist results + ledger row |
+
+## Week 6 · 28 Dec–2 Jan · Partially known graphs
+
+| Day | Mode | Target | Output |
+|---|---|---|---|
+| Mon | M | Triage *Crash Course* and the Pearl companion | 3 claims on DAG reading |
+| Tue | M | Contradiction: the provenance graph *is* the DAG versus the DAG is assumptions | Contradiction id |
+| Wed | M | Poem: *chain, fork, collider*; refrain "what did you condition on" | Draft v6 |
+| Thu | B | Analyst asks only collider questions this week | 20-minute drift mix |
+| Fri | M | Listen for the moment you start solving instead of hearing | 3 lines |
+| Sat | M | One DAG with observed edges coloured differently from assumed | Diagram + ledger row |
+
+## Week 7 · 4–9 Jan · Adjustment
+
+| Day | Mode | Target | Output |
+|---|---|---|---|
+| Mon | M | Triage *What If* Part I and dagitty's adjustment feature | 3 claims on identification |
+| Tue | M | Contradiction: defensible on the graph versus indefensible in the agent | Contradiction id |
+| Wed | M | Poem: *back-door, adjustment, unmeasured*; refrain "what is still open" | Draft v7 |
+| Thu | B | Enforce no-new-information after the halfway mark, and time it | 22-minute drift mix |
+| Fri | M | Listen and mark the exact timestamp where you lost the thread | 3 lines with timestamps |
+| Sat | M | Adjustment set plus the sentence naming the unmeasured confounder | Journal + ledger row |
+
+## Week 8 · 11–16 Jan · Counterfactuals about runs
+
+| Day | Mode | Target | Output |
+|---|---|---|---|
+| Mon | M | Triage *What If* counterfactual chapters and DoWhy | 3 claims on the three steps |
+| Tue | M | Contradiction: what the tool would have returned versus how the model would have responded | Contradiction id |
+| Wed | M | Poem: *abduction, action, prediction*; refrain "in the world where it went otherwise" | Draft v8 |
+| Thu | B | Your voice on the refrain, TTS on the verses; mix them | 22-minute drift mix |
+| Fri | M | Listen for the prosody clash between the two voices | 3 lines |
+| Sat | M | Counterfactual question with assumptions split testable / untestable | Journal + ledger row |
+
+## Week 9 · 18–23 Jan · Bounds
+
+| Day | Mode | Target | Output |
+|---|---|---|---|
+| Mon | M | Triage causaloptim and the *What If* identification framing | 3 claims on bounds |
+| Tue | M | Contradiction: a point estimate is useful versus a bound is true | Contradiction id |
+| Wed | M | Poem: *bounds, width, monotonicity*; refrain "how much can the data not rule out" | Draft v9 |
+| Thu | B | Put numbers in the poem, unrounded and unhedged | 22-minute drift mix |
+| Fri | M | Listen; do the numbers survive audio, or do they become decoration? | 3 lines |
+| Sat | M | Bounds reported beside the naive estimate, with the gap explained | Journal + ledger row |
+
+## Week 10 · 25–30 Jan · The causal audit
+
+| Day | Mode | Target | Output |
+|---|---|---|---|
+| Mon | M | Triage PROV-AGENT in full and the survey's conclusion | 5 candidate overclaims with section refs |
+| Tue | M | Contradiction: the paper's causal language versus its evidence | Contradiction id |
+| Wed | M | Poem: *audit, licence, overclaim*; refrain "what does this evidence permit" | Draft v10 |
+| Thu | B | Cut a verse to fit 25 minutes; tighter is the point | 25-minute drift mix |
+| Fri | M | Listen as an adversary, not a listener | 3 objections |
+| Sat | M | One page of instances with section references | Journal + ledger row |
+
+## Week 11 · 1–6 Feb · Memory, attribution, responsibility
+
+| Day | Mode | Target | Output |
+|---|---|---|---|
+| Mon | M | Triage the survey's memory and multi-agent sections | 3 claims on attribution |
+| Tue | M | Contradiction: responsibility as lookup versus as counterfactual | Contradiction id |
+| Wed | M | Poem: *memory, poison, attribution*; refrain "who would have stopped it" | Draft v11 |
+| Thu | B | The questioner becomes the accused; same voice, different role | 25-minute drift mix |
+| Fri | M | Listen for blame framing you did not intend | 3 lines |
+| Sat | M | One attribution claim plus the sentence showing it is causal | Journal + ledger row |
+
+## Week 12 · 8–13 Feb · Designing a study
+
+| Day | Mode | Target | Output |
+|---|---|---|---|
+| Mon | M | Triage *What If* target-trial framing; second pass on *Crash Course* | 3 claims on estimands |
+| Tue | M | Contradiction: estimand-first versus data-first | Contradiction id |
+| Wed | M | Poem: *estimand, intervention, sensitivity*; refrain "what would have to be true" | Draft v12 |
+| Thu | B | Build the walk mix first; derive the drift mix from it | 25-minute walk mix |
+| Fri | M | Walk and record one design idea you did not have at the desk | Voice note |
+| Sat | M | Two-page design, defended aloud in five minutes | Journal + ledger row |
+
+## Week 13 · 15–20 Feb · Instrumentation clinic
+
+| Day | Mode | Target | Output |
+|---|---|---|---|
+| Mon | M | Triage Flowcept adapters and OTel conventions again | 3 claims on completeness |
+| Tue | M | Contradiction: completeness versus maintenance cost | Contradiction id |
+| Wed | M | Poem: *linkage, buffer, blob*; refrain "what did we fail to record" | Draft v13 |
+| Thu | B | Re-render a week-4 poem with this week's understanding | Two versions, A/B ready |
+| Fri | M | Listen blind: which version is better, and why | 3 lines |
+| Sat | M | Run the completeness checklist; file the gaps | Journal + ledger row |
+
+## Week 14 · 22–27 Feb · Analysis clinic
+
+| Day | Mode | Target | Output |
+|---|---|---|---|
+| Mon | M | Triage dagitty examples and DoWhy's refutation section | 3 claims on robustness |
+| Tue | M | Contradiction: robust estimate versus self-chosen refutation tests | Contradiction id |
+| Wed | M | Poem: *placebo, subset, robustness*; refrain "what would break this" | Draft v14 |
+| Thu | B | Strip the bed to a single drone; let the poem carry alone | 25-minute sparse mix |
+| Fri | M | Listen: does it survive without the music? | 3 lines |
+| Sat | M | Answer someone else's three questions in writing | Peer note + ledger row |
+
+## Week 15 · 1–6 Mar · Synthesis
+
+| Day | Mode | Target | Output |
+|---|---|---|---|
+| Mon | M | Re-read week-1 notes; list every claim you would now retract | Retraction list |
+| Tue | M | Contradiction: when reconstruction suffices versus when identification is required | The decision tree, first draft |
+| Wed | M | Assemble one poem from the refrains of weeks 1–14 | Draft v15 |
+| Thu | B | Render the quarter's synthesis: 30 minutes, both mixes | Final tapes + index |
+| Fri | M | Listen end to end; mark the retractions you can hear | 3 lines + timestamps |
+| Sat | M | Journal, decision tree, answers to the 25 quarterly questions | Phase-1 retro + `ASSUMPTIONS.md` |
+
+---
+
+## When a week goes wrong
+
+- **Missed Wednesday?** Write the poem Thursday morning; render Thursday evening. Never skip the poem to save the render.
+- **Missed Thursday?** Ship the drift mix with the previous week's bed and note it. The tape is a state refresh, not a deliverable to a client.
+- **Two missed weeks?** Do not compress. Repeat the most recent week's theme with the *next* week's reading and reset the cadence.
+- **Everything missed?** Keep Monday and Saturday only: triage one source, write one ledger row. The rhythm survives on two days; it does not survive on zero.
+
+
+---
+
+# Causal.Engineering mdBook skeleton: the notebook as an mdBook
+
+The notebook is the artefact; the tapes are renderings; the book is the longest rendering. This file fixes the structure **before** the content arrives, so that fifteen weeks of poems land in chapters rather than in a pile.
+
+Two outputs share this skeleton: the written notebook (Part 0–IV, appendices) and the Phase-3 audio synthesis (eight episodes, ≤ 4 hours total). The audio is a compression of the notebook, never a parallel project.
+
+---
+
+## Part 0 — Method (chapter 0)
+
+**The chapter that makes the rest forkable.** How the corpus is captured, how claims are recorded, what the gates enforce, what is derived from what, and what was deliberately not automated.
+
+| Claims | Contradiction | Feeds | Falsified by |
+|---|---|---|---|
+| 8 | "A living notebook needs tooling" vs "tooling is where notebooks go to die" | Everything; each tape's liner notes | A month where the tooling consumed more time than the reading |
+
+Written last, published first: readers need the method before the findings.
+
+---
+
+## Part I — Measurement: what a trace can carry (chapters 1–4)
+
+| Ch | Title | Claims | Contradiction slot | Tapes that feed it |
+|---|---|---|---|---|
+| 1 | The seam: provenance is not identification | 10 | The field treats them as one pipeline | W1, W2 |
+| 2 | Capture is a decision: schemas, omission, and the questions you lose | 12 | More telemetry vs less legibility | W3, W13 |
+| 3 | `wasInformedBy` and the arrow that looks causal | 10 | Accountability vs causation | W2, W10 |
+| 4 | Reconstruction, semantic taint, and the limits of traversal | 14 | Root cause vs first anomaly | W4, W5 |
+
+**The bet this Part makes:** the interesting content is not "here is Flowcept" but "here is what any capture schema forecloses". A chapter that could be written by reading a README is not a chapter.
+
+---
+
+## Part II — Identification at agent scale (chapters 5–9)
+
+| Ch | Title | Claims | Contradiction slot | Tapes that feed it |
+|---|---|---|---|---|
+| 5 | DAGs you did not fully observe | 14 | Provenance gives the graph vs the graph is assumptions | W6 |
+| 6 | Adjustment when context is unmeasured | 16 | Defensible on the graph vs indefensible in the agent | W7 |
+| 7 | Counterfactuals about runs that happened once | 14 | Intervention on a tool vs functional form of a model | W8 |
+| 8 | Bounds as the default posture | 12 | Point estimate vs partial identification | W9 |
+| 9 | Mediation, tools, and the front door | 12 | Reasoning steps as mediators vs as confounders | W7, W8 |
+
+**The bet this Part makes:** agent systems make identification *harder*, not easier, because the treatment is a prompt and the confounder is the whole context window. Chapters that assume a clean treatment are wrong.
+
+---
+
+## Part III — Automation, attribution, and cost (chapters 10–13)
+
+| Ch | Title | Claims | Contradiction slot | Tapes that feed it |
+|---|---|---|---|---|
+| 10 | Agents doing the causal workflow: DAG proposal, refutation, sensitivity | 16 | Automation increases throughput vs it launders assumptions | W12, W14 |
+| 11 | Attribution and responsibility in multi-agent systems | 14 | Lookup vs counterfactual | W11 |
+| 12 | Memory as a causal system: poisoning, invalidation, and stale beliefs | 12 | Memory is state vs memory is evidence | W11 |
+| 13 | The economics of measurement: what to capture, what it costs | 10 | Completeness vs maintenance liability | W13 |
+
+**The bet this Part makes:** the operational questions (who pays, who is responsible, what is too expensive to know) will matter more than the algorithmic ones within two years.
+
+---
+
+## Part IV — Evaluation and the honesty layer (chapters 14–16)
+
+| Ch | Title | Claims | Contradiction slot | Tapes that feed it |
+|---|---|---|---|---|
+| 14 | Benchmarks are associational: the field's default causal error | 12 | "Model X improves reasoning" vs what the eval licenses | W10 |
+| 15 | The verifier: assumption ledgers, adversarial review, provenance receipts | 14 | Trust the artefact vs trust the audit trail | W10, W14 |
+| 16 | A decision tree, and dated predictions | 8 | When reconstruction suffices vs when identification is required | W15 |
+
+**The bet this Part makes:** the field's bottleneck is auditability, and auditability is a documentable practice, not a tool.
+
+---
+
+## Appendices
+
+| Appendix | Contents | Generated from |
+|---|---|---|
+| A | Contradiction map: every live tension, its two sides, its status | `claims/contradictions.jsonl` |
+| B | Assumption ledger, with testability verdicts | `ASSUMPTIONS.md` |
+| C | Source ledger: citekey, hash, date, licence, where cited | `corpus/index.jsonl` |
+| D | Tape index: poem, mixes, durations, versions, re-listen counts | `tapes/index.jsonl` |
+| E | The 42 unfashionable questions (from the quarterly reviews) | journal entries |
+
+Appendices are generated, never hand-maintained. If an appendix has to be typed, the schema is missing a field.
+
+---
+
+## Phase 3: the eight-episode audio synthesis
+
+Each episode is 25–30 minutes, assembled from two notebook chapters and two tapes, then **rewritten** for the ear — not concatenated.
+
+| Ep | Title | Notebook source | Tapes reused | Runtime |
+|---|---|---|---|---|
+| 1 | The seam | Ch 0–1 | W1, W2 | 28 min |
+| 2 | What capture decides | Ch 2–3 | W3, W13 | 26 min |
+| 3 | The arrow | Ch 4 | W4, W5 | 25 min |
+| 4 | Graphs you did not see | Ch 5–6 | W6, W7 | 30 min |
+| 5 | Worlds that did not happen | Ch 7–8 | W8, W9 | 30 min |
+| 6 | Who did it | Ch 10–12 | W11 | 28 min |
+| 7 | The associational default | Ch 14 | W10 | 25 min |
+| 8 | The verifier | Ch 15–16 | W14, W15 | 30 min |
+
+Total ≤ 4 hours, which is the constraint: an audiobook you will re-listen to must be shorter than one you will abandon.
+
+---
+
+## Rules that keep the skeleton honest
+
+1. **One claim per paragraph of consequence.** If a paragraph carries three claims, one of them is decoration.
+2. **Every chapter names its contradiction.** A chapter with no tension is a summary and belongs in the appendix.
+3. **Every number is marked measured or estimated**, with the method in a footnote. This applies to latency, cost, and accuracy alike.
+4. **No chapter without a tape.** If a chapter has no audio rendering, it has not been compressed, and therefore not understood.
+5. **Chapters 1–16 are a claim about the field, not a survey of it.** Frameworks are cited as evidence, never enumerated.
+
+## What this book deliberately does not contain
+
+A taxonomy of agent frameworks. A benchmark table. A "getting started with Flowcept" tutorial. A prediction about AGI. Each of those would date the book within a year, and the point of the structure is that it can be revised weekly without being rewritten.
+
+---
+
+# Content model: records, files, gates
+
+Eight record types, one folder, six gates. Get these right in week 1 and the rest of the project is typing; get them wrong and every new source becomes a reorganisation.
+
+The governing rule: **text is the source of truth, audio is derived.** Anything that exists only as a `.wav` cannot be checked, forked, or revised.
+
+---
+
+## Folder layout
+
+```
+causal-engineering/
+├── corpus/
+│   ├── <sha256>.html|pdf|txt      # captured bytes, content-addressed
+│   └── index.jsonl                # one source record per line
+├── claims/
+│   ├── claims.jsonl               # one claim per line
+│   ├── contradictions.jsonl       # one contradiction per line
+│   └── sources.yml                # citekey -> human-readable metadata
+├── ASSUMPTIONS.md                 # the ledger (hand-written, append-only)
+├── poems/
+│   └── YYYY-MM-DD-slug.md         # front matter + stanzas
+├── tapes/
+│   └── index.jsonl                # one tape per line, with mixes
+├── journal/
+│   └── YYYY-MM-DD.md              # the checkpoint, one per week
+├── listening/
+│   └── log.jsonl                  # one line per play
+└── render/
+    ├── presets/                   # drift.rpp, walk.rpp, loudnorm targets
+    └── voices.yml                 # the voice bible
+```
+
+---
+
+## 1. Source record (`corpus/index.jsonl`)
+
+```json
+{"citekey":"prov-agent-2025","url":"https://arxiv.org/abs/2508.02866","sha256":"3f9c…","fetched_at":"2026-11-23T18:04:11Z","content_type":"application/pdf","licence":"arXiv-default","etag":null,"last_modified":null,"path":"corpus/3f9c….pdf"}
+```
+
+| Field | Why it must exist |
+|---|---|
+| `citekey` | The only identifier used in prose; stable and typable |
+| `sha256` | Proves the bytes you cite are the bytes you have |
+| `fetched_at` | Every claim inherits this date; undated claims are rumours |
+| `licence` | Decides how much you may quote in a poem or a book chapter |
+| `etag`/`last_modified` | Lets the staleness check avoid re-downloading |
+
+## 2. Claim record (`claims/claims.jsonl`)
+
+```json
+{"id":"claim-0042","statement":"PROV-AGENT adds agent-centric entities to W3C PROV.","strength":"asserted","sources":[{"citekey":"prov-agent-2025","span":"§3"}],"workstream":"W2","status":"reviewed","updated":"2026-11-24"}
+```
+
+`strength` is the controlled vocabulary that keeps the project honest:
+
+| Value | Means | Audio consequence |
+|---|---|---|
+| `asserted` | the source says it directly | read plainly |
+| `hedged` | the source supports a weaker version | the hedge is spoken aloud |
+| `contested` | credible sources disagree | two voices, or a contradiction id |
+| `estimated` | derived from stated assumptions | the assumption is named |
+
+## 3. Contradiction record (`claims/contradictions.jsonl`)
+
+```json
+{"id":"contra-0007","claim_a":"claim-0042","claim_b":"claim-0061","side_a":"PROV-AGENT makes agent runs accountable.","side_b":"PROV-AGENT records only what its schema anticipated.","status":"live","opened":"2026-11-25","resolved_by":null}
+```
+
+Status is one of `live`, `parked`, `resolved`, `dissolved` (the disagreement was verbal, not substantive). A contradiction may be parked for at most one quarter; the quarterly review asks why.
+
+## 4. Assumption ledger (`ASSUMPTIONS.md`)
+
+Hand-written prose, one row per assumption, append-only. Not JSON, because it is the one artefact you should read as a document.
+
+| Assumption | Where it enters | Testable? | Falsifier |
+|---|---|---|---|
+| Prompt context is the dominant confounder | W7 adjustment | partly | a run holding context fixed where the effect persists |
+| Anomaly is detectable from output alone | W4 queries | no | a silent failure that scores well |
+
+## 5. Poem (`poems/YYYY-MM-DD-slug.md`)
+
+```markdown
+---
+date: 2026-11-25
+title: the arrow points both ways
+workstream: W2
+refrain: the arrow points both ways
+anchors: [entity, activity, informed-by, inference]
+claims: [claim-0042, claim-0061, claim-0063]
+contradiction: contra-0007
+version: 1
+---
+
+stanza 1 …
+```
+
+The front matter is what makes the poem auditable: `anchors` must resolve to claim ids, `claims` must exist, `contradiction` must be `live` at time of writing.
+
+## 6. Tape record (`tapes/index.jsonl`)
+
+```json
+{"id":"tape-0012","poem":"poems/2026-11-25-the-arrow.md","bed":"bed-1","voices":["narrator","analyst"],"mixes":[{"kind":"drift","path":"render/2026-11-25-drift-v1.m4a","minutes":20.0,"lufs":-20.1},{"kind":"walk","path":"render/2026-11-25-walk-v1.m4a","minutes":20.0,"lufs":-16.2}],"rendered_at":"2026-11-26T16:40:00Z","notes":"analyst too close in the mix"}
+```
+
+## 7. Listening record (`listening/log.jsonl`)
+
+```json
+{"date":"2026-11-27","tape":"tape-0012","mix":"drift","state":"drift","completed":true,"note":"heard the collider question as an accusation"}
+```
+
+One line per play. This is the only evidence that the medium works, and the only input to the quarterly question "which tape do I actually return to".
+
+## 8. Journal entry (`journal/YYYY-MM-DD.md`)
+
+The checkpoint. If it is missing, the week did not happen, whatever the audio says. Template in `STRATEGIC-BACKGROUNDER.md` Appendix B.
+
+---
+
+## Gates (`make check`)
+
+| # | Gate | Fails when |
+|---|---|---|
+| G1 | Anchor resolution | a poem `anchor` has no matching claim id |
+| G2 | Source integrity | a claim cites a citekey with no corpus file, or the hash does not match |
+| G3 | Contradiction shape | a contradiction references the same claim twice, or has no `side_a`/`side_b` |
+| G4 | Tape references | a tape cites a poem that does not exist, or a mix path that is not on disk |
+| G5 | Journal completeness | a week has a tape but no journal entry |
+| G6 | Duration and level | a drift mix exceeds 35 minutes, or its measured loudness is more than 1 LU from −20 |
+| G7 | Refrain | the `refrain` field does not end with `?` |
+
+G1–G5 fail the build. G6 and G7 warn, because they are judgements a human should see before the render is discarded — but the warnings are read every Saturday, not ignored.
+
+**Not a gate, but a rule enforced by review:** an `asserted` claim may not be built from a `contested` one without a new source. That is a judgement, and the review ledger is where it is recorded.
+
+---
+
+## Adding a source: the six-step recipe
+
+1. Capture the bytes; compute the sha256; append the source record.
+2. Read the section you need; write 3–8 candidate claims with spans.
+3. Mark each claim's `strength` before you check it — first instinct is data.
+4. Look for a contradiction against an existing claim; if none, say so in the journal.
+5. Update `sources.yml` with the human-readable entry.
+6. Run `make check`; fix the first failure only, then rerun.
+
+If step 4 produces nothing for three sources in a row, the reading list has drifted toward agreement. That is a strategy problem, not a data problem — see `STRATEGIC-BACKGROUNDER.md` §11.
+
+---
+
+## Invariants worth defending
+
+- **One canonical folder per project.** Copies with different names are how the ledger and the poems drift apart.
+- **Append-only ledgers.** Edits create new records; nothing is silently overwritten.
+- **Audio never becomes the source of truth.** If a fact exists only in a tape, it is not a fact yet.
+- **Every file has one owner.** `claims.jsonl` is written by the triage step, `tapes/index.jsonl` by the render step; nothing writes both.
+
 # [2026-11-23](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-11-23.md) ... Provenance and Causal Engineering for Agentic Systems
 
 15 weeks · 3 h reading worksession + 2 h lab per week · plus one 60-minute study hour, Mon–Sat, 09:30**
